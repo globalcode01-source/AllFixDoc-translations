@@ -4,7 +4,7 @@ G = {
     "sections": [
         ("البدء", [
             "لفتح مستند، المس **{home_open_pdf}** في شاشة {nav_home}، أو المس ملف PDF في تطبيق آخر (الملفات، Gmail، WhatsApp) واختر AllFixDoc.",
-            "في أعلى شاشة {nav_home} ثلاثة أزرار كبيرة: **{tool_scan}** و**{tool_voice_notes}** وGoogle Drive. ويبدأ الصف الذي تحتها بأدواتك المفضلة، ثم **{home_other_clouds}** و**{home_device}**؛ اسحبه لرؤيتها جميعًا.",
+            "في أعلى شاشة {nav_home} أربعة أزرار كبيرة: **{tool_scan}** و**{tool_voice_notes}** و**{home_present}** وGoogle Drive. ويبدأ الصف الذي تحتها بأدواتك المفضلة، ثم **{home_other_clouds}** و**{home_device}**؛ اسحبه لرؤيتها جميعًا.",
             "**{home_other_clouds}**: OneDrive وDropbox وiCloud Drive وBox وMEGA وغيرها. تظهر تطبيقات السحابة المثبتة على هاتفك في منتقي الملفات: افتح الملفات منها واحفظ فيها ملفات PDF المعدّلة.",
             "تُفتح أيضًا ملفات Word وExcel وPowerPoint وOpenDocument وRTF وCSV وTXT، وتُحوَّل إلى PDF للقراءة.",
             "تُفتح مستندات UYAP (UDF) للقراءة فقط: التحرير والنسخ والمشاركة والطباعة والعرض ولقطات الشاشة معطّلة؛ ويمكنك القراءة والبحث ووضع الإشارات المرجعية والاستماع.",

@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "Les documents UYAP (UDF) sont en lecture seule : modification, copie, partage, impression et captures d'écran sont désactivés.",
     "viewer_read_only_label": "Lecture seule",
     "udf_read_only_tool": "Les documents UYAP (UDF) sont en lecture seule : ils ne peuvent être ni convertis, ni copiés, ni partagés.",
+    "home_present": "Présenter",
     "menu_read_aloud": "Lire à voix haute",
     "menu_ai": "Assistant IA",
     "menu_ocr": "Reconnaître le texte (OCR)",

@@ -302,6 +302,7 @@ S = {
     "viewer_read_only": ("UYAP (UDF) documents are read-only: editing, copying, sharing, printing and screenshots are turned off.", "UYAP (UDF) belgeleri yalnızca okunur: düzenleme, kopyalama, paylaşma, yazdırma ve ekran görüntüsü kapalı."),
     "viewer_read_only_label": ("Read-only", "Yalnızca okunur"),
     "udf_read_only_tool": ("UYAP (UDF) documents are read-only: they can't be converted, copied or shared.", "UYAP (UDF) belgeleri yalnızca okunur: dönüştürülemez, kopyalanamaz, paylaşılamaz."),
+    "home_present": ("Present", "Sunum"),
     "menu_read_aloud": ("Read aloud", "Sesli oku"),
     "menu_ai": ("AI assistant", "AI asistan"),
     "menu_ocr": ("Recognize text (OCR)", "Metni tanı (OCR)"),

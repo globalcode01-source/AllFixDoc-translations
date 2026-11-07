@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "UYAP（UDF）文書は閲覧専用です。編集、コピー、共有、印刷、スクリーンショットはできません。",
     "viewer_read_only_label": "閲覧専用",
     "udf_read_only_tool": "UYAP（UDF）文書は閲覧専用のため、変換・コピー・共有はできません。",
+    "home_present": "プレゼン",
     "menu_read_aloud": "読み上げ",
     "menu_ai": "AIアシスタント",
     "menu_ocr": "文字認識（OCR）",

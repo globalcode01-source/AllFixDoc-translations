@@ -4,7 +4,7 @@ G = {
     "sections": [
         ("Primeiros passos", [
             "Para abrir um documento, toque em **{home_open_pdf}** na tela {nav_home} ou toque em um PDF em outro app (Arquivos, Gmail, WhatsApp) e escolha o AllFixDoc.",
-            "No topo de {nav_home} há três botões grandes: **{tool_scan}**, **{tool_voice_notes}** e Google Drive. A linha de baixo começa com suas ferramentas favoritas, seguidas de **{home_other_clouds}** e **{home_device}**; deslize para a esquerda para ver todas.",
+            "No topo de {nav_home} há quatro botões grandes: **{tool_scan}**, **{tool_voice_notes}**, **{home_present}** e Google Drive. A linha de baixo começa com suas ferramentas favoritas, seguidas de **{home_other_clouds}** e **{home_device}**; deslize para a esquerda para ver todas.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA e outros. Os apps de nuvem instalados no celular aparecem no seletor de arquivos: abra os arquivos por lá e salve lá os PDFs editados.",
             "Arquivos do Word, Excel, PowerPoint, OpenDocument, RTF, CSV e TXT também abrem; eles são convertidos em PDF para leitura.",
             "Documentos UYAP (UDF) abrem somente para leitura: edição, cópia, compartilhamento, impressão, apresentação e capturas de tela ficam desativados; você pode ler, buscar, marcar e ouvir.",

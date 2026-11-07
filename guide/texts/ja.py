@@ -4,7 +4,7 @@ G = {
     "sections": [
         ("はじめに", [
             "文書を開くには {nav_home} 画面の **{home_open_pdf}** をタップするか、ほかのアプリ（ファイル、Gmail、WhatsApp）で PDF をタップして AllFixDoc を選びます。",
-            "{nav_home} の上部には **{tool_scan}**、**{tool_voice_notes}**、Google Drive の 3 つの大きなボタンがあります。その下の行にはお気に入りのツール、続いて **{home_other_clouds}** と **{home_device}** が並び、左にスワイプするとすべて表示されます。",
+            "{nav_home} の上部には **{tool_scan}**、**{tool_voice_notes}**、**{home_present}**、Google Drive の 4 つの大きなボタンがあります。その下の行にはお気に入りのツール、続いて **{home_other_clouds}** と **{home_device}** が並び、左にスワイプするとすべて表示されます。",
             "**{home_other_clouds}**：OneDrive、Dropbox、iCloud Drive、Box、MEGA など。端末にインストールしたクラウドアプリはファイル選択画面に表示され、そこからファイルを開いたり、編集した PDF を保存したりできます。",
             "Word、Excel、PowerPoint、OpenDocument、RTF、CSV、TXT ファイルも開けます。閲覧用に自動で PDF に変換されます。",
             "UYAP（UDF）文書は閲覧専用で開きます。編集、コピー、共有、印刷、プレゼン、スクリーンショットはできませんが、閲覧、検索、ブックマーク、読み上げは使えます。",

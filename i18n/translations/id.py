@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "Dokumen UYAP (UDF) hanya bisa dibaca: edit, salin, bagikan, cetak, dan tangkapan layar dinonaktifkan.",
     "viewer_read_only_label": "Hanya baca",
     "udf_read_only_tool": "Dokumen UYAP (UDF) hanya bisa dibaca: tidak bisa dikonversi, disalin, atau dibagikan.",
+    "home_present": "Presentasi",
     "menu_read_aloud": "Bacakan",
     "menu_ai": "Asisten AI",
     "menu_ocr": "Kenali teks (OCR)",

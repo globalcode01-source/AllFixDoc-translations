@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "UYAP-Dokumente (UDF) sind schreibgeschützt: Bearbeiten, Kopieren, Teilen, Drucken und Screenshots sind deaktiviert.",
     "viewer_read_only_label": "Schreibgeschützt",
     "udf_read_only_tool": "UYAP-Dokumente (UDF) sind schreibgeschützt und können nicht umgewandelt, kopiert oder geteilt werden.",
+    "home_present": "Präsentieren",
     "menu_read_aloud": "Vorlesen",
     "menu_ai": "KI-Assistent",
     "menu_ocr": "Text erkennen (OCR)",

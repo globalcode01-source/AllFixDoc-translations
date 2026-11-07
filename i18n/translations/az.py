@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "UYAP (UDF) sənədləri yalnız oxunur: redaktə, kopyalama, paylaşma, çap və ekran görüntüsü bağlıdır.",
     "viewer_read_only_label": "Yalnız oxunur",
     "udf_read_only_tool": "UYAP (UDF) sənədləri yalnız oxunur: çevrilə, kopyalana və paylaşıla bilməz.",
+    "home_present": "Təqdimat",
     "menu_read_aloud": "Səsli oxu",
     "menu_ai": "Süni intellekt köməkçisi",
     "menu_ocr": "Mətni tanı (OCR)",

@@ -272,6 +272,7 @@ T = {
     "viewer_read_only": "UYAP（UDF）文档为只读：编辑、复制、分享、打印和截屏均已关闭。",
     "viewer_read_only_label": "只读",
     "udf_read_only_tool": "UYAP（UDF）文档为只读，无法转换、复制或分享。",
+    "home_present": "演示",
     "menu_read_aloud": "朗读",
     "menu_ai": "AI 助手",
     "menu_ocr": "识别文字（OCR）",

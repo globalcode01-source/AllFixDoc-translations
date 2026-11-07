@@ -4,7 +4,7 @@ G = {
     "sections": [
         ("Memulai", [
             "Untuk membuka dokumen, ketuk **{home_open_pdf}** di layar {nav_home}, atau ketuk PDF di aplikasi lain (File, Gmail, WhatsApp) lalu pilih AllFixDoc.",
-            "Di bagian atas {nav_home} ada tiga tombol besar: **{tool_scan}**, **{tool_voice_notes}**, dan Google Drive. Baris di bawahnya diawali alat favorit Anda, lalu **{home_other_clouds}** dan **{home_device}**; geser ke kiri untuk melihat semuanya.",
+            "Di bagian atas {nav_home} ada empat tombol besar: **{tool_scan}**, **{tool_voice_notes}**, **{home_present}**, dan Google Drive. Baris di bawahnya diawali alat favorit Anda, lalu **{home_other_clouds}** dan **{home_device}**; geser ke kiri untuk melihat semuanya.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA, dan lainnya. Aplikasi cloud yang terpasang di ponsel muncul di pemilih file: buka file dari sana dan simpan PDF yang diedit ke sana.",
             "File Word, Excel, PowerPoint, OpenDocument, RTF, CSV, dan TXT juga bisa dibuka; file dikonversi ke PDF untuk dibaca.",
             "Dokumen UYAP (UDF) dibuka hanya-baca: edit, salin, bagikan, cetak, presentasi, dan tangkapan layar dinonaktifkan; Anda tetap bisa membaca, mencari, menandai, dan mendengarkan.",

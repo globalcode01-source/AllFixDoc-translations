@@ -4,7 +4,7 @@ G = {
     "sections": [
         ("Başlanğıc", [
             "Sənəd açmaq üçün {nav_home} ekranındakı **{home_open_pdf}** düyməsinə toxunun və ya başqa tətbiqdə (Fayllar, Gmail, WhatsApp) PDF-ə toxunub AllFixDoc-u seçin.",
-            "{nav_home} ekranının yuxarısında üç böyük düymə var: **{tool_scan}**, **{tool_voice_notes}** və Google Drive. Altındakı sətirdə əvvəlcə sevimli alətləriniz, sonra **{home_other_clouds}** və **{home_device}** var; hamısını görmək üçün sətri sola sürüşdürün.",
+            "{nav_home} ekranının yuxarısında dörd böyük düymə var: **{tool_scan}**, **{tool_voice_notes}**, **{home_present}** və Google Drive. Altındakı sətirdə əvvəlcə sevimli alətləriniz, sonra **{home_other_clouds}** və **{home_device}** var; hamısını görmək üçün sətri sola sürüşdürün.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA və digərləri. Telefonunuzda quraşdırılmış bulud tətbiqləri fayl seçicidə görünür: faylı oradan açın, redaktə etdiyiniz PDF-i ora saxlayın.",
             "Word, Excel, PowerPoint, OpenDocument, RTF, CSV və TXT faylları da açılır; oxumaq üçün avtomatik PDF-ə çevrilir.",
             "UYAP (UDF) sənədləri yalnız oxunmaq üçün açılır: redaktə, kopyalama, paylaşma, çap, təqdimat və ekran görüntüsü bağlıdır; oxuya, axtara, əlfəcin qoya və səsli dinləyə bilərsiniz.",
