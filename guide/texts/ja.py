@@ -7,6 +7,7 @@ G = {
             "{nav_home} の上部には **{tool_scan}**、**{tool_voice_notes}**、Google Drive の 3 つの大きなボタンがあります。その下の行にはお気に入りのツール、続いて **{home_other_clouds}** と **{home_device}** が並び、左にスワイプするとすべて表示されます。",
             "**{home_other_clouds}**：OneDrive、Dropbox、iCloud Drive、Box、MEGA など。端末にインストールしたクラウドアプリはファイル選択画面に表示され、そこからファイルを開いたり、編集した PDF を保存したりできます。",
             "Word、Excel、PowerPoint、OpenDocument、RTF、CSV、TXT ファイルも開けます。閲覧用に自動で PDF に変換されます。",
+            "UYAP（UDF）文書は閲覧専用で開きます。編集、コピー、共有、印刷、プレゼン、スクリーンショットはできませんが、閲覧、検索、ブックマーク、読み上げは使えます。",
             "よく使うフォルダは {nav_files} › {files_folders} › **{files_add_folder}** で追加でき、中の PDF が 1 つのリストに表示されます。",
             "PDF を常に AllFixDoc で開くには：{settings_title} › **{default_section}**。",
         ]),

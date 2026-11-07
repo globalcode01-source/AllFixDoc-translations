@@ -7,6 +7,7 @@ G = {
             "في أعلى شاشة {nav_home} ثلاثة أزرار كبيرة: **{tool_scan}** و**{tool_voice_notes}** وGoogle Drive. ويبدأ الصف الذي تحتها بأدواتك المفضلة، ثم **{home_other_clouds}** و**{home_device}**؛ اسحبه لرؤيتها جميعًا.",
             "**{home_other_clouds}**: OneDrive وDropbox وiCloud Drive وBox وMEGA وغيرها. تظهر تطبيقات السحابة المثبتة على هاتفك في منتقي الملفات: افتح الملفات منها واحفظ فيها ملفات PDF المعدّلة.",
             "تُفتح أيضًا ملفات Word وExcel وPowerPoint وOpenDocument وRTF وCSV وTXT، وتُحوَّل إلى PDF للقراءة.",
+            "تُفتح مستندات UYAP (UDF) للقراءة فقط: التحرير والنسخ والمشاركة والطباعة والعرض ولقطات الشاشة معطّلة؛ ويمكنك القراءة والبحث ووضع الإشارات المرجعية والاستماع.",
             "أضف المجلدات التي تستخدمها كثيرًا من {nav_files} › {files_folders} › **{files_add_folder}**؛ تظهر ملفات PDF فيها في قائمة واحدة.",
             "لفتح ملفات PDF دائمًا باستخدام AllFixDoc: {settings_title} › **{default_section}**.",
         ]),

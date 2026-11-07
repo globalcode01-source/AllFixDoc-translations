@@ -7,6 +7,7 @@ G = {
             "{nav_home} 顶部有三个大按钮：**{tool_scan}**、**{tool_voice_notes}** 和 Google Drive。下面一行先是你收藏的工具，然后是 **{home_other_clouds}** 和 **{home_device}**；向左滑动即可查看全部。",
             "**{home_other_clouds}**：OneDrive、Dropbox、iCloud Drive、Box、MEGA 等。手机上安装的云盘应用会出现在文件选择器中：从那里打开文件，也可把编辑后的 PDF 保存回去。",
             "也可以打开 Word、Excel、PowerPoint、OpenDocument、RTF、CSV 和 TXT 文件，阅读时会自动转换为 PDF。",
+            "UYAP（UDF）文档以只读方式打开：编辑、复制、分享、打印、演示和截屏均已关闭；仍可阅读、搜索、添加书签和朗读。",
             "通过 {nav_files} › {files_folders} › **{files_add_folder}** 添加常用文件夹，其中的 PDF 会显示在同一个列表里。",
             "要始终用 AllFixDoc 打开 PDF：{settings_title} › **{default_section}**。",
         ]),

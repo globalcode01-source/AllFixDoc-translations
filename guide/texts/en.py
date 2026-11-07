@@ -7,6 +7,7 @@ G = {
             "At the top of {nav_home} are three large buttons: **{tool_scan}**, **{tool_voice_notes}** and Google Drive. The row below starts with your favorite tools, followed by **{home_other_clouds}** and **{home_device}**; swipe it left to see them all.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA and more. Cloud apps installed on your phone appear in the file picker: open files from there and save edited PDFs back there.",
             "Word, Excel, PowerPoint, OpenDocument, RTF, CSV and TXT files open too; they are converted to PDF for reading.",
+            "UYAP (UDF) documents open read-only: editing, copying, sharing, printing, presenting and screenshots are turned off; you can read, search, bookmark and listen.",
             "Add folders you use often with {nav_files} › {files_folders} › **{files_add_folder}**; their PDFs appear in one list.",
             "To always open PDFs with AllFixDoc: {settings_title} › **{default_section}**.",
         ]),

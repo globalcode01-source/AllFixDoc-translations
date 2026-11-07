@@ -7,6 +7,7 @@ G = {
             "In alto in {nav_home} ci sono tre pulsanti grandi: **{tool_scan}**, **{tool_voice_notes}** e Google Drive. La riga sotto inizia con i tuoi strumenti preferiti, seguiti da **{home_other_clouds}** e **{home_device}**; scorrila verso sinistra per vederli tutti.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA e altri. Le app cloud installate sul telefono compaiono nel selettore file: apri i file da lì e salvaci i PDF modificati.",
             "Si aprono anche file Word, Excel, PowerPoint, OpenDocument, RTF, CSV e TXT; vengono convertiti in PDF per la lettura.",
+            "I documenti UYAP (UDF) si aprono in sola lettura: modifica, copia, condivisione, stampa, presentazione e screenshot sono disattivati; puoi leggere, cercare, aggiungere segnalibri e ascoltare.",
             "Aggiungi le cartelle che usi spesso da {nav_files} › {files_folders} › **{files_add_folder}**; i loro PDF compaiono in un unico elenco.",
             "Per aprire sempre i PDF con AllFixDoc: {settings_title} › **{default_section}**.",
         ]),

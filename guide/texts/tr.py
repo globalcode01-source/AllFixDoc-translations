@@ -7,6 +7,7 @@ G = {
             "{nav_home} ekranının üstünde üç büyük düğme var: **{tool_scan}**, **{tool_voice_notes}** ve Google Drive. Altındaki satırda önce favori araçların, sonra **{home_other_clouds}** ve **{home_device}** durur; tümünü görmek için satırı sola kaydır.",
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA ve diğerleri. Telefonunda yüklü bulut uygulamaları dosya seçicide görünür: dosyayı oradan açar, düzenlediğin PDF'i oraya kaydedersin.",
             "Word, Excel, PowerPoint, OpenDocument, RTF, CSV ve TXT dosyaları da açılır; okumak için otomatik olarak PDF'e çevrilir.",
+            "UYAP (UDF) belgeleri yalnızca okunur açılır: düzenleme, kopyalama, paylaşma, yazdırma, sunum ve ekran görüntüsü kapalıdır; okuyabilir, arayabilir, yer imi koyabilir ve sesli dinleyebilirsin.",
             "Sık kullandığın klasörleri {nav_files} › {files_folders} › **{files_add_folder}** ile ekle; içlerindeki PDF'ler tek listede görünür.",
             "PDF'lerin hep AllFixDoc ile açılması için: {settings_title} › **{default_section}**.",
         ]),
