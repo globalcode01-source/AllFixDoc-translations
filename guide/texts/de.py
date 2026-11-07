@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: Inhaltsverzeichnis, Seitenvorschauen und Lesezeichen. Eine Seite markierst du mit **{menu_bookmark}**.",
             "**{viewer_night_mode}** und **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: liest das Dokument mit der Stimme des Geräts vor und markiert jedes Wort.",
+            "**{menu_present}**: Folien laufen auf Beamer oder TV (HDMI/USB-C-Kabel oder Bildschirm übertragen), Benachrichtigungen bleiben verborgen; das Handy zeigt Sprechernotizen (aus PowerPoint oder selbst geschrieben), die nächste Folie und einen Timer. Laserpointer, Stift, Schwarz-/Weißbild; Folienwechsel per Bluetooth-Presenter, Tastatur oder Lautstärketasten. Videos und Töne in PowerPoint-Folien startest du mit ▶; das Video füllt den Beamer.",
             "Um Text in einem gescannten Dokument auszuwählen und zu durchsuchen: ⋮ › **{menu_ocr}**; das Ergebnis speicherst du mit **{menu_searchable}**.",
         ]),
         ("Notizen und Bearbeitung", [
@@ -33,6 +34,7 @@ G = {
             "Sicherheit: {tool_protect}, {tool_unprotect}.",
             "Scannen: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Dateien und Bilder: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: Das Video läuft auf Beamer oder TV, auf dem Handy bleiben Wiedergabe/Pause, 10 Sekunden vor/zurück und Schwarz-/Weißbild. Videos lassen sich auch aus anderen Apps öffnen.",
             "Tippe auf den ☆ in der Ecke eines Werkzeugs: Es erscheint dann in der zweiten Leiste der Startseite und im Schnellmenü.",
         ]),
         ("Sprachnotizen", [

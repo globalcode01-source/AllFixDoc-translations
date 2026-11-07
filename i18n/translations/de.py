@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Lesezeichen für diese Seite",
     "menu_edit": "Bearbeiten und kommentieren",
     "menu_navigate": "Inhalt und Seiten",
+    "menu_present": "Präsentieren (Beamer)",
+    "present_projector_hint": "Um Folien auf einem Beamer zu zeigen, schließe ein Kabel (HDMI/USB-C) an oder aktiviere Bildschirm übertragen / Smart View auf deinem Handy. Die Folien erscheinen am Beamer, die Notizen bleiben auf dem Handy.",
+    "present_projector": "Beamer: %1$s",
+    "present_up_next": "Als Nächstes",
+    "present_end": "Ende der Präsentation",
+    "present_notes": "Sprechernotizen",
+    "present_no_notes": "Keine Notizen zu dieser Folie. Tippe, um eine hinzuzufügen.",
+    "present_note_title": "Notiz zu Folie %1$d",
+    "present_blanked": "Das Publikum sieht einen leeren Bildschirm",
+    "present_timer_reset": "Timer zurücksetzen",
+    "present_previous": "Vorherige Folie",
+    "present_next": "Nächste Folie",
+    "present_laser": "Laserpointer",
+    "present_pen": "Stift",
+    "present_clear": "Zeichnung löschen",
+    "present_black": "Schwarzer Bildschirm",
+    "present_white": "Weißer Bildschirm",
+    "present_exit": "Präsentation beenden",
+    "present_play_video": "Video abspielen",
+    "present_play_audio": "Ton abspielen",
+    "video_error": "Dieses Video kann auf diesem Gerät nicht abgespielt werden.",
+    "video_rewind": "10 Sekunden zurück",
+    "video_forward": "10 Sekunden vor",
+    "video_close": "Video schließen",
+    "video_on_projector": "Wird am Beamer abgespielt: %1$s",
+    "video_projector_hint": "Schließe zum Abspielen am Beamer ein Kabel (HDMI/USB-C) an oder aktiviere Bildschirm übertragen / Smart View. Das Video läuft am Beamer, die Steuerung bleibt auf dem Handy.",
+    "tool_video_project": "Video am Beamer abspielen",
+    "tool_video_project_desc": "Video auf Beamer oder TV, Steuerung auf dem Handy",
     "menu_read_aloud": "Vorlesen",
     "menu_ai": "KI-Assistent",
     "menu_ocr": "Text erkennen (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Datenschutzerklärung von AllFixDoc
-Zuletzt aktualisiert: 22. Oktober 2026
+Zuletzt aktualisiert: 7. November 2026
 
 AllFixDoc ist ein PDF-Reader und -Editor. Diese Erklärung beschreibt, welche Daten die App verarbeitet und warum.
 
@@ -539,7 +567,7 @@ AllFixDoc ist ein PDF-Reader und -Editor. Diese Erklärung beschreibt, welche Da
 AllFixDoc öffnet nur die Dateien, die du über die Android-Dateiauswahl oder „Öffnen mit“ auswählst. Die App fordert keine Speicherberechtigung an und durchsucht dein Gerät nicht. Dokumente werden auf deinem Gerät verarbeitet und von der App nicht hochgeladen, außer wie in Abschnitt 4 beschrieben, wenn du den KI-Assistenten nutzt.
 
 2. Auf deinem Gerät gespeicherte Daten
-Die App speichert die Liste der zuletzt geöffneten Dateien und kleine Vorschaubilder, Lesezeichen und Lesepositionen, per OCR erkannten Text, von dir gezeichnete Unterschriften, App-Einstellungen und – falls du ihn hinzufügst – den API-Schlüssel des gewählten KI-Dienstes, verschlüsselt mit einem Schlüssel aus der sicheren Hardware deines Geräts. Du kannst diese Daten in den Einstellungen oder durch Löschen des App-Speichers entfernen.
+Die App speichert die Liste der zuletzt geöffneten Dateien und kleine Vorschaubilder, Lesezeichen und Lesepositionen, per OCR erkannten Text, von dir gezeichnete Unterschriften, App-Einstellungen und – falls du ihn hinzufügst – den API-Schlüssel des gewählten KI-Dienstes, verschlüsselt mit einem Schlüssel aus der sicheren Hardware deines Geräts. Du kannst diese Daten in den Einstellungen oder durch Löschen des App-Speichers entfernen. Im Präsentationsmodus speichert sie außerdem die Sprechernotizen, die du schreibst, sowie Videos und Töne aus geöffneten Präsentationen; diese werden nicht gesichert.
 
 3. Sicherungen
 Wenn die Android-Sicherung aktiviert ist, kann Android deine Einstellungen, Lesezeichen und Lesepositionen in deinem Google-Konto sichern. Dein API-Schlüssel, Unterschriften, OCR-Ergebnisse, Vorschaubilder und die Liste der zuletzt geöffneten Dateien sind ausgenommen. Du kannst eine Sicherungsdatei auch selbst exportieren und importieren.

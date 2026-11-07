@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: mündəricat, səhifə miniatürləri və əlfəcinlər. Səhifəni işarələmək üçün **{menu_bookmark}**.",
             "**{viewer_night_mode}** və **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: sənədi cihazın səsi ilə oxuyur, oxunan sözü işarələyir.",
+            "**{menu_present}**: slaydlar proyektora və ya TV-yə gedir (HDMI/USB-C kabel və ya telefonun Ekran yayımı), bildirişlər görünmür; telefonda məruzəçi qeydləri (PowerPoint-dən gəlir və ya özünüz yazırsınız), növbəti slayd və taymer qalır. Lazer göstərici, qələm, qara/ağ ekran; slaydlar Bluetooth pult, klaviatura və ya səs düymələri ilə keçilir. PowerPoint slaydlarındakı video və səslər ▶ ilə oynayır; video proyektorda tam ekran açılır.",
             "Skan edilmiş sənəddə mətni seçmək və axtarmaq üçün ⋮ › **{menu_ocr}**; nəticəni **{menu_searchable}** ilə saxlaya bilərsiniz.",
         ]),
         ("Qeyd və redaktə", [
@@ -33,6 +34,7 @@ G = {
             "Təhlükəsizlik: {tool_protect}, {tool_unprotect}.",
             "Skan: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Fayl və şəkil: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: video proyektorda və ya TV-də oynayır; telefonda oynat/dayandır, 10 saniyə irəli/geri və qara/ağ ekran qalır. Videoları başqa tətbiqlərdən də aça bilərsiniz.",
             "Alətin küncündəki ☆ işarəsinə toxunun: alət ana səhifənin ikinci sətrində və sürətli menyuda görünür.",
         ]),
         ("Səsli qeydlər", [

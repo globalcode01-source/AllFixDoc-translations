@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**：目次、ページのサムネイル、ブックマーク。ページに印を付けるには **{menu_bookmark}**。",
             "**{viewer_night_mode}** と **{settings_screen_on}**：{settings_title} › {settings_reading}。",
             "**{menu_read_aloud}**：端末の音声で文書を読み上げ、読んでいる単語を強調します。",
+            "**{menu_present}**：スライドはプロジェクターやテレビ（HDMI/USB-C ケーブルまたはスマホの画面のキャスト）に表示され、通知は映りません。スマホには発表者ノート（PowerPoint から、または自分で入力）、次のスライド、タイマーが表示されます。レーザーポインター、ペン、黒/白画面。Bluetooth リモコン、キーボード、音量ボタンでスライドを切り替えられます。PowerPoint のスライド内の動画や音声は ▶ で再生され、動画はプロジェクターに全画面で表示されます。",
             "スキャンした文書でテキストを選択・検索するには ⋮ › **{menu_ocr}**。結果は **{menu_searchable}** で保存できます。",
         ]),
         ("書き込みと編集", [
@@ -33,6 +34,7 @@ G = {
             "セキュリティ：{tool_protect}、{tool_unprotect}。",
             "スキャン：{tool_scan}、{tool_qr}、{tool_qr_create}。",
             "ファイルと画像：{tool_zip_create}、{tool_zip_extract}、{tool_img_compress}、{tool_img_resize}、{tool_img_convert}、{tool_gif_create}、{tool_gif_frames}。",
+            "**{tool_video_project}**：動画はプロジェクターやテレビで再生され、スマホには再生/一時停止、10 秒スキップ、黒/白画面の操作が残ります。ほかのアプリから動画を開くこともできます。",
             "ツールの隅の ☆ をタップすると、ホーム画面の 2 行目とクイックメニューに表示されます。",
         ]),
         ("音声メモ", [

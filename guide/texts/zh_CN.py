@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**：目录、页面缩略图和书签。要标记某一页，请用 **{menu_bookmark}**。",
             "**{viewer_night_mode}** 和 **{settings_screen_on}**：{settings_title} › {settings_reading}。",
             "**{menu_read_aloud}**：用设备的语音朗读文档，并高亮当前词语。",
+            "**{menu_present}**：幻灯片显示在投影仪或电视上（HDMI/USB-C 线缆或手机的投射屏幕），通知不会显示；手机上显示演讲者备注（来自 PowerPoint 或自己填写）、下一张幻灯片和计时器。支持激光笔、画笔、黑屏/白屏；可用蓝牙翻页器、键盘或音量键切换幻灯片。PowerPoint 幻灯片中的视频和声音可用 ▶ 播放，视频在投影仪上全屏显示。",
             "要在扫描文档中选择和搜索文字，请使用 ⋮ › **{menu_ocr}**；可用 **{menu_searchable}** 保存结果。",
         ]),
         ("批注与编辑", [
@@ -33,6 +34,7 @@ G = {
             "安全：{tool_protect}、{tool_unprotect}。",
             "扫描：{tool_scan}、{tool_qr}、{tool_qr_create}。",
             "文件与图片：{tool_zip_create}、{tool_zip_extract}、{tool_img_compress}、{tool_img_resize}、{tool_img_convert}、{tool_gif_create}、{tool_gif_frames}。",
+            "**{tool_video_project}**：视频在投影仪或电视上播放，手机上保留播放/暂停、前后跳 10 秒和黑屏/白屏。也可以从其他应用打开视频。",
             "点按工具角上的 ☆：它会出现在主屏幕的第二行和快捷菜单中。",
         ]),
         ("语音笔记", [

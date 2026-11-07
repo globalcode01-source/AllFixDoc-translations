@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: sumário, miniaturas das páginas e marcadores. Para marcar uma página, use **{menu_bookmark}**.",
             "**{viewer_night_mode}** e **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: lê o documento com a voz do aparelho e destaca cada palavra.",
+            "**{menu_present}**: os slides vão para o projetor ou TV (cabo HDMI/USB-C ou Transmitir tela do celular) e as notificações ficam ocultas; o celular mostra as anotações do apresentador (do PowerPoint ou escritas por você), o próximo slide e um cronômetro. Apontador laser, caneta, tela preta/branca; troque de slide com controle Bluetooth, teclado ou teclas de volume. Vídeos e sons dos slides do PowerPoint tocam com ▶; o vídeo ocupa todo o projetor.",
             "Para selecionar e buscar texto em um documento digitalizado, use ⋮ › **{menu_ocr}**; salve o resultado com **{menu_searchable}**.",
         ]),
         ("Anotações e edição", [
@@ -33,6 +34,7 @@ G = {
             "Segurança: {tool_protect}, {tool_unprotect}.",
             "Digitalização: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Arquivos e imagens: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: o vídeo toca no projetor ou na TV e o celular fica com reproduzir/pausar, saltos de 10 segundos e tela preta/branca. Você também pode abrir vídeos de outros apps.",
             "Toque na ☆ no canto de uma ferramenta: ela passa a aparecer na segunda linha da tela inicial e no menu rápido.",
         ]),
         ("Notas de voz", [

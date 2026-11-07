@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Marcar esta página",
     "menu_edit": "Editar e anotar",
     "menu_navigate": "Sumário e páginas",
+    "menu_present": "Apresentar (projetor)",
+    "present_projector_hint": "Para mostrar os slides em um projetor, conecte um cabo (HDMI/USB-C) ou ative Transmitir tela / Smart View no seu celular. Os slides vão para o projetor e as notas ficam no celular.",
+    "present_projector": "Projetor: %1$s",
+    "present_up_next": "A seguir",
+    "present_end": "Fim da apresentação",
+    "present_notes": "Anotações do apresentador",
+    "present_no_notes": "Nenhuma anotação neste slide. Toque para adicionar.",
+    "present_note_title": "Anotação do slide %1$d",
+    "present_blanked": "O público está vendo uma tela vazia",
+    "present_timer_reset": "Zerar cronômetro",
+    "present_previous": "Slide anterior",
+    "present_next": "Próximo slide",
+    "present_laser": "Apontador laser",
+    "present_pen": "Caneta",
+    "present_clear": "Apagar desenho",
+    "present_black": "Tela preta",
+    "present_white": "Tela branca",
+    "present_exit": "Encerrar apresentação",
+    "present_play_video": "Reproduzir vídeo",
+    "present_play_audio": "Reproduzir som",
+    "video_error": "Este vídeo não pode ser reproduzido neste dispositivo.",
+    "video_rewind": "Voltar 10 segundos",
+    "video_forward": "Avançar 10 segundos",
+    "video_close": "Fechar vídeo",
+    "video_on_projector": "Reproduzindo no projetor: %1$s",
+    "video_projector_hint": "Para reproduzir em um projetor, conecte um cabo (HDMI/USB-C) ou ative Transmitir tela / Smart View. O vídeo vai para o projetor e os controles ficam no celular.",
+    "tool_video_project": "Reproduzir vídeo no projetor",
+    "tool_video_project_desc": "Vídeo no projetor ou na TV, controles no celular",
     "menu_read_aloud": "Ler em voz alta",
     "menu_ai": "Assistente de IA",
     "menu_ocr": "Reconhecer texto (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Política de privacidade do AllFixDoc
-Última atualização: 22 de outubro de 2026
+Última atualização: 7 de novembro de 2026
 
 O AllFixDoc é um leitor e editor de PDF. Esta política explica quais dados o app trata e por quê.
 
@@ -539,7 +567,7 @@ O AllFixDoc é um leitor e editor de PDF. Esta política explica quais dados o a
 O AllFixDoc abre apenas os arquivos que você escolhe, pelo seletor de arquivos do Android ou por "Abrir com". Ele não pede permissão de armazenamento nem examina o seu dispositivo. Os documentos são processados no seu dispositivo e não são enviados pelo app, exceto como descrito na seção 4 quando você usa o assistente de IA.
 
 2. Dados guardados no seu dispositivo
-O app guarda a lista de arquivos abertos recentemente e pequenas imagens de prévia, marcadores e posições de leitura, texto reconhecido por OCR, as assinaturas que você desenha, as configurações do app e, se você adicionar, a chave de API do serviço de IA escolhido, criptografada com uma chave mantida no hardware seguro do dispositivo. Você pode remover esses dados nas Configurações ou limpando o armazenamento do app.
+O app guarda a lista de arquivos abertos recentemente e pequenas imagens de prévia, marcadores e posições de leitura, texto reconhecido por OCR, as assinaturas que você desenha, as configurações do app e, se você adicionar, a chave de API do serviço de IA escolhido, criptografada com uma chave mantida no hardware seguro do dispositivo. Você pode remover esses dados nas Configurações ou limpando o armazenamento do app. No modo Apresentação, também guarda as anotações do apresentador que você escreve e os vídeos e sons extraídos das apresentações abertas; eles não entram no backup.
 
 3. Backups
 Se o backup do Android estiver ativado, o Android pode salvar suas configurações, marcadores e posições de leitura na sua conta do Google. Sua chave de API, assinaturas, resultados de OCR, prévias e a lista de arquivos recentes ficam de fora. Você também pode exportar e importar um arquivo de backup por conta própria.

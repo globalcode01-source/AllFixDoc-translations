@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: indice, miniature delle pagine e segnalibri. Per segnare una pagina usa **{menu_bookmark}**.",
             "**{viewer_night_mode}** e **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: legge il documento con la voce del dispositivo ed evidenzia ogni parola.",
+            "**{menu_present}**: le slide vanno al proiettore o alla TV (cavo HDMI/USB-C o Trasmetti schermo del telefono), le notifiche restano nascoste; il telefono mostra le note del relatore (da PowerPoint o scritte da te), la slide successiva e un timer. Puntatore laser, penna, schermo nero/bianco; cambia slide con un telecomando Bluetooth, la tastiera o i tasti del volume. Video e suoni nelle slide di PowerPoint partono con ▶; il video riempie il proiettore.",
             "Per selezionare e cercare testo in un documento scansionato usa ⋮ › **{menu_ocr}**; salva il risultato con **{menu_searchable}**.",
         ]),
         ("Note e modifica", [
@@ -33,6 +34,7 @@ G = {
             "Sicurezza: {tool_protect}, {tool_unprotect}.",
             "Scansione: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "File e immagini: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: il video va sul proiettore o sulla TV, sul telefono restano play/pausa, salti di 10 secondi e schermo nero/bianco. Puoi aprire video anche da altre app.",
             "Tocca la ☆ nell'angolo di uno strumento: comparirà nella seconda riga della schermata iniziale e nel menu rapido.",
         ]),
         ("Note vocali", [

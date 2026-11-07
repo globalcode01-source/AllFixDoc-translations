@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Marcar esta página",
     "menu_edit": "Editar y anotar",
     "menu_navigate": "Índice y páginas",
+    "menu_present": "Presentar (proyector)",
+    "present_projector_hint": "Para mostrar las diapositivas en un proyector, conecta un cable (HDMI/USB-C) o activa Enviar pantalla / Smart View en tu teléfono. Las diapositivas van al proyector y las notas se quedan en el teléfono.",
+    "present_projector": "Proyector: %1$s",
+    "present_up_next": "A continuación",
+    "present_end": "Fin de la presentación",
+    "present_notes": "Notas del orador",
+    "present_no_notes": "No hay notas en esta diapositiva. Toca para añadir una.",
+    "present_note_title": "Nota de la diapositiva %1$d",
+    "present_blanked": "El público ve una pantalla en blanco",
+    "present_timer_reset": "Reiniciar temporizador",
+    "present_previous": "Diapositiva anterior",
+    "present_next": "Diapositiva siguiente",
+    "present_laser": "Puntero láser",
+    "present_pen": "Lápiz",
+    "present_clear": "Borrar dibujo",
+    "present_black": "Pantalla negra",
+    "present_white": "Pantalla blanca",
+    "present_exit": "Terminar presentación",
+    "present_play_video": "Reproducir vídeo",
+    "present_play_audio": "Reproducir sonido",
+    "video_error": "Este vídeo no se puede reproducir en este dispositivo.",
+    "video_rewind": "Retroceder 10 segundos",
+    "video_forward": "Avanzar 10 segundos",
+    "video_close": "Cerrar vídeo",
+    "video_on_projector": "Reproduciendo en el proyector: %1$s",
+    "video_projector_hint": "Para reproducir en un proyector, conecta un cable (HDMI/USB-C) o activa Enviar pantalla / Smart View. El vídeo va al proyector y los controles se quedan en el teléfono.",
+    "tool_video_project": "Reproducir vídeo en el proyector",
+    "tool_video_project_desc": "Vídeo en el proyector o la TV, controles en el teléfono",
     "menu_read_aloud": "Leer en voz alta",
     "menu_ai": "Asistente de IA",
     "menu_ocr": "Reconocer texto (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Política de privacidad de AllFixDoc
-Última actualización: 22 de octubre de 2026
+Última actualización: 7 de noviembre de 2026
 
 AllFixDoc es un lector y editor de PDF. Esta política explica qué datos maneja la app y por qué.
 
@@ -539,7 +567,7 @@ AllFixDoc es un lector y editor de PDF. Esta política explica qué datos maneja
 AllFixDoc abre solo los archivos que eliges, mediante el selector de archivos de Android o "Abrir con". No solicita permiso de almacenamiento ni examina tu dispositivo. Los documentos se procesan en tu dispositivo y la app no los sube, salvo lo descrito en la sección 4 cuando usas el asistente de IA.
 
 2. Datos guardados en tu dispositivo
-La app guarda la lista de archivos abiertos recientemente y pequeñas imágenes de vista previa, marcadores y posiciones de lectura, texto reconocido con OCR, las firmas que dibujas, los ajustes de la app y, si la añades, la clave de API del servicio de IA que elijas, cifrada con una clave guardada en el hardware seguro de tu dispositivo. Puedes eliminar estos datos en Ajustes o borrando el almacenamiento de la app.
+La app guarda la lista de archivos abiertos recientemente y pequeñas imágenes de vista previa, marcadores y posiciones de lectura, texto reconocido con OCR, las firmas que dibujas, los ajustes de la app y, si la añades, la clave de API del servicio de IA que elijas, cifrada con una clave guardada en el hardware seguro de tu dispositivo. Puedes eliminar estos datos en Ajustes o borrando el almacenamiento de la app. En el modo Presentación también guarda las notas del orador que escribes y los vídeos y sonidos extraídos de las presentaciones que abres; no se incluyen en las copias de seguridad.
 
 3. Copias de seguridad
 Si la copia de seguridad de Android está activada, Android puede guardar tus ajustes, marcadores y posiciones de lectura en tu cuenta de Google. Se excluyen tu clave de API, las firmas, los resultados de OCR, las vistas previas y la lista de archivos recientes. También puedes exportar e importar tú mismo un archivo de copia de seguridad.

@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: índice, miniaturas de páginas y marcadores. Para marcar una página, usa **{menu_bookmark}**.",
             "**{viewer_night_mode}** y **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: lee el documento con la voz del dispositivo y resalta cada palabra.",
+            "**{menu_present}**: las diapositivas van al proyector o TV (cable HDMI/USB-C o Enviar pantalla del teléfono) y las notificaciones no se ven; el teléfono muestra las notas del orador (de PowerPoint o escritas por ti), la siguiente diapositiva y un temporizador. Puntero láser, lápiz, pantalla negra/blanca; cambia de diapositiva con un mando Bluetooth, el teclado o las teclas de volumen. Los vídeos y sonidos de las diapositivas de PowerPoint se reproducen con ▶; el vídeo ocupa todo el proyector.",
             "Para seleccionar y buscar texto en un documento escaneado, usa ⋮ › **{menu_ocr}**; guarda el resultado con **{menu_searchable}**.",
         ]),
         ("Notas y edición", [
@@ -33,6 +34,7 @@ G = {
             "Seguridad: {tool_protect}, {tool_unprotect}.",
             "Escaneo: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Archivos e imágenes: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: el vídeo se reproduce en el proyector o la TV y en el teléfono quedan reproducir/pausa, saltos de 10 segundos y pantalla negra/blanca. También puedes abrir vídeos desde otras apps.",
             "Toca la ☆ en la esquina de una herramienta: aparecerá en la segunda fila de la pantalla de inicio y en el menú rápido.",
         ]),
         ("Notas de voz", [

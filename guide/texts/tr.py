@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: içindekiler, sayfa küçük resimleri ve yer imleri. Bir sayfayı işaretlemek için **{menu_bookmark}**.",
             "**{viewer_night_mode}** ve **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: belgeyi cihazın sesiyle okur, okunan kelimeyi işaretler.",
+            "**{menu_present}**: slaytlar projektöre ya da TV'ye gider (HDMI/USB-C kablo ya da telefonun Ekran yansıtma özelliği), bildirimler görünmez; telefonda konuşmacı notları (PowerPoint'ten gelir ya da kendin yazarsın), sıradaki slayt ve sayaç kalır. Lazer işaretçi, kalem, siyah/beyaz ekran; slaytlar Bluetooth kumanda, klavye ya da ses tuşlarıyla geçilir. PowerPoint slaytlarındaki video ve sesler ▶ ile oynar; video projektörde tam ekran açılır.",
             "Taranmış belgede metni seçmek ve aramak için ⋮ › **{menu_ocr}**; sonucu **{menu_searchable}** ile kaydedebilirsin.",
         ]),
         ("Not alma ve düzenleme", [
@@ -33,6 +34,7 @@ G = {
             "Güvenlik: {tool_protect}, {tool_unprotect}.",
             "Tarama: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Dosya ve görsel: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: video projektörde ya da TV'de oynar; telefonda oynat/duraklat, 10 saniye ileri/geri ve siyah/beyaz ekran kalır. Videoları başka uygulamalardan da açabilirsin.",
             "Bir aracın köşesindeki ☆ işaretine dokun: araç ana sayfadaki ikinci satırda ve hızlı menüde görünür.",
         ]),
         ("Sesli notlar", [

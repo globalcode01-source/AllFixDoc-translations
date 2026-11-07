@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Aggiungi segnalibro a questa pagina",
     "menu_edit": "Modifica e annota",
     "menu_navigate": "Indice e pagine",
+    "menu_present": "Presenta (proiettore)",
+    "present_projector_hint": "Per mostrare le slide su un proiettore, collega un cavo (HDMI/USB-C) o attiva Trasmetti schermo / Smart View sul telefono. Le slide vanno al proiettore, le note restano sul telefono.",
+    "present_projector": "Proiettore: %1$s",
+    "present_up_next": "Prossima",
+    "present_end": "Fine della presentazione",
+    "present_notes": "Note del relatore",
+    "present_no_notes": "Nessuna nota per questa slide. Tocca per aggiungerne una.",
+    "present_note_title": "Nota della slide %1$d",
+    "present_blanked": "Il pubblico vede uno schermo vuoto",
+    "present_timer_reset": "Azzera timer",
+    "present_previous": "Slide precedente",
+    "present_next": "Slide successiva",
+    "present_laser": "Puntatore laser",
+    "present_pen": "Penna",
+    "present_clear": "Cancella disegno",
+    "present_black": "Schermo nero",
+    "present_white": "Schermo bianco",
+    "present_exit": "Termina presentazione",
+    "present_play_video": "Riproduci video",
+    "present_play_audio": "Riproduci audio",
+    "video_error": "Questo video non può essere riprodotto su questo dispositivo.",
+    "video_rewind": "Indietro di 10 secondi",
+    "video_forward": "Avanti di 10 secondi",
+    "video_close": "Chiudi video",
+    "video_on_projector": "In riproduzione sul proiettore: %1$s",
+    "video_projector_hint": "Per riprodurre su un proiettore, collega un cavo (HDMI/USB-C) o attiva Trasmetti schermo / Smart View. Il video va al proiettore, i comandi restano sul telefono.",
+    "tool_video_project": "Riproduci video sul proiettore",
+    "tool_video_project_desc": "Video sul proiettore o sulla TV, comandi sul telefono",
     "menu_read_aloud": "Leggi ad alta voce",
     "menu_ai": "Assistente IA",
     "menu_ocr": "Riconosci testo (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Informativa sulla privacy di AllFixDoc
-Ultimo aggiornamento: 22 ottobre 2026
+Ultimo aggiornamento: 7 novembre 2026
 
 AllFixDoc è un lettore ed editor di PDF. Questa informativa spiega quali dati tratta l'app e perché.
 
@@ -539,7 +567,7 @@ AllFixDoc è un lettore ed editor di PDF. Questa informativa spiega quali dati t
 AllFixDoc apre solo i file che scegli con il selettore di file di Android o con \"Apri con\". L'app non chiede il permesso di archiviazione e non analizza il tuo dispositivo. I documenti vengono elaborati sul dispositivo e l'app non li carica online, tranne quanto descritto nella sezione 4 quando usi l'assistente IA.
 
 2. Dati salvati sul dispositivo
-L'app salva l'elenco dei file aperti di recente e piccole miniature, segnalibri e posizioni di lettura, il testo riconosciuto con l'OCR, le firme che disegni, le impostazioni dell'app e, se la aggiungi, la chiave API del servizio di IA scelto, cifrata con una chiave conservata nell'hardware sicuro del dispositivo. Puoi eliminare questi dati dalle Impostazioni o cancellando lo spazio di archiviazione dell'app.
+L'app salva l'elenco dei file aperti di recente e piccole miniature, segnalibri e posizioni di lettura, il testo riconosciuto con l'OCR, le firme che disegni, le impostazioni dell'app e, se la aggiungi, la chiave API del servizio di IA scelto, cifrata con una chiave conservata nell'hardware sicuro del dispositivo. Puoi eliminare questi dati dalle Impostazioni o cancellando lo spazio di archiviazione dell'app. In modalità Presentazione conserva anche le note del relatore che scrivi e i video e i suoni estratti dalle presentazioni aperte; non vengono inclusi nei backup.
 
 3. Backup
 Se il backup di Android è attivo, Android può salvare impostazioni, segnalibri e posizioni di lettura nel tuo account Google. Chiave API, firme, risultati OCR, miniature ed elenco dei file recenti sono esclusi. Puoi anche esportare e importare tu stesso un file di backup.

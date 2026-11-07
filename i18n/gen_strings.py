@@ -271,6 +271,34 @@ S = {
     "menu_bookmark": ("Bookmark this page", "Bu sayfaya yer imi koy"),
     "menu_edit": ("Edit and annotate", "Düzenle ve not al"),
     "menu_navigate": ("Contents and pages", "İçindekiler ve sayfalar"),
+    "menu_present": ("Present (projector)", "Sunum yap (projektör)"),
+    "present_projector_hint": ("To show slides on a projector, connect a cable (HDMI/USB-C) or turn on Screen cast / Smart View on your phone. Slides go to the projector, notes stay on your phone.", "Slaytları projektörde göstermek için kablo (HDMI/USB-C) bağla ya da telefonun Ekran yansıtma / Smart View özelliğini aç. Slaytlar projektöre gider, notlar telefonda kalır."),
+    "present_projector": ("Projector: %1$s", "Projektör: %1$s"),
+    "present_up_next": ("Up next", "Sıradaki"),
+    "present_end": ("End of presentation", "Sunumun sonu"),
+    "present_notes": ("Speaker notes", "Konuşmacı notları"),
+    "present_no_notes": ("No notes for this slide. Tap to add one.", "Bu slaytta not yok. Eklemek için dokun."),
+    "present_note_title": ("Note for slide %1$d", "%1$d. slaytın notu"),
+    "present_blanked": ("The audience sees a blank screen", "Seyirci boş ekran görüyor"),
+    "present_timer_reset": ("Reset timer", "Sayacı sıfırla"),
+    "present_previous": ("Previous slide", "Önceki slayt"),
+    "present_next": ("Next slide", "Sonraki slayt"),
+    "present_laser": ("Laser pointer", "Lazer işaretçi"),
+    "present_pen": ("Pen", "Kalem"),
+    "present_clear": ("Clear drawing", "Çizimi sil"),
+    "present_black": ("Black screen", "Siyah ekran"),
+    "present_white": ("White screen", "Beyaz ekran"),
+    "present_exit": ("End presentation", "Sunumu bitir"),
+    "present_play_video": ("Play video", "Videoyu oynat"),
+    "present_play_audio": ("Play sound", "Sesi oynat"),
+    "video_error": ("This video can't be played on this device.", "Bu video bu cihazda oynatılamıyor."),
+    "video_rewind": ("Back 10 seconds", "10 saniye geri"),
+    "video_forward": ("Forward 10 seconds", "10 saniye ileri"),
+    "video_close": ("Close video", "Videoyu kapat"),
+    "video_on_projector": ("Playing on the projector: %1$s", "Projektörde oynatılıyor: %1$s"),
+    "video_projector_hint": ("To play on a projector, connect a cable (HDMI/USB-C) or turn on Screen cast / Smart View. The video goes to the projector, the controls stay on your phone.", "Projektörde oynatmak için kablo (HDMI/USB-C) bağla ya da Ekran yansıtma / Smart View'u aç. Video projektöre gider, denetimler telefonda kalır."),
+    "tool_video_project": ("Play video on projector", "Videoyu projektörde oynat"),
+    "tool_video_project_desc": ("Video on the projector or TV, controls on your phone", "Video projektörde ya da TV'de, denetimler telefonda"),
     "menu_read_aloud": ("Read aloud", "Sesli oku"),
     "menu_ai": ("AI assistant", "AI asistan"),
     "menu_ocr": ("Recognize text (OCR)", "Metni tanı (OCR)"),
@@ -660,7 +688,7 @@ S = {
 }
 
 PRIVACY_EN = """AllFixDoc Privacy Policy
-Last updated: 22 October 2026
+Last updated: 7 November 2026
 
 AllFixDoc is a PDF reader and editor. This policy explains what data the app handles and why.
 
@@ -668,7 +696,7 @@ AllFixDoc is a PDF reader and editor. This policy explains what data the app han
 AllFixDoc opens only the files you choose, through the Android file picker or "Open with". It doesn't request storage permission and doesn't scan your device. Documents are processed on your device and aren't uploaded by the app, except as described in section 4 when you use the AI assistant.
 
 2. Data stored on your device
-The app keeps the list of recently opened files and small preview images, bookmarks and reading positions, text recognized with OCR, signatures you draw, app settings and, if you add one, the API key of the AI service you chose, encrypted with a key held in your device's secure hardware. You can remove this data in Settings or by clearing the app's storage.
+The app keeps the list of recently opened files and small preview images, bookmarks and reading positions, text recognized with OCR, signatures you draw, app settings and, if you add one, the API key of the AI service you chose, encrypted with a key held in your device's secure hardware. You can remove this data in Settings or by clearing the app's storage. In presentation mode it also keeps the speaker notes you write and the videos and sounds taken from presentations you open; these are not backed up.
 
 3. Backups
 If Android backup is on, Android may back up your settings, bookmarks and reading positions to your Google account. Your API key, signatures, OCR results, preview images and the recent files list are excluded. You can also export and import a backup file yourself.
@@ -698,7 +726,7 @@ For questions about this policy, use the developer contact address on the app's 
 Data controller: Global Code 01 (globalcode01@gmail.com). The developer doesn't collect your documents or personal data; only if you write to us are your e-mail address and message used to reply. When the app starts it downloads a small settings file from the developer's site (globalcode01-source.github.io, on GitHub); only your IP address is sent. Google (AdMob, ML Kit, Play), GitHub and the AI service you choose (Google, Anthropic, Groq, Mistral, OpenRouter, etc.) run servers outside your country; when you use these features your IP address, and for the AI assistant the text you selected, is transferred to that service. You have the right to access, rectify, erase and object: write to globalcode01@gmail.com and you will get an answer within 30 days. You may also complain to your data protection authority (in Turkey, the Personal Data Protection Board)."""
 
 PRIVACY_TR = """AllFixDoc Gizlilik Politikası
-Son güncelleme: 22 Ekim 2026
+Son güncelleme: 7 Kasım 2026
 
 AllFixDoc bir PDF okuyucu ve düzenleyicidir. Bu politika, uygulamanın hangi verileri neden işlediğini açıklar.
 
@@ -706,7 +734,7 @@ AllFixDoc bir PDF okuyucu ve düzenleyicidir. Bu politika, uygulamanın hangi ve
 AllFixDoc yalnızca senin seçtiğin dosyaları açar (Android dosya seçicisi ya da "Birlikte aç" ile). Depolama izni istemez, cihazını taramaz. Belgeler cihazında işlenir ve uygulama tarafından yüklenmez; tek istisna, AI asistanını kullandığında 4. maddede anlatılan durumdur.
 
 2. Cihazında saklanan veriler
-Uygulama şunları saklar: son açılan dosyaların listesi ve küçük önizleme görselleri, yer imleri ve okuma konumları, OCR ile tanınan metinler, çizdiğin imzalar, uygulama ayarları ve eklediysen seçtiğin AI servisinin API anahtarı (cihazının güvenli donanımındaki bir anahtarla şifrelenmiş olarak). Bu verileri Ayarlar'dan ya da uygulamanın depolama alanını temizleyerek silebilirsin.
+Uygulama şunları saklar: son açılan dosyaların listesi ve küçük önizleme görselleri, yer imleri ve okuma konumları, OCR ile tanınan metinler, çizdiğin imzalar, uygulama ayarları ve eklediysen seçtiğin AI servisinin API anahtarı (cihazının güvenli donanımındaki bir anahtarla şifrelenmiş olarak). Bu verileri Ayarlar'dan ya da uygulamanın depolama alanını temizleyerek silebilirsin. Sunum modunda yazdığın konuşmacı notlarını ve açtığın sunumlardan çıkarılan video ile sesleri de saklar; bunlar yedeklenmez.
 
 3. Yedekleme
 Android yedeklemesi açıksa Android; ayarlarını, yer imlerini ve okuma konumlarını Google hesabına yedekleyebilir. API anahtarın, imzaların, OCR sonuçları, önizleme görselleri ve son açılanlar listesi yedeklemeye dahil edilmez. İstersen yedek dosyasını kendin de dışa ve içe aktarabilirsin.

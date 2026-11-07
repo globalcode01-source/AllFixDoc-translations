@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "为此页添加书签",
     "menu_edit": "编辑与批注",
     "menu_navigate": "目录与页面",
+    "menu_present": "演示（投影仪）",
+    "present_projector_hint": "要在投影仪上显示幻灯片，请连接线缆（HDMI/USB-C），或在手机上开启投射屏幕 / Smart View。幻灯片显示在投影仪上，备注留在手机上。",
+    "present_projector": "投影仪：%1$s",
+    "present_up_next": "下一张",
+    "present_end": "演示结束",
+    "present_notes": "演讲者备注",
+    "present_no_notes": "此幻灯片没有备注。点按即可添加。",
+    "present_note_title": "第 %1$d 张幻灯片的备注",
+    "present_blanked": "观众看到的是空白屏幕",
+    "present_timer_reset": "重置计时器",
+    "present_previous": "上一张幻灯片",
+    "present_next": "下一张幻灯片",
+    "present_laser": "激光笔",
+    "present_pen": "画笔",
+    "present_clear": "清除绘图",
+    "present_black": "黑屏",
+    "present_white": "白屏",
+    "present_exit": "结束演示",
+    "present_play_video": "播放视频",
+    "present_play_audio": "播放声音",
+    "video_error": "此设备无法播放该视频。",
+    "video_rewind": "后退 10 秒",
+    "video_forward": "前进 10 秒",
+    "video_close": "关闭视频",
+    "video_on_projector": "正在投影仪上播放：%1$s",
+    "video_projector_hint": "要在投影仪上播放，请连接线缆（HDMI/USB-C）或开启投射屏幕 / Smart View。视频显示在投影仪上，控制留在手机上。",
+    "tool_video_project": "在投影仪上播放视频",
+    "tool_video_project_desc": "视频在投影仪或电视上，控制在手机上",
     "menu_read_aloud": "朗读",
     "menu_ai": "AI 助手",
     "menu_ocr": "识别文字（OCR）",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc 隐私政策
-最后更新：2026 年 10 月 22 日
+最后更新：2026 年 11 月 7 日
 
 AllFixDoc 是一款 PDF 阅读和编辑应用。本政策说明应用处理哪些数据以及原因。
 
@@ -539,7 +567,7 @@ AllFixDoc 是一款 PDF 阅读和编辑应用。本政策说明应用处理哪�
 AllFixDoc 只打开您通过 Android 文件选择器或“打开方式”选择的文件。应用不请求存储权限，也不会扫描您的设备。文档在您的设备上处理，应用不会上传，除非您按第 4 节所述使用 AI 助手。
 
 2. 保存在设备上的数据
-应用会保存最近打开的文件列表和小缩略图、书签和阅读位置、通过 OCR 识别的文字、您绘制的签名、应用设置，以及（如您添加）所选 AI 服务的 API 密钥；密钥使用保存在设备安全硬件中的密钥加密。您可以在设置中或清除应用存储来删除这些数据。
+应用会保存最近打开的文件列表和小缩略图、书签和阅读位置、通过 OCR 识别的文字、您绘制的签名、应用设置，以及（如您添加）所选 AI 服务的 API 密钥；密钥使用保存在设备安全硬件中的密钥加密。您可以在设置中或清除应用存储来删除这些数据。 在演示模式下，还会保存您填写的演讲者备注以及从打开的演示文稿中提取的视频和声音；这些内容不会被备份。
 
 3. 备份
 如果开启了 Android 备份，Android 可能会将您的设置、书签和阅读位置备份到您的 Google 账户。API 密钥、签名、OCR 结果、缩略图和最近文件列表不包含在内。您也可以自行导出和导入备份文件。

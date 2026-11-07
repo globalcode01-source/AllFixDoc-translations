@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Bu səhifəni əlfəcinlə",
     "menu_edit": "Redaktə və qeyd",
     "menu_navigate": "Mündəricat və səhifələr",
+    "menu_present": "Təqdimat (proyektor)",
+    "present_projector_hint": "Slaydları proyektorda göstərmək üçün kabel (HDMI/USB-C) qoşun və ya telefonda Ekran yayımı / Smart View funksiyasını açın. Slaydlar proyektora gedir, qeydlər telefonda qalır.",
+    "present_projector": "Proyektor: %1$s",
+    "present_up_next": "Növbəti",
+    "present_end": "Təqdimatın sonu",
+    "present_notes": "Məruzəçi qeydləri",
+    "present_no_notes": "Bu slaydda qeyd yoxdur. Əlavə etmək üçün toxunun.",
+    "present_note_title": "%1$d-ci slaydın qeydi",
+    "present_blanked": "Tamaşaçılar boş ekran görür",
+    "present_timer_reset": "Taymeri sıfırla",
+    "present_previous": "Əvvəlki slayd",
+    "present_next": "Növbəti slayd",
+    "present_laser": "Lazer göstərici",
+    "present_pen": "Qələm",
+    "present_clear": "Rəsmi sil",
+    "present_black": "Qara ekran",
+    "present_white": "Ağ ekran",
+    "present_exit": "Təqdimatı bitir",
+    "present_play_video": "Videonu oynat",
+    "present_play_audio": "Səsi oynat",
+    "video_error": "Bu video bu cihazda oynadıla bilmir.",
+    "video_rewind": "10 saniyə geri",
+    "video_forward": "10 saniyə irəli",
+    "video_close": "Videonu bağla",
+    "video_on_projector": "Proyektorda oynadılır: %1$s",
+    "video_projector_hint": "Proyektorda oynatmaq üçün kabel (HDMI/USB-C) qoşun və ya Ekran yayımı / Smart View-u açın. Video proyektora gedir, idarəetmə telefonda qalır.",
+    "tool_video_project": "Videonu proyektorda oynat",
+    "tool_video_project_desc": "Video proyektorda və ya TV-də, idarəetmə telefonda",
     "menu_read_aloud": "Səsli oxu",
     "menu_ai": "Süni intellekt köməkçisi",
     "menu_ocr": "Mətni tanı (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc Məxfilik Siyasəti
-Son yenilənmə: 22 oktyabr 2026
+Son yenilənmə: 7 noyabr 2026
 
 AllFixDoc PDF oxuyucu və redaktordur. Bu siyasət tətbiqin hansı məlumatları emal etdiyini və nə üçün etdiyini izah edir.
 
@@ -539,7 +567,7 @@ AllFixDoc PDF oxuyucu və redaktordur. Bu siyasət tətbiqin hansı məlumatlar�
 AllFixDoc yalnız Android fayl seçicisi və ya \"Bununla aç\" vasitəsilə seçdiyiniz faylları açır. Tətbiq yaddaş icazəsi istəmir və cihazınızı skan etmir. Sənədlər cihazınızda emal olunur və tətbiq tərəfindən yüklənmir; yalnız süni intellekt köməkçisindən istifadə etdikdə 4-cü bölmədə təsvir olunan hal istisnadır.
 
 2. Cihazınızda saxlanılan məlumatlar
-Tətbiq son açılan faylların siyahısını və kiçik miniatürləri, əlfəcinləri və oxuma mövqelərini, OCR ilə tanınmış mətni, çəkdiyiniz imzaları, tətbiq ayarlarını və — əlavə etsəniz — cihazınızın təhlükəsiz aparatında saxlanılan açarla şifrələnmiş seçdiyiniz AI xidmətinin API açarını saxlayır. Bu məlumatları Ayarlardan və ya tətbiqin yaddaşını təmizləməklə silə bilərsiniz.
+Tətbiq son açılan faylların siyahısını və kiçik miniatürləri, əlfəcinləri və oxuma mövqelərini, OCR ilə tanınmış mətni, çəkdiyiniz imzaları, tətbiq ayarlarını və — əlavə etsəniz — cihazınızın təhlükəsiz aparatında saxlanılan açarla şifrələnmiş seçdiyiniz AI xidmətinin API açarını saxlayır. Bu məlumatları Ayarlardan və ya tətbiqin yaddaşını təmizləməklə silə bilərsiniz. Təqdimat rejimində yazdığınız məruzəçi qeydlərini və açdığınız təqdimatlardan çıxarılan video və səsləri də saxlayır; bunlar ehtiyat nüsxəyə daxil edilmir.
 
 3. Ehtiyat nüsxələr
 Android ehtiyat nüsxəsi aktivdirsə, Android ayarlarınızı, əlfəcinlərinizi və oxuma mövqelərinizi Google hesabınıza saxlaya bilər. API açarınız, imzalar, OCR nəticələri, miniatürlər və son fayllar siyahısı istisna edilir. Ehtiyat faylını özünüz də ixrac və idxal edə bilərsiniz.

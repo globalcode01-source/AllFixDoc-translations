@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Ajouter un signet à cette page",
     "menu_edit": "Modifier et annoter",
     "menu_navigate": "Sommaire et pages",
+    "menu_present": "Présenter (projecteur)",
+    "present_projector_hint": "Pour afficher les diapositives sur un projecteur, branchez un câble (HDMI/USB-C) ou activez Caster l'écran / Smart View sur votre téléphone. Les diapositives vont au projecteur, les notes restent sur le téléphone.",
+    "present_projector": "Projecteur : %1$s",
+    "present_up_next": "À suivre",
+    "present_end": "Fin de la présentation",
+    "present_notes": "Notes du présentateur",
+    "present_no_notes": "Aucune note pour cette diapositive. Touchez pour en ajouter une.",
+    "present_note_title": "Note de la diapositive %1$d",
+    "present_blanked": "Le public voit un écran vide",
+    "present_timer_reset": "Réinitialiser le minuteur",
+    "present_previous": "Diapositive précédente",
+    "present_next": "Diapositive suivante",
+    "present_laser": "Pointeur laser",
+    "present_pen": "Stylo",
+    "present_clear": "Effacer le dessin",
+    "present_black": "Écran noir",
+    "present_white": "Écran blanc",
+    "present_exit": "Terminer la présentation",
+    "present_play_video": "Lire la vidéo",
+    "present_play_audio": "Lire le son",
+    "video_error": "Cette vidéo ne peut pas être lue sur cet appareil.",
+    "video_rewind": "Reculer de 10 secondes",
+    "video_forward": "Avancer de 10 secondes",
+    "video_close": "Fermer la vidéo",
+    "video_on_projector": "Lecture sur le projecteur : %1$s",
+    "video_projector_hint": "Pour lire sur un projecteur, branchez un câble (HDMI/USB-C) ou activez Caster l'écran / Smart View. La vidéo va au projecteur, les commandes restent sur le téléphone.",
+    "tool_video_project": "Lire une vidéo sur le projecteur",
+    "tool_video_project_desc": "Vidéo sur le projecteur ou la TV, commandes sur le téléphone",
     "menu_read_aloud": "Lire à voix haute",
     "menu_ai": "Assistant IA",
     "menu_ocr": "Reconnaître le texte (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Politique de confidentialité de AllFixDoc
-Dernière mise à jour : 22 octobre 2026
+Dernière mise à jour : 7 novembre 2026
 
 AllFixDoc est un lecteur et éditeur de PDF. Cette politique explique quelles données l'application traite et pourquoi.
 
@@ -539,7 +567,7 @@ AllFixDoc est un lecteur et éditeur de PDF. Cette politique explique quelles do
 AllFixDoc n'ouvre que les fichiers que vous choisissez, via le sélecteur de fichiers d'Android ou « Ouvrir avec ». L'application ne demande pas d'autorisation de stockage et n'analyse pas votre appareil. Les documents sont traités sur votre appareil et ne sont pas envoyés par l'application, sauf dans le cas décrit à la section 4 lorsque vous utilisez l'assistant IA.
 
 2. Données stockées sur votre appareil
-L'application conserve la liste des fichiers récemment ouverts et de petits aperçus, les signets et positions de lecture, le texte reconnu par OCR, les signatures que vous dessinez, les paramètres de l'application et, si vous l'ajoutez, la clé API du service d'IA choisi, chiffrée avec une clé conservée dans le matériel sécurisé de votre appareil. Vous pouvez supprimer ces données dans les paramètres ou en effaçant le stockage de l'application.
+L'application conserve la liste des fichiers récemment ouverts et de petits aperçus, les signets et positions de lecture, le texte reconnu par OCR, les signatures que vous dessinez, les paramètres de l'application et, si vous l'ajoutez, la clé API du service d'IA choisi, chiffrée avec une clé conservée dans le matériel sécurisé de votre appareil. Vous pouvez supprimer ces données dans les paramètres ou en effaçant le stockage de l'application. En mode Présentation, elle conserve aussi les notes que vous écrivez et les vidéos et sons extraits des présentations ouvertes ; ils ne sont pas sauvegardés.
 
 3. Sauvegardes
 Si la sauvegarde Android est activée, Android peut sauvegarder vos paramètres, signets et positions de lecture sur votre compte Google. Votre clé API, vos signatures, les résultats d'OCR, les aperçus et la liste des fichiers récents en sont exclus. Vous pouvez aussi exporter et importer vous-même un fichier de sauvegarde.

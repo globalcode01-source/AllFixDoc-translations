@@ -241,6 +241,34 @@ T = {
     "menu_bookmark": "Tandai halaman ini",
     "menu_edit": "Edit dan beri anotasi",
     "menu_navigate": "Daftar isi dan halaman",
+    "menu_present": "Presentasi (proyektor)",
+    "present_projector_hint": "Untuk menampilkan slide di proyektor, sambungkan kabel (HDMI/USB-C) atau aktifkan Transmisi layar / Smart View di ponsel. Slide tampil di proyektor, catatan tetap di ponsel.",
+    "present_projector": "Proyektor: %1$s",
+    "present_up_next": "Berikutnya",
+    "present_end": "Akhir presentasi",
+    "present_notes": "Catatan pembicara",
+    "present_no_notes": "Tidak ada catatan untuk slide ini. Ketuk untuk menambahkan.",
+    "present_note_title": "Catatan slide %1$d",
+    "present_blanked": "Penonton melihat layar kosong",
+    "present_timer_reset": "Atur ulang timer",
+    "present_previous": "Slide sebelumnya",
+    "present_next": "Slide berikutnya",
+    "present_laser": "Penunjuk laser",
+    "present_pen": "Pena",
+    "present_clear": "Hapus coretan",
+    "present_black": "Layar hitam",
+    "present_white": "Layar putih",
+    "present_exit": "Akhiri presentasi",
+    "present_play_video": "Putar video",
+    "present_play_audio": "Putar suara",
+    "video_error": "Video ini tidak dapat diputar di perangkat ini.",
+    "video_rewind": "Mundur 10 detik",
+    "video_forward": "Maju 10 detik",
+    "video_close": "Tutup video",
+    "video_on_projector": "Diputar di proyektor: %1$s",
+    "video_projector_hint": "Untuk memutar di proyektor, sambungkan kabel (HDMI/USB-C) atau aktifkan Transmisi layar / Smart View. Video tampil di proyektor, kontrol tetap di ponsel.",
+    "tool_video_project": "Putar video di proyektor",
+    "tool_video_project_desc": "Video di proyektor atau TV, kontrol di ponsel",
     "menu_read_aloud": "Bacakan",
     "menu_ai": "Asisten AI",
     "menu_ocr": "Kenali teks (OCR)",
@@ -531,7 +559,7 @@ T = {
 }
 
 PRIVACY = """Kebijakan Privasi AllFixDoc
-Terakhir diperbarui: 22 Oktober 2026
+Terakhir diperbarui: 7 November 2026
 
 AllFixDoc adalah pembaca dan editor PDF. Kebijakan ini menjelaskan data apa yang diproses aplikasi dan alasannya.
 
@@ -539,7 +567,7 @@ AllFixDoc adalah pembaca dan editor PDF. Kebijakan ini menjelaskan data apa yang
 AllFixDoc hanya membuka file yang Anda pilih melalui pemilih file Android atau \"Buka dengan\". Aplikasi tidak meminta izin penyimpanan dan tidak memindai perangkat Anda. Dokumen diproses di perangkat Anda dan tidak diunggah oleh aplikasi, kecuali seperti dijelaskan di bagian 4 saat Anda memakai asisten AI.
 
 2. Data yang disimpan di perangkat Anda
-Aplikasi menyimpan daftar file yang baru dibuka dan thumbnail kecil, penanda dan posisi membaca, teks yang dikenali dengan OCR, tanda tangan yang Anda gambar, setelan aplikasi, dan — jika Anda menambahkannya — kunci API layanan AI pilihan Anda, yang dienkripsi dengan kunci yang disimpan di perangkat keras aman perangkat Anda. Anda dapat menghapus data ini di Setelan atau dengan menghapus penyimpanan aplikasi.
+Aplikasi menyimpan daftar file yang baru dibuka dan thumbnail kecil, penanda dan posisi membaca, teks yang dikenali dengan OCR, tanda tangan yang Anda gambar, setelan aplikasi, dan — jika Anda menambahkannya — kunci API layanan AI pilihan Anda, yang dienkripsi dengan kunci yang disimpan di perangkat keras aman perangkat Anda. Anda dapat menghapus data ini di Setelan atau dengan menghapus penyimpanan aplikasi. Dalam mode Presentasi, aplikasi juga menyimpan catatan pembicara yang Anda tulis serta video dan suara yang diambil dari presentasi yang Anda buka; semua ini tidak dicadangkan.
 
 3. Cadangan
 Jika cadangan Android aktif, Android dapat mencadangkan setelan, penanda, dan posisi membaca ke akun Google Anda. Kunci API, tanda tangan, hasil OCR, thumbnail, dan daftar file terbaru tidak disertakan. Anda juga dapat mengekspor dan mengimpor file cadangan sendiri.

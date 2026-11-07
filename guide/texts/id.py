@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: daftar isi, gambar mini halaman, dan penanda. Untuk menandai halaman, gunakan **{menu_bookmark}**.",
             "**{viewer_night_mode}** dan **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: membacakan dokumen dengan suara perangkat dan menandai setiap kata.",
+            "**{menu_present}**: slide tampil di proyektor atau TV (kabel HDMI/USB-C atau Transmisi layar ponsel), notifikasi tidak terlihat; ponsel menampilkan catatan pembicara (dari PowerPoint atau tulis sendiri), slide berikutnya, dan timer. Penunjuk laser, pena, layar hitam/putih; ganti slide dengan remote Bluetooth, keyboard, atau tombol volume. Video dan suara di slide PowerPoint diputar dengan ▶; video tampil layar penuh di proyektor.",
             "Untuk memilih dan mencari teks di dokumen hasil pindaian, gunakan ⋮ › **{menu_ocr}**; simpan hasilnya dengan **{menu_searchable}**.",
         ]),
         ("Catatan dan pengeditan", [
@@ -33,6 +34,7 @@ G = {
             "Keamanan: {tool_protect}, {tool_unprotect}.",
             "Pemindaian: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "File dan gambar: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: video diputar di proyektor atau TV, ponsel tetap memegang putar/jeda, lompat 10 detik, dan layar hitam/putih. Video juga bisa dibuka dari aplikasi lain.",
             "Ketuk ☆ di sudut alat: alat itu akan muncul di baris kedua layar beranda dan di menu cepat.",
         ]),
         ("Catatan suara", [

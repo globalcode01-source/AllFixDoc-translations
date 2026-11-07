@@ -16,6 +16,7 @@ G = {
             "**{menu_navigate}**: table of contents, page thumbnails and bookmarks. To mark a page, use **{menu_bookmark}**.",
             "**{viewer_night_mode}** and **{settings_screen_on}**: {settings_title} › {settings_reading}.",
             "**{menu_read_aloud}**: reads the document with your device's voice and highlights each word.",
+            "**{menu_present}**: slides go to the projector or TV (HDMI/USB-C cable or your phone's Screen cast), notifications stay hidden; your phone shows speaker notes (from PowerPoint, or write your own), the next slide and a timer. Laser pointer, pen, black/white screen; change slides with a Bluetooth clicker, keyboard or volume keys. Videos and sounds in PowerPoint slides play with ▶; the video fills the projector.",
             "To select and search text in a scanned document, use ⋮ › **{menu_ocr}**; save the result with **{menu_searchable}**.",
         ]),
         ("Notes and editing", [
@@ -33,6 +34,7 @@ G = {
             "Security: {tool_protect}, {tool_unprotect}.",
             "Scanning: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Files and images: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
+            "**{tool_video_project}**: the video plays on the projector or TV, and your phone keeps play/pause, 10-second skips and black/white screen. You can also open videos from other apps.",
             "Tap the ☆ in a tool's corner: it then appears in the second row of the home screen and in the quick menu.",
         ]),
         ("Voice notes", [
