@@ -273,6 +273,22 @@ T = {
     "viewer_read_only_label": "只读",
     "udf_read_only_tool": "UYAP（UDF）文档为只读，无法转换、复制或分享。",
     "home_present": "演示",
+    "consent_title": "向境外传输数据",
+    "consent_body_startup": "为了在免费版中显示广告并保持应用设置为最新，AllFixDoc 会将您的 IP 地址和广告 ID 发送到位于美国的 Google（AdMob）和 GitHub 服务器。此跨境传输需要您的明确同意（KVKK 第 9 条）。如果您不同意，将不显示广告，所有功能仍可正常使用。",
+    "consent_body_ai": "您选择的页面文本和您的问题会使用您的密钥发送到所选 AI 服务位于境外的服务器。这需要您的明确同意（KVKK 第 9 条）。",
+    "consent_body_mlkit": "扫描、文字识别、二维码和界面翻译使用 Google ML Kit。图片和文本在您的设备上处理，但 Google Play 服务会下载所需模块，并可能向境外的 Google 服务器发送诊断数据。这需要您的明确同意（KVKK 第 9 条）。",
+    "consent_body_speech": "语音输入使用设备的语音识别服务（通常是 Google），您的语音可能在其境外服务器上处理。AllFixDoc 不会录制或保存音频。这需要您的明确同意（KVKK 第 9 条）。",
+    "consent_change_later": "您可以随时在 设置 › 隐私 中更改。",
+    "consent_accept": "我同意",
+    "consent_reject": "我不同意",
+    "consent_read_notice": "阅读隐私告知",
+    "consent_denied": "此功能需要您同意跨境传输。您可以在 设置 › 隐私 中开启。",
+    "consent_settings_title": "境外传输",
+    "consent_label_startup": "广告和应用设置（Google、GitHub）",
+    "consent_label_ai": "AI 助手（您选择的服务）",
+    "consent_label_mlkit": "扫描、文字识别、二维码和翻译（Google ML Kit）",
+    "consent_label_speech": "语音输入（设备语音服务）",
+    "consent_switch_desc": "关闭时不发送任何数据；使用该功能时会再次询问。",
     "menu_read_aloud": "朗读",
     "menu_ai": "AI 助手",
     "menu_ocr": "识别文字（OCR）",
@@ -563,7 +579,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc 隐私政策
-最后更新：2026 年 11 月 7 日
+最后更新：2026 年 11 月 8 日
 
 AllFixDoc 是一款 PDF 阅读和编辑应用。本政策说明应用处理哪些数据以及原因。
 
@@ -598,4 +614,4 @@ AllFixDoc 不面向 13 岁以下的儿童。
 如对本政策有疑问，请使用应用 Google Play 页面上的开发者联系地址。
 
 11. GDPR 与 KVKK
-数据控制者：Global Code 01（globalcode01@gmail.com）。开发者不收集您的文档或个人数据；只有在您给我们写信时，才会使用您的电子邮件地址和消息进行回复。应用启动时会从开发者网站（GitHub 上的 globalcode01-source.github.io）下载一个小型设置文件，只会发送您的 IP 地址。Google（AdMob、ML Kit、Play）、GitHub 以及您选择的 AI 服务（Google、Anthropic、Groq、Mistral、OpenRouter 等）的服务器位于您所在国家/地区之外；使用这些功能时，您的 IP 地址以及在 AI 助手中选择的文本会传输给该服务。您有权访问、更正、删除数据并提出异议：请写信至 globalcode01@gmail.com，我们将在 30 天内答复。您也可以向数据保护机构投诉。"""
+数据控制者：Global Code 01（globalcode01@gmail.com）。开发者不收集您的文档或个人数据；只有在您给我们写信时，才会使用您的电子邮件地址和消息进行回复。应用启动时会从开发者网站（GitHub 上的 globalcode01-source.github.io）下载一个小型设置文件，只会发送您的 IP 地址。Google（AdMob、ML Kit、Play）、GitHub 以及您选择的 AI 服务（Google、Anthropic、Groq、Mistral、OpenRouter 等）的服务器位于您所在国家/地区之外；使用这些功能时，您的 IP 地址以及在 AI 助手中选择的文本会传输给该服务。您有权访问、更正、删除数据并提出异议：请写信至 globalcode01@gmail.com，我们将在 30 天内答复。您也可以向数据保护机构投诉。 每次向境外传输前，应用都会征求您的明确同意，“同意”和“不同意”以同等方式提供。如果您不同意，则不会发送任何数据，仅该功能保持关闭；未经同意，启动时的设置文件和广告也不会加载。您可以随时在 设置 › 隐私 › 境外传输 中给予或撤回同意。法律依据：境外传输基于明确同意（KVKK 第 5/1 条和第 9 条；GDPR 第 6(1)(a) 条和第 49(1)(a) 条）；为运行应用而保存在设备上的数据基于合同履行（KVKK 第 5/2-c 条；GDPR 第 6(1)(b) 条）。数据在您使用应用时以自动方式收集。"""

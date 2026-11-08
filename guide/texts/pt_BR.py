@@ -65,6 +65,7 @@ G = {
         ("Privacidade", [
             "Não é pedida permissão de armazenamento; o app abre só os arquivos que você escolhe. Não precisa de conta.",
             "Os documentos são processados no aparelho. A internet só é usada pelo assistente de IA (com sua própria chave), anúncios e compras.",
+            "Toda função que envia dados para o exterior (anúncios, IA, digitalização e reconhecimento de texto, entrada por voz) pede seu consentimento antes; se você recusar, nada é enviado. Mude a escolha em Configurações › {consent_settings_title}.",
             "Detalhes: [Política de privacidade](privacy.html#pt-BR).",
         ]),
     ],

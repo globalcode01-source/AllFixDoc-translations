@@ -65,6 +65,7 @@ G = {
         ("Gizlilik", [
             "Depolama izni istenmez; uygulama yalnızca senin seçtiğin dosyaları açar. Hesap açman gerekmez.",
             "Belgeler cihazında işlenir. İnternet yalnızca AI asistanı (kendi anahtarınla), reklam ve satın alma için kullanılır.",
+            "Yurt dışına veri gönderen her özellik (reklam, AI, tarama ve metin tanıma, sesle yazma) önce iznini sorar; kabul etmezsen veri gitmez. Kararını Ayarlar › {consent_settings_title} bölümünden değiştirebilirsin.",
             "Ayrıntılar: [Gizlilik politikası](privacy.html#tr).",
         ]),
     ],

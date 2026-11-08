@@ -273,6 +273,22 @@ T = {
     "viewer_read_only_label": "Sola lettura",
     "udf_read_only_tool": "I documenti UYAP (UDF) sono di sola lettura: non si possono convertire, copiare o condividere.",
     "home_present": "Presenta",
+    "consent_title": "Trasferimento di dati all'estero",
+    "consent_body_startup": "Per mostrare annunci nella versione gratuita e mantenere aggiornate le impostazioni dell'app, AllFixDoc invia il tuo indirizzo IP e l'ID pubblicità ai server di Google (AdMob) e GitHub negli Stati Uniti. Questo trasferimento all'estero richiede il tuo consenso esplicito (art. 9 KVKK). Se non accetti, non vengono mostrati annunci e tutte le funzioni continuano a funzionare.",
+    "consent_body_ai": "Il testo delle pagine che scegli e le tue domande vengono inviati, con la tua chiave, ai server del servizio di IA scelto, che si trovano all'estero. Serve il tuo consenso esplicito (art. 9 KVKK).",
+    "consent_body_mlkit": "Scansione, riconoscimento del testo, codici QR e traduzione dell'interfaccia usano Google ML Kit. Immagini e testo vengono elaborati sul dispositivo, ma i servizi Google Play scaricano i moduli necessari e possono inviare dati diagnostici ai server Google all'estero. Serve il tuo consenso esplicito (art. 9 KVKK).",
+    "consent_body_speech": "L'input vocale usa il servizio di riconoscimento vocale del dispositivo (di solito Google); la tua voce può essere elaborata sui suoi server all'estero. AllFixDoc non registra né conserva audio. Serve il tuo consenso esplicito (art. 9 KVKK).",
+    "consent_change_later": "Puoi cambiare questa scelta in qualsiasi momento in Impostazioni › Privacy.",
+    "consent_accept": "Accetto",
+    "consent_reject": "Non accetto",
+    "consent_read_notice": "Leggi l'informativa",
+    "consent_denied": "Questa funzione richiede il tuo consenso al trasferimento all'estero. Puoi attivarlo in Impostazioni › Privacy.",
+    "consent_settings_title": "Trasferimenti all'estero",
+    "consent_label_startup": "Annunci e impostazioni dell'app (Google, GitHub)",
+    "consent_label_ai": "Assistente IA (servizio scelto)",
+    "consent_label_mlkit": "Scansione, riconoscimento testo, QR e traduzione (Google ML Kit)",
+    "consent_label_speech": "Input vocale (servizio vocale del dispositivo)",
+    "consent_switch_desc": "Disattivato: non vengono inviati dati; la funzione chiede di nuovo quando la usi.",
     "menu_read_aloud": "Leggi ad alta voce",
     "menu_ai": "Assistente IA",
     "menu_ocr": "Riconosci testo (OCR)",
@@ -563,7 +579,7 @@ T = {
 }
 
 PRIVACY = """Informativa sulla privacy di AllFixDoc
-Ultimo aggiornamento: 7 novembre 2026
+Ultimo aggiornamento: 8 novembre 2026
 
 AllFixDoc è un lettore ed editor di PDF. Questa informativa spiega quali dati tratta l'app e perché.
 
@@ -598,4 +614,4 @@ Se questa informativa cambia, questa pagina e la data sopra verranno aggiornate.
 Per domande su questa informativa usa l'indirizzo di contatto dello sviluppatore nella pagina Google Play dell'app.
 
 11. GDPR e KVKK
-Titolare del trattamento: Global Code 01 (globalcode01@gmail.com). Lo sviluppatore non raccoglie i tuoi documenti né i tuoi dati personali; solo se ci scrivi, il tuo indirizzo e-mail e il messaggio vengono usati per risponderti. All'avvio l'app scarica un piccolo file di impostazioni dal sito dello sviluppatore (globalcode01-source.github.io, su GitHub); viene inviato solo il tuo indirizzo IP. Google (AdMob, ML Kit, Play), GitHub e il servizio di IA che scegli (Google, Anthropic, Groq, Mistral, OpenRouter, ecc.) hanno server fuori dal tuo paese; quando usi queste funzioni, il tuo indirizzo IP e, per l'assistente IA, il testo selezionato vengono trasferiti a quel servizio. Hai diritto di accesso, rettifica, cancellazione e opposizione: scrivi a globalcode01@gmail.com, riceverai risposta entro 30 giorni. Puoi anche presentare reclamo alla tua autorità per la protezione dei dati."""
+Titolare del trattamento: Global Code 01 (globalcode01@gmail.com). Lo sviluppatore non raccoglie i tuoi documenti né i tuoi dati personali; solo se ci scrivi, il tuo indirizzo e-mail e il messaggio vengono usati per risponderti. All'avvio l'app scarica un piccolo file di impostazioni dal sito dello sviluppatore (globalcode01-source.github.io, su GitHub); viene inviato solo il tuo indirizzo IP. Google (AdMob, ML Kit, Play), GitHub e il servizio di IA che scegli (Google, Anthropic, Groq, Mistral, OpenRouter, ecc.) hanno server fuori dal tuo paese; quando usi queste funzioni, il tuo indirizzo IP e, per l'assistente IA, il testo selezionato vengono trasferiti a quel servizio. Hai diritto di accesso, rettifica, cancellazione e opposizione: scrivi a globalcode01@gmail.com, riceverai risposta entro 30 giorni. Puoi anche presentare reclamo alla tua autorità per la protezione dei dati. Prima di ciascuno di questi trasferimenti all'estero l'app chiede il tuo consenso esplicito; accettare e rifiutare sono proposti allo stesso modo. Se rifiuti, non viene inviato nulla e resta disattivata solo quella funzione; anche il file di impostazioni all'avvio e gli annunci non vengono caricati senza consenso. Puoi dare o revocare il consenso in qualsiasi momento in Impostazioni › Privacy › Trasferimenti all'estero. Base giuridica: consenso esplicito per i trasferimenti all'estero (art. 5/1 e 9 KVKK; art. 6.1.a e 49.1.a GDPR); per i dati conservati sul dispositivo per far funzionare l'app, l'esecuzione del contratto (art. 5/2-c KVKK; art. 6.1.b GDPR). I dati sono raccolti in modo automatizzato durante l'uso dell'app."""

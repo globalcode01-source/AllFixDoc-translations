@@ -65,6 +65,7 @@ G = {
         ("Privasi", [
             "Tidak ada izin penyimpanan yang diminta; aplikasi hanya membuka file yang Anda pilih. Tidak perlu akun.",
             "Dokumen diproses di perangkat Anda. Internet hanya dipakai untuk asisten AI (dengan kunci Anda sendiri), iklan, dan pembelian.",
+            "Setiap fitur yang mengirim data ke luar negeri (iklan, AI, pindai dan pengenalan teks, input suara) meminta persetujuan Anda terlebih dahulu; jika Anda menolak, tidak ada yang dikirim. Ubah pilihan di Setelan › {consent_settings_title}.",
             "Rincian: [Kebijakan privasi](privacy.html#id).",
         ]),
     ],

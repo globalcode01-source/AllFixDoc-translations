@@ -273,6 +273,22 @@ T = {
     "viewer_read_only_label": "Yalnız oxunur",
     "udf_read_only_tool": "UYAP (UDF) sənədləri yalnız oxunur: çevrilə, kopyalana və paylaşıla bilməz.",
     "home_present": "Təqdimat",
+    "consent_title": "Xaricə məlumat ötürülməsi",
+    "consent_body_startup": "Pulsuz versiyada reklam göstərmək və tətbiq ayarlarını aktual saxlamaq üçün AllFixDoc IP ünvanınızı və reklam identifikatorunuzu ABŞ-dakı Google (AdMob) və GitHub serverlərinə göndərir. Bu xaricə ötürmə üçün açıq razılığınız lazımdır (KVKK m.9). Razı olmasanız, reklam göstərilmir və bütün funksiyalar yenə işləyir.",
+    "consent_body_ai": "Seçdiyiniz səhifələrin mətni və suallarınız açarınızla seçdiyiniz AI xidmətinin xaricdəki serverlərinə göndərilir. Bunun üçün açıq razılığınız lazımdır (KVKK m.9).",
+    "consent_body_mlkit": "Sənəd skanı, mətn tanıma, QR kodları və interfeys tərcüməsi Google ML Kit-dən istifadə edir. Şəkillər və mətn cihazınızda emal olunur, lakin Google Play xidmətləri lazımi modulları yükləyir və xaricdəki Google serverlərinə diaqnostika məlumatı göndərə bilər. Bunun üçün açıq razılığınız lazımdır (KVKK m.9).",
+    "consent_body_speech": "Səslə yazma cihazınızın nitq tanıma xidmətindən (adətən Google) istifadə edir; səsiniz onun xaricdəki serverlərində emal oluna bilər. AllFixDoc səs yazmır və saxlamır. Bunun üçün açıq razılığınız lazımdır (KVKK m.9).",
+    "consent_change_later": "Bunu istənilən vaxt Ayarlar › Məxfilik bölməsindən dəyişə bilərsiniz.",
+    "consent_accept": "Razıyam",
+    "consent_reject": "Razı deyiləm",
+    "consent_read_notice": "Məlumatlandırma mətnini oxu",
+    "consent_denied": "Bu funksiya xaricə ötürmə icazəniz olmadan işləmir. Ayarlar › Məxfilik bölməsindən aça bilərsiniz.",
+    "consent_settings_title": "Xaricə ötürmə icazələri",
+    "consent_label_startup": "Reklam və tətbiq ayarı (Google, GitHub)",
+    "consent_label_ai": "AI köməkçisi (seçdiyiniz xidmət)",
+    "consent_label_mlkit": "Skan, mətn tanıma, QR və tərcümə (Google ML Kit)",
+    "consent_label_speech": "Səslə yazma (cihazın nitq xidməti)",
+    "consent_switch_desc": "Söndürüləndə məlumat göndərilmir; funksiyadan istifadə edəndə yenidən soruşulur.",
     "menu_read_aloud": "Səsli oxu",
     "menu_ai": "Süni intellekt köməkçisi",
     "menu_ocr": "Mətni tanı (OCR)",
@@ -563,7 +579,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc Məxfilik Siyasəti
-Son yenilənmə: 7 noyabr 2026
+Son yenilənmə: 8 noyabr 2026
 
 AllFixDoc PDF oxuyucu və redaktordur. Bu siyasət tətbiqin hansı məlumatları emal etdiyini və nə üçün etdiyini izah edir.
 
@@ -598,4 +614,4 @@ Bu siyasət dəyişərsə, bu səhifə və yuxarıdakı tarix yenilənəcək.
 Bu siyasətlə bağlı suallar üçün tətbiqin Google Play səhifəsindəki tərtibatçı əlaqə ünvanından istifadə edin.
 
 11. KVKK və GDPR
-Məlumat nəzarətçisi: Global Code 01 (globalcode01@gmail.com). Tərtibatçı sənədlərinizi və şəxsi məlumatlarınızı toplamır; yalnız bizə yazsanız, e-poçt ünvanınız və mesajınız cavab vermək üçün istifadə olunur. Tətbiq açılarkən tərtibatçının saytından (globalcode01-source.github.io, GitHub-da) kiçik ayarlar faylı yükləyir; bu sorğuda IP ünvanınızdan başqa məlumat göndərilmir. Google (AdMob, ML Kit, Play), GitHub və seçdiyiniz süni intellekt xidməti (Google, Anthropic, Groq, Mistral, OpenRouter və s.) ölkənizdən kənardakı serverlərdə işləyir; bu funksiyalardan istifadə etdikdə IP ünvanınız, süni intellekt köməkçisində isə seçdiyiniz mətn həmin xidmətə ötürülür. Məlumatlarınıza çıxış, düzəliş, silinmə və etiraz hüququnuz var: globalcode01@gmail.com ünvanına yazın, 30 gün ərzində cavab veriləcək. Məlumatların mühafizəsi orqanına da şikayət edə bilərsiniz."""
+Məlumat nəzarətçisi: Global Code 01 (globalcode01@gmail.com). Tərtibatçı sənədlərinizi və şəxsi məlumatlarınızı toplamır; yalnız bizə yazsanız, e-poçt ünvanınız və mesajınız cavab vermək üçün istifadə olunur. Tətbiq açılarkən tərtibatçının saytından (globalcode01-source.github.io, GitHub-da) kiçik ayarlar faylı yükləyir; bu sorğuda IP ünvanınızdan başqa məlumat göndərilmir. Google (AdMob, ML Kit, Play), GitHub və seçdiyiniz süni intellekt xidməti (Google, Anthropic, Groq, Mistral, OpenRouter və s.) ölkənizdən kənardakı serverlərdə işləyir; bu funksiyalardan istifadə etdikdə IP ünvanınız, süni intellekt köməkçisində isə seçdiyiniz mətn həmin xidmətə ötürülür. Məlumatlarınıza çıxış, düzəliş, silinmə və etiraz hüququnuz var: globalcode01@gmail.com ünvanına yazın, 30 gün ərzində cavab veriləcək. Məlumatların mühafizəsi orqanına da şikayət edə bilərsiniz. Bu xaricə ötürmələrin hər biri üçün ötürmədən əvvəl açıq razılığınız soruşulur; razılaşmaq və imtina bərabər seçim kimi təqdim olunur. Razı olmasanız heç bir məlumat göndərilmir, yalnız həmin funksiya bağlı qalır; açılışdakı ayar faylı və reklamlar da razılıq olmadan yüklənmir. Razılığı istənilən vaxt Ayarlar › Məxfilik › Xaricə ötürmə icazələri bölməsindən verə və ya geri götürə bilərsiniz. Hüquqi əsas: xaricə ötürmələr üçün açıq razılıq (KVKK m.5/1 və m.9; GDPR m.6/1-a və m.49/1-a); tətbiqin işləməsi üçün cihazda saxlanan məlumatlar üçün müqavilənin icrası (KVKK m.5/2-c; GDPR m.6/1-b). Məlumatlar tətbiqdən istifadə zamanı avtomatik yolla toplanır."""

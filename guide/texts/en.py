@@ -65,6 +65,7 @@ G = {
         ("Privacy", [
             "No storage permission is requested; the app opens only the files you choose. No account is needed.",
             "Documents are processed on your device. The internet is used only for the AI assistant (with your own key), ads and purchases.",
+            "Every feature that sends data abroad (ads, AI, scanning and text recognition, voice input) asks for your consent first; if you decline, nothing is sent. Change your choice in Settings › {consent_settings_title}.",
             "Details: [Privacy policy](privacy.html#en).",
         ]),
     ],

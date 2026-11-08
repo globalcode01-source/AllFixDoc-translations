@@ -65,6 +65,7 @@ G = {
         ("Confidentialité", [
             "Aucune autorisation de stockage n'est demandée ; l'app n'ouvre que les fichiers que vous choisissez. Aucun compte n'est nécessaire.",
             "Les documents sont traités sur votre appareil. Internet ne sert qu'à l'assistant IA (avec votre propre clé), aux annonces et aux achats.",
+            "Chaque fonction qui envoie des données à l'étranger (publicités, IA, numérisation et reconnaissance de texte, saisie vocale) demande d'abord votre consentement ; si vous refusez, rien n'est envoyé. Modifiez ce choix dans Paramètres › {consent_settings_title}.",
             "Détails : [Politique de confidentialité](privacy.html#fr).",
         ]),
     ],

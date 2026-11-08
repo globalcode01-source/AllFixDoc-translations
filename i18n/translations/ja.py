@@ -273,6 +273,22 @@ T = {
     "viewer_read_only_label": "閲覧専用",
     "udf_read_only_tool": "UYAP（UDF）文書は閲覧専用のため、変換・コピー・共有はできません。",
     "home_present": "プレゼン",
+    "consent_title": "国外へのデータ移転",
+    "consent_body_startup": "無料版で広告を表示し、アプリの設定を最新に保つため、AllFixDoc は IP アドレスと広告 ID を米国の Google（AdMob）と GitHub のサーバーに送信します。この国外移転には明示的な同意が必要です（KVKK 第9条）。同意しない場合、広告は表示されず、すべての機能はそのまま使えます。",
+    "consent_body_ai": "選んだページのテキストと質問は、あなたのキーで、選んだ AI サービスの国外サーバーに送信されます。これには明示的な同意が必要です（KVKK 第9条）。",
+    "consent_body_mlkit": "スキャン、文字認識、QR コード、画面の翻訳には Google ML Kit を使います。画像とテキストは端末で処理されますが、Google Play 開発者サービスが必要なモジュールをダウンロードし、国外の Google サーバーに診断データを送信することがあります。これには明示的な同意が必要です（KVKK 第9条）。",
+    "consent_body_speech": "音声入力は端末の音声認識サービス（通常は Google）を使い、音声が国外のサーバーで処理されることがあります。AllFixDoc は音声を録音・保存しません。これには明示的な同意が必要です（KVKK 第9条）。",
+    "consent_change_later": "設定 › プライバシーでいつでも変更できます。",
+    "consent_accept": "同意する",
+    "consent_reject": "同意しない",
+    "consent_read_notice": "プライバシー通知を読む",
+    "consent_denied": "この機能には国外移転への同意が必要です。設定 › プライバシーでオンにできます。",
+    "consent_settings_title": "国外への移転",
+    "consent_label_startup": "広告とアプリ設定（Google、GitHub）",
+    "consent_label_ai": "AI アシスタント（選んだサービス）",
+    "consent_label_mlkit": "スキャン・文字認識・QR・翻訳（Google ML Kit）",
+    "consent_label_speech": "音声入力（端末の音声サービス）",
+    "consent_switch_desc": "オフの間はデータを送信せず、機能を使うときに改めて確認します。",
     "menu_read_aloud": "読み上げ",
     "menu_ai": "AIアシスタント",
     "menu_ocr": "文字認識（OCR）",
@@ -563,7 +579,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc プライバシーポリシー
-最終更新日: 2026年11月7日
+最終更新日: 2026年11月8日
 
 AllFixDocはPDFの閲覧・編集アプリです。本ポリシーでは、アプリが処理するデータとその理由を説明します。
 
@@ -598,4 +614,4 @@ AllFixDocは13歳未満の子どもを対象としていません。
 本ポリシーに関するご質問は、Google Playのアプリページに記載された開発者の連絡先までお寄せください。
 
 11. GDPR と KVKK
-データ管理者: Global Code 01（globalcode01@gmail.com）。開発者はお客様の文書や個人データを収集しません。お問い合わせをいただいた場合のみ、返信のためにメールアドレスとメッセージを使用します。アプリは起動時に開発者のサイト（GitHub 上の globalcode01-source.github.io）から小さな設定ファイルをダウンロードします。送信されるのは IP アドレスのみです。Google（AdMob、ML Kit、Play）、GitHub、選択した AI サービス（Google、Anthropic、Groq、Mistral、OpenRouter など）のサーバーは国外にあり、これらの機能を使うと IP アドレスと、AI アシスタントでは選択したテキストがそのサービスに転送されます。お客様にはアクセス、訂正、削除、異議申し立ての権利があります。globalcode01@gmail.com までご連絡ください。30 日以内に回答します。データ保護当局に苦情を申し立てることもできます。"""
+データ管理者: Global Code 01（globalcode01@gmail.com）。開発者はお客様の文書や個人データを収集しません。お問い合わせをいただいた場合のみ、返信のためにメールアドレスとメッセージを使用します。アプリは起動時に開発者のサイト（GitHub 上の globalcode01-source.github.io）から小さな設定ファイルをダウンロードします。送信されるのは IP アドレスのみです。Google（AdMob、ML Kit、Play）、GitHub、選択した AI サービス（Google、Anthropic、Groq、Mistral、OpenRouter など）のサーバーは国外にあり、これらの機能を使うと IP アドレスと、AI アシスタントでは選択したテキストがそのサービスに転送されます。お客様にはアクセス、訂正、削除、異議申し立ての権利があります。globalcode01@gmail.com までご連絡ください。30 日以内に回答します。データ保護当局に苦情を申し立てることもできます。 これらの国外移転の前には毎回、明示的な同意を求めます。「同意する」と「同意しない」は同じ扱いで表示されます。同意しない場合は何も送信されず、その機能だけがオフになります。起動時の設定ファイルと広告も同意なしには読み込まれません。同意は 設定 › プライバシー › 国外への移転 でいつでも与えたり撤回したりできます。法的根拠：国外移転については明示的な同意（KVKK 第5条1項・第9条、GDPR 第6条1項(a)・第49条1項(a)）、アプリの動作のために端末に保存するデータについては契約の履行（KVKK 第5条2項(c)、GDPR 第6条1項(b)）。データはアプリの使用中に自動的な方法で収集されます。"""

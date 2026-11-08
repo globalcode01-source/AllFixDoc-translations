@@ -65,6 +65,7 @@ G = {
         ("Datenschutz", [
             "Es wird keine Speicherberechtigung verlangt; die App öffnet nur die Dateien, die du auswählst. Ein Konto ist nicht nötig.",
             "Dokumente werden auf deinem Gerät verarbeitet. Das Internet wird nur für den KI-Assistenten (mit deinem eigenen Schlüssel), Werbung und Käufe genutzt.",
+            "Jede Funktion, die Daten ins Ausland sendet (Werbung, KI, Scannen und Texterkennung, Spracheingabe), fragt zuerst nach deiner Einwilligung; lehnst du ab, wird nichts gesendet. Ändern kannst du das unter Einstellungen › {consent_settings_title}.",
             "Details: [Datenschutzerklärung](privacy.html#de).",
         ]),
     ],

@@ -273,6 +273,22 @@ T = {
     "viewer_read_only_label": "Hanya baca",
     "udf_read_only_tool": "Dokumen UYAP (UDF) hanya bisa dibaca: tidak bisa dikonversi, disalin, atau dibagikan.",
     "home_present": "Presentasi",
+    "consent_title": "Transfer data ke luar negeri",
+    "consent_body_startup": "Untuk menampilkan iklan di versi gratis dan menjaga pengaturan aplikasi tetap terbaru, AllFixDoc mengirim alamat IP dan ID iklan Anda ke server Google (AdMob) dan GitHub di AS. Transfer ke luar negeri ini memerlukan persetujuan eksplisit Anda (KVKK pasal 9). Jika Anda tidak setuju, iklan tidak ditampilkan dan semua fitur tetap berfungsi.",
+    "consent_body_ai": "Teks halaman yang Anda pilih dan pertanyaan Anda dikirim, dengan kunci Anda, ke server layanan AI pilihan Anda di luar negeri. Ini memerlukan persetujuan eksplisit Anda (KVKK pasal 9).",
+    "consent_body_mlkit": "Pemindaian, pengenalan teks, kode QR, dan terjemahan antarmuka menggunakan Google ML Kit. Gambar dan teks diproses di perangkat Anda, tetapi layanan Google Play mengunduh modul yang diperlukan dan dapat mengirim data diagnostik ke server Google di luar negeri. Ini memerlukan persetujuan eksplisit Anda (KVKK pasal 9).",
+    "consent_body_speech": "Input suara menggunakan layanan pengenalan suara perangkat Anda (biasanya Google); suara Anda dapat diproses di servernya di luar negeri. AllFixDoc tidak merekam atau menyimpan audio. Ini memerlukan persetujuan eksplisit Anda (KVKK pasal 9).",
+    "consent_change_later": "Anda dapat mengubahnya kapan saja di Setelan › Privasi.",
+    "consent_accept": "Saya setuju",
+    "consent_reject": "Saya tidak setuju",
+    "consent_read_notice": "Baca pemberitahuan privasi",
+    "consent_denied": "Fitur ini memerlukan persetujuan Anda untuk transfer ke luar negeri. Anda dapat mengaktifkannya di Setelan › Privasi.",
+    "consent_settings_title": "Transfer ke luar negeri",
+    "consent_label_startup": "Iklan dan pengaturan aplikasi (Google, GitHub)",
+    "consent_label_ai": "Asisten AI (layanan pilihan Anda)",
+    "consent_label_mlkit": "Pindai, pengenalan teks, QR, dan terjemahan (Google ML Kit)",
+    "consent_label_speech": "Input suara (layanan suara perangkat)",
+    "consent_switch_desc": "Saat nonaktif, tidak ada data yang dikirim; fitur akan bertanya lagi saat digunakan.",
     "menu_read_aloud": "Bacakan",
     "menu_ai": "Asisten AI",
     "menu_ocr": "Kenali teks (OCR)",
@@ -563,7 +579,7 @@ T = {
 }
 
 PRIVACY = """Kebijakan Privasi AllFixDoc
-Terakhir diperbarui: 7 November 2026
+Terakhir diperbarui: 8 November 2026
 
 AllFixDoc adalah pembaca dan editor PDF. Kebijakan ini menjelaskan data apa yang diproses aplikasi dan alasannya.
 
@@ -598,4 +614,4 @@ Jika kebijakan ini berubah, halaman ini dan tanggal di atas akan diperbarui.
 Untuk pertanyaan tentang kebijakan ini, gunakan alamat kontak pengembang di halaman Google Play aplikasi.
 
 11. GDPR dan KVKK
-Pengendali data: Global Code 01 (globalcode01@gmail.com). Pengembang tidak mengumpulkan dokumen maupun data pribadi Anda; hanya jika Anda menulis kepada kami, alamat email dan pesan Anda digunakan untuk membalas. Saat dibuka, aplikasi mengunduh file pengaturan kecil dari situs pengembang (globalcode01-source.github.io, di GitHub); hanya alamat IP Anda yang terkirim. Google (AdMob, ML Kit, Play), GitHub, dan layanan AI yang Anda pilih (Google, Anthropic, Groq, Mistral, OpenRouter, dll.) memiliki server di luar negara Anda; saat Anda memakai fitur ini, alamat IP Anda dan, untuk asisten AI, teks yang Anda pilih dikirim ke layanan tersebut. Anda berhak mengakses, memperbaiki, menghapus, dan mengajukan keberatan: tulis ke globalcode01@gmail.com, balasan dikirim dalam 30 hari. Anda juga dapat mengadu ke otoritas perlindungan data Anda."""
+Pengendali data: Global Code 01 (globalcode01@gmail.com). Pengembang tidak mengumpulkan dokumen maupun data pribadi Anda; hanya jika Anda menulis kepada kami, alamat email dan pesan Anda digunakan untuk membalas. Saat dibuka, aplikasi mengunduh file pengaturan kecil dari situs pengembang (globalcode01-source.github.io, di GitHub); hanya alamat IP Anda yang terkirim. Google (AdMob, ML Kit, Play), GitHub, dan layanan AI yang Anda pilih (Google, Anthropic, Groq, Mistral, OpenRouter, dll.) memiliki server di luar negara Anda; saat Anda memakai fitur ini, alamat IP Anda dan, untuk asisten AI, teks yang Anda pilih dikirim ke layanan tersebut. Anda berhak mengakses, memperbaiki, menghapus, dan mengajukan keberatan: tulis ke globalcode01@gmail.com, balasan dikirim dalam 30 hari. Anda juga dapat mengadu ke otoritas perlindungan data Anda. Sebelum setiap transfer ke luar negeri ini, aplikasi meminta persetujuan eksplisit Anda; setuju dan menolak ditawarkan setara. Jika Anda menolak, tidak ada data yang dikirim dan hanya fitur itu yang nonaktif; file pengaturan saat aplikasi dibuka dan iklan juga tidak dimuat tanpa persetujuan. Anda dapat memberi atau menarik persetujuan kapan saja di Setelan › Privasi › Transfer ke luar negeri. Dasar hukum: persetujuan eksplisit untuk transfer ke luar negeri (KVKK pasal 5/1 dan 9; GDPR pasal 6(1)(a) dan 49(1)(a)); untuk data yang disimpan di perangkat agar aplikasi berjalan, pelaksanaan kontrak (KVKK pasal 5/2-c; GDPR pasal 6(1)(b)). Data dikumpulkan secara otomatis saat Anda menggunakan aplikasi."""

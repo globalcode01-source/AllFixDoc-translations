@@ -303,6 +303,22 @@ S = {
     "viewer_read_only_label": ("Read-only", "Yalnızca okunur"),
     "udf_read_only_tool": ("UYAP (UDF) documents are read-only: they can't be converted, copied or shared.", "UYAP (UDF) belgeleri yalnızca okunur: dönüştürülemez, kopyalanamaz, paylaşılamaz."),
     "home_present": ("Present", "Sunum"),
+    "consent_title": ("Data transfer abroad", "Yurt dışına veri aktarımı"),
+    "consent_body_startup": ("To show ads in the free version and keep the app's settings up to date, AllFixDoc sends your IP address and advertising ID to Google (AdMob) and GitHub servers in the USA. This transfer abroad needs your explicit consent (KVKK art. 9). If you don't agree, no ads are shown and every feature still works.", "Ücretsiz sürümde reklam göstermek ve uygulama ayarlarını güncel tutmak için AllFixDoc, IP adresini ve reklam kimliğini ABD'deki Google (AdMob) ve GitHub sunucularına gönderir. Bu yurt dışı aktarım için açık rızan gerekir (KVKK m.9). Kabul etmezsen reklam gösterilmez, tüm özellikler yine çalışır."),
+    "consent_body_ai": ("The text of the pages you choose and your questions are sent, with your key, to the servers of the AI service you selected, which are abroad. This needs your explicit consent (KVKK art. 9).", "Seçtiğin sayfaların metni ve soruların, senin anahtarınla seçtiğin AI servisinin yurt dışındaki sunucularına gönderilir. Bunun için açık rızan gerekir (KVKK m.9)."),
+    "consent_body_mlkit": ("Scanning, text recognition, QR codes and interface translation use Google ML Kit. Images and text are processed on your device, but Google Play services downloads the needed modules and may send diagnostic data to Google servers abroad. This needs your explicit consent (KVKK art. 9).", "Belge tarama, metin tanıma, QR kodları ve arayüz çevirisi Google ML Kit'i kullanır. Görüntüler ve metin cihazında işlenir; ancak Google Play hizmetleri gerekli modülleri indirir ve yurt dışındaki Google sunucularına tanılama verisi gönderebilir. Bunun için açık rızan gerekir (KVKK m.9)."),
+    "consent_body_speech": ("Voice input uses your device's speech recognition service (usually Google); your voice may be processed on its servers abroad. AllFixDoc doesn't record or keep audio. This needs your explicit consent (KVKK art. 9).", "Sesle yazma, cihazının konuşma tanıma servisini (çoğunlukla Google) kullanır; sesin yurt dışındaki sunucularında işlenebilir. AllFixDoc ses kaydetmez, saklamaz. Bunun için açık rızan gerekir (KVKK m.9)."),
+    "consent_change_later": ("You can change this any time in Settings › Privacy.", "Bunu istediğin zaman Ayarlar › Gizlilik'ten değiştirebilirsin."),
+    "consent_accept": ("I agree", "Kabul ediyorum"),
+    "consent_reject": ("I don't agree", "Kabul etmiyorum"),
+    "consent_read_notice": ("Read the privacy notice", "Aydınlatma metnini oku"),
+    "consent_denied": ("This feature needs your consent to the transfer abroad. You can turn it on in Settings › Privacy.", "Bu özellik yurt dışı aktarım iznin olmadan çalışmaz. Ayarlar › Gizlilik'ten açabilirsin."),
+    "consent_settings_title": ("Transfers abroad", "Yurt dışına aktarım izinleri"),
+    "consent_label_startup": ("Ads and app settings (Google, GitHub)", "Reklam ve uygulama ayarı (Google, GitHub)"),
+    "consent_label_ai": ("AI assistant (the service you choose)", "AI asistanı (seçtiğin servis)"),
+    "consent_label_mlkit": ("Scan, text recognition, QR and translation (Google ML Kit)", "Tarama, metin tanıma, QR ve çeviri (Google ML Kit)"),
+    "consent_label_speech": ("Voice input (device speech service)", "Sesle yazma (cihazın konuşma servisi)"),
+    "consent_switch_desc": ("When off, no data is sent; the feature asks again when you use it.", "Kapalıyken veri gönderilmez; özelliği kullanınca yeniden sorulur."),
     "menu_read_aloud": ("Read aloud", "Sesli oku"),
     "menu_ai": ("AI assistant", "AI asistan"),
     "menu_ocr": ("Recognize text (OCR)", "Metni tanı (OCR)"),
@@ -692,7 +708,7 @@ S = {
 }
 
 PRIVACY_EN = """AllFixDoc Privacy Policy
-Last updated: 7 November 2026
+Last updated: 8 November 2026
 
 AllFixDoc is a PDF reader and editor. This policy explains what data the app handles and why.
 
@@ -727,10 +743,10 @@ When this policy changes, this page and the date above will be updated.
 For questions about this policy, use the developer contact address on the app's Google Play page.
 
 11. GDPR and KVKK
-Data controller: Global Code 01 (globalcode01@gmail.com). The developer doesn't collect your documents or personal data; only if you write to us are your e-mail address and message used to reply. When the app starts it downloads a small settings file from the developer's site (globalcode01-source.github.io, on GitHub); only your IP address is sent. Google (AdMob, ML Kit, Play), GitHub and the AI service you choose (Google, Anthropic, Groq, Mistral, OpenRouter, etc.) run servers outside your country; when you use these features your IP address, and for the AI assistant the text you selected, is transferred to that service. You have the right to access, rectify, erase and object: write to globalcode01@gmail.com and you will get an answer within 30 days. You may also complain to your data protection authority (in Turkey, the Personal Data Protection Board)."""
+Data controller: Global Code 01 (globalcode01@gmail.com). The developer doesn't collect your documents or personal data; only if you write to us are your e-mail address and message used to reply. When the app starts it downloads a small settings file from the developer's site (globalcode01-source.github.io, on GitHub); only your IP address is sent. Google (AdMob, ML Kit, Play), GitHub and the AI service you choose (Google, Anthropic, Groq, Mistral, OpenRouter, etc.) run servers outside your country; when you use these features your IP address, and for the AI assistant the text you selected, is transferred to that service. You have the right to access, rectify, erase and object: write to globalcode01@gmail.com and you will get an answer within 30 days. You may also complain to your data protection authority (in Turkey, the Personal Data Protection Board). Before each of these transfers abroad the app asks for your explicit consent, with accept and decline offered equally. If you decline, nothing is sent and only that feature stays off; the startup settings file and ads are not loaded without consent either. You can give or withdraw consent any time in Settings › Privacy › Transfers abroad. Legal basis: explicit consent for transfers abroad (KVKK art. 5/1 and 9; GDPR art. 6(1)(a) and 49(1)(a)); for data kept on your device to run the app, performance of the contract (KVKK art. 5/2-c; GDPR art. 6(1)(b)). Data is collected by automated means while you use the app."""
 
 PRIVACY_TR = """AllFixDoc Gizlilik Politikası
-Son güncelleme: 7 Kasım 2026
+Son güncelleme: 8 Kasım 2026
 
 AllFixDoc bir PDF okuyucu ve düzenleyicidir. Bu politika, uygulamanın hangi verileri neden işlediğini açıklar.
 
@@ -765,7 +781,7 @@ Bu politika değiştiğinde bu sayfa ve yukarıdaki tarih güncellenir.
 Bu politikayla ilgili soruların için uygulamanın Google Play sayfasındaki geliştirici iletişim adresini kullanabilirsin.
 
 11. KVKK ve GDPR
-Veri sorumlusu: Global Code 01 (globalcode01@gmail.com). Geliştirici belgelerini ve kişisel verilerini toplamaz; yalnızca bize yazarsan e-posta adresini ve mesajını yanıt vermek için işler. Uygulama açılırken geliştiricinin sitesinden (globalcode01-source.github.io, GitHub üzerinde) küçük bir ayar dosyası indirir; bu istekte IP adresi dışında veri gitmez. Google (AdMob, ML Kit, Play), GitHub ve AI asistanı için seçtiğin servis (Google, Anthropic, Groq, Mistral, OpenRouter vb.) yurt dışındaki sunucularda çalışır; bu özellikleri kullandığında IP adresin, AI asistanında ayrıca seçtiğin metin o hizmete yurt dışına aktarılır (KVKK m.9). KVKK m.11 ve GDPR uyarınca verilerinin işlenip işlenmediğini öğrenme, bilgi isteme, düzeltme, silme ve itiraz etme hakların vardır: globalcode01@gmail.com adresine yaz, en geç 30 gün içinde yanıtlanır. Yanıttan memnun kalmazsan Kişisel Verileri Koruma Kurulu'na (AB'de kendi veri koruma otoritene) şikâyette bulunabilirsin."""
+Veri sorumlusu: Global Code 01 (globalcode01@gmail.com). Geliştirici belgelerini ve kişisel verilerini toplamaz; yalnızca bize yazarsan e-posta adresini ve mesajını yanıt vermek için işler. Uygulama açılırken geliştiricinin sitesinden (globalcode01-source.github.io, GitHub üzerinde) küçük bir ayar dosyası indirir; bu istekte IP adresi dışında veri gitmez. Google (AdMob, ML Kit, Play), GitHub ve AI asistanı için seçtiğin servis (Google, Anthropic, Groq, Mistral, OpenRouter vb.) yurt dışındaki sunucularda çalışır; bu özellikleri kullandığında IP adresin, AI asistanında ayrıca seçtiğin metin o hizmete yurt dışına aktarılır (KVKK m.9). KVKK m.11 ve GDPR uyarınca verilerinin işlenip işlenmediğini öğrenme, bilgi isteme, düzeltme, silme ve itiraz etme hakların vardır: globalcode01@gmail.com adresine yaz, en geç 30 gün içinde yanıtlanır. Yanıttan memnun kalmazsan Kişisel Verileri Koruma Kurulu'na (AB'de kendi veri koruma otoritene) şikâyette bulunabilirsin. Bu yurt dışı aktarımların her biri için, aktarımdan önce açık rızan istenir; kabul ve ret eşit seçenek olarak sunulur. Kabul etmezsen hiçbir veri gönderilmez, yalnızca o özellik kapalı kalır; açılıştaki ayar dosyası ve reklamlar da rıza olmadan yüklenmez. Rızanı istediğin zaman Ayarlar › Gizlilik › Yurt dışına aktarım izinleri bölümünden verebilir ya da geri alabilirsin. Hukuki sebepler: yurt dışı aktarımlar için açık rıza (KVKK m.5/1 ve m.9; GDPR m.6/1-a ve m.49/1-a); uygulamanın çalışması için cihazında saklanan veriler için sözleşmenin ifası (KVKK m.5/2-c; GDPR m.6/1-b). Veriler, uygulamayı kullanırken otomatik yollarla toplanır."""
 
 
 def esc(text: str) -> str:

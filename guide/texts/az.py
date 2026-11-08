@@ -65,6 +65,7 @@ G = {
         ("Məxfilik", [
             "Yaddaş icazəsi istənmir; tətbiq yalnız seçdiyiniz faylları açır. Hesab tələb olunmur.",
             "Sənədlər cihazınızda emal olunur. İnternet yalnız AI assistenti (öz açarınızla), reklam və satınalmalar üçün istifadə olunur.",
+            "Xaricə məlumat göndərən hər funksiya (reklam, AI, skan və mətn tanıma, səslə yazma) əvvəlcə icazənizi soruşur; razı olmasanız məlumat getmir. Seçiminizi Ayarlar › {consent_settings_title} bölməsində dəyişə bilərsiniz.",
             "Ətraflı: [Məxfilik siyasəti](privacy.html#az).",
         ]),
     ],
