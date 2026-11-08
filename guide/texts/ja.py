@@ -8,6 +8,8 @@ G = {
             "**{home_other_clouds}**：OneDrive、Dropbox、iCloud Drive、Box、MEGA など。端末にインストールしたクラウドアプリはファイル選択画面に表示され、そこからファイルを開いたり、編集した PDF を保存したりできます。",
             "Word、Excel、PowerPoint、OpenDocument、RTF、CSV、TXT ファイルも開けます。閲覧用に自動で PDF に変換されます。",
             "UYAP（UDF）文書は閲覧専用で開きます。編集、コピー、共有、印刷、プレゼン、スクリーンショットはできませんが、閲覧、検索、ブックマーク、読み上げは使えます。",
+            "写真やスキャン画像も開けます。JPG、PNG、WebP、HEIC、複数ページの TIFF（裁判書類、FAX）はページごとに PDF として表示されます。",
+            "UYAP に提出する UDF ファイルを作るには、ツール › **{tool_udf}**（PDF、Word、LibreOffice、RTF、テキスト）か、開いている文書で ⋮ › **{export_udf}** を使います。スキャンした PDF は先に文字認識をしてください。提出前に UYAP Doküman Editörü でファイルを確認してください。",
             "よく使うフォルダは {nav_files} › {files_folders} › **{files_add_folder}** で追加でき、中の PDF が 1 つのリストに表示されます。",
             "PDF を常に AllFixDoc で開くには：{settings_title} › **{default_section}**。",
         ]),

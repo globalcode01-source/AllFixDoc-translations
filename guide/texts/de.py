@@ -8,6 +8,8 @@ G = {
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA und weitere. Auf dem Handy installierte Cloud-Apps erscheinen in der Dateiauswahl: Öffne Dateien von dort und speichere bearbeitete PDFs wieder dorthin.",
             "Auch Word-, Excel-, PowerPoint-, OpenDocument-, RTF-, CSV- und TXT-Dateien lassen sich öffnen; zum Lesen werden sie automatisch in PDF umgewandelt.",
             "UYAP-Dokumente (UDF) öffnen schreibgeschützt: Bearbeiten, Kopieren, Teilen, Drucken, Präsentieren und Screenshots sind aus; Lesen, Suchen, Lesezeichen und Vorlesen gehen.",
+            "Auch Fotos und gescannte Bilder lassen sich öffnen: JPG, PNG, WebP, HEIC und mehrseitige TIFFs (Gerichtsakten, Faxe) werden als PDF gelesen, jede Seite einzeln.",
+            "Für UYAP eine UDF-Datei erstellen: Werkzeuge › **{tool_udf}** (PDF, Word, LibreOffice, RTF, Text) oder im offenen Dokument ⋮ › **{export_udf}**. Bei gescannten PDFs zuerst die Texterkennung ausführen. Die Datei vor dem Einreichen im UYAP Doküman Editörü prüfen.",
             "Häufig genutzte Ordner fügst du unter {nav_files} › {files_folders} › **{files_add_folder}** hinzu; ihre PDFs erscheinen in einer Liste.",
             "Damit PDFs immer mit AllFixDoc geöffnet werden: {settings_title} › **{default_section}**.",
         ]),

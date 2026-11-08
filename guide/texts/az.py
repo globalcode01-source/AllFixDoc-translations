@@ -8,6 +8,8 @@ G = {
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA və digərləri. Telefonunuzda quraşdırılmış bulud tətbiqləri fayl seçicidə görünür: faylı oradan açın, redaktə etdiyiniz PDF-i ora saxlayın.",
             "Word, Excel, PowerPoint, OpenDocument, RTF, CSV və TXT faylları da açılır; oxumaq üçün avtomatik PDF-ə çevrilir.",
             "UYAP (UDF) sənədləri yalnız oxunmaq üçün açılır: redaktə, kopyalama, paylaşma, çap, təqdimat və ekran görüntüsü bağlıdır; oxuya, axtara, əlfəcin qoya və səsli dinləyə bilərsiniz.",
+            "Fotoşəkillər və skan edilmiş şəkillər də açılır: JPG, PNG, WebP, HEIC və çoxsəhifəli TIFF (məhkəmə sənədləri, faks) hər səhifəsi ayrıca olmaqla PDF kimi oxunur.",
+            "UYAP-a yükləmək üçün UDF faylı hazırlayın: Alətlər › **{tool_udf}** (PDF, Word, LibreOffice, RTF, mətn) və ya açıq sənəddə ⋮ › **{export_udf}**. Skan edilmiş PDF-də əvvəlcə mətn tanıma edin. Göndərməzdən əvvəl faylı UYAP Doküman Editörü-ndə yoxlayın.",
             "Tez-tez istifadə etdiyiniz qovluqları {nav_files} › {files_folders} › **{files_add_folder}** ilə əlavə edin; içindəki PDF-lər bir siyahıda görünür.",
             "PDF-lərin həmişə AllFixDoc ilə açılması üçün: {settings_title} › **{default_section}**.",
         ]),

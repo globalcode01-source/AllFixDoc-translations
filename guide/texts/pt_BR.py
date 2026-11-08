@@ -8,6 +8,8 @@ G = {
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA e outros. Os apps de nuvem instalados no celular aparecem no seletor de arquivos: abra os arquivos por lá e salve lá os PDFs editados.",
             "Arquivos do Word, Excel, PowerPoint, OpenDocument, RTF, CSV e TXT também abrem; eles são convertidos em PDF para leitura.",
             "Documentos UYAP (UDF) abrem somente para leitura: edição, cópia, compartilhamento, impressão, apresentação e capturas de tela ficam desativados; você pode ler, buscar, marcar e ouvir.",
+            "Fotos e imagens digitalizadas também abrem: JPG, PNG, WebP, HEIC e TIFF de várias páginas (peças judiciais, fax) são lidos como PDF, uma página cada.",
+            "Para enviar ao UYAP, crie um arquivo UDF: Ferramentas › **{tool_udf}** (PDF, Word, LibreOffice, RTF, texto) ou ⋮ › **{export_udf}** num documento aberto. Em PDF digitalizado, faça antes o reconhecimento de texto. Confira o arquivo no UYAP Doküman Editörü antes de enviar.",
             "Adicione as pastas que você usa muito em {nav_files} › {files_folders} › **{files_add_folder}**; os PDFs delas aparecem em uma só lista.",
             "Para abrir sempre os PDFs com o AllFixDoc: {settings_title} › **{default_section}**.",
         ]),

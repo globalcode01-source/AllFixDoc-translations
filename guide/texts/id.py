@@ -8,6 +8,8 @@ G = {
             "**{home_other_clouds}**: OneDrive, Dropbox, iCloud Drive, Box, MEGA, dan lainnya. Aplikasi cloud yang terpasang di ponsel muncul di pemilih file: buka file dari sana dan simpan PDF yang diedit ke sana.",
             "File Word, Excel, PowerPoint, OpenDocument, RTF, CSV, dan TXT juga bisa dibuka; file dikonversi ke PDF untuk dibaca.",
             "Dokumen UYAP (UDF) dibuka hanya-baca: edit, salin, bagikan, cetak, presentasi, dan tangkapan layar dinonaktifkan; Anda tetap bisa membaca, mencari, menandai, dan mendengarkan.",
+            "Foto dan gambar pindaian juga bisa dibuka: JPG, PNG, WebP, HEIC, dan TIFF multihalaman (berkas pengadilan, faks) dibaca sebagai PDF, tiap halaman terpisah.",
+            "Untuk diajukan ke UYAP, buat file UDF: Alat › **{tool_udf}** (PDF, Word, LibreOffice, RTF, teks) atau ⋮ › **{export_udf}** di dokumen yang terbuka. Untuk PDF pindaian, jalankan pengenalan teks dulu. Periksa file di UYAP Doküman Editörü sebelum diajukan.",
             "Tambahkan folder yang sering dipakai melalui {nav_files} › {files_folders} › **{files_add_folder}**; PDF di dalamnya tampil dalam satu daftar.",
             "Agar PDF selalu dibuka dengan AllFixDoc: {settings_title} › **{default_section}**.",
         ]),
