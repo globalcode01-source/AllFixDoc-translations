@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'Quraşdır',
     "cloud_web": 'Veb sayt',
     "cloud_icloud_note": 'Android tətbiqi yoxdur: icloud.com-dan endirin, sonra Bu cihaz-dan açın',
-    "home_tagline": 'PDF · Office · Skan · Qeydlər',
+    "home_tagline": 'PDF · Office · Skan · Qeydlər · UYAP · Təqdimat · OCR',
     "settings_guide": 'İstifadə təlimatı',
     "settings_guide_desc": 'Funksiyalar, məsləhətlər və tez-tez verilən suallar',
     "lang_auto_module": 'Tərcümə komponenti Google Play-dən endirilir…',

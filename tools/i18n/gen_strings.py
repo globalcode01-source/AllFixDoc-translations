@@ -639,7 +639,7 @@ S = {
     "cloud_install": ('Install', 'Yükle'),
     "cloud_web": ('Website', 'Web sitesi'),
     "cloud_icloud_note": ('No Android app: download from icloud.com, then open from This device', "Android uygulaması yok: icloud.com'dan indir, sonra Bu cihaz'dan aç"),
-    "home_tagline": ('PDF · Office · Scan · Notes', 'PDF · Office · Tarama · Notlar'),
+    "home_tagline": ('PDF · Office · Scan · Notes · UYAP · Present · OCR', 'PDF · Office · Tarama · Notlar · UYAP · Sunum · OCR'),
     "settings_guide": ('User guide', 'Kullanım kılavuzu'),
     "settings_guide_desc": ('Features, tips and frequently asked questions', 'Özellikler, ipuçları ve sık sorulanlar'),
     "lang_auto_module": ('Downloading the translation component from Google Play…', "Çeviri bileşeni Google Play'den indiriliyor…"),

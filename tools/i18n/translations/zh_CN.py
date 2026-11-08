@@ -530,7 +530,7 @@ T = {
     "cloud_install": '安装',
     "cloud_web": '网站',
     "cloud_icloud_note": '没有安卓应用：从 icloud.com 下载后，在“本设备”中打开',
-    "home_tagline": 'PDF · Office · 扫描 · 笔记',
+    "home_tagline": 'PDF · Office · 扫描 · 笔记 · UYAP · 演示 · OCR',
     "settings_guide": '使用指南',
     "settings_guide_desc": '功能、技巧和常见问题',
     "lang_auto_module": '正在从 Google Play 下载翻译组件…',

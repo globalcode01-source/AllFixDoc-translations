@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'Pasang',
     "cloud_web": 'Situs web',
     "cloud_icloud_note": 'Tidak ada aplikasi Android: unduh dari icloud.com, lalu buka dari Perangkat ini',
-    "home_tagline": 'PDF · Office · Pindai · Catatan',
+    "home_tagline": 'PDF · Office · Pindai · Catatan · UYAP · Presentasi · OCR',
     "settings_guide": 'Panduan penggunaan',
     "settings_guide_desc": 'Fitur, tips, dan pertanyaan umum',
     "lang_auto_module": 'Mengunduh komponen terjemahan dari Google Play…',

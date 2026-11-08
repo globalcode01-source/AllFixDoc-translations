@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'インストール',
     "cloud_web": 'ウェブサイト',
     "cloud_icloud_note": 'Android アプリなし：icloud.com からダウンロードし「この端末」から開く',
-    "home_tagline": 'PDF・Office・スキャン・メモ',
+    "home_tagline": 'PDF・Office・スキャン・メモ・UYAP・プレゼン・OCR',
     "settings_guide": '使い方ガイド',
     "settings_guide_desc": '機能、ヒント、よくある質問',
     "lang_auto_module": 'Google Play から翻訳コンポーネントをダウンロードしています…',

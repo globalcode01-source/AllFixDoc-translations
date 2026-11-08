@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'Установить',
     "cloud_web": 'Сайт',
     "cloud_icloud_note": 'Нет приложения для Android: скачайте с icloud.com и откройте через «Это устройство»',
-    "home_tagline": 'PDF · Office · Сканер · Заметки',
+    "home_tagline": 'PDF · Office · Сканер · Заметки · UYAP · Показ · OCR',
     "settings_guide": 'Руководство',
     "settings_guide_desc": 'Возможности, советы и частые вопросы',
     "lang_auto_module": 'Загрузка компонента перевода из Google Play…',

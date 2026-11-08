@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'इंस्टॉल करें',
     "cloud_web": 'वेबसाइट',
     "cloud_icloud_note": 'Android ऐप नहीं है: icloud.com से डाउनलोड करें, फिर यह डिवाइस से खोलें',
-    "home_tagline": 'PDF · Office · स्कैन · नोट',
+    "home_tagline": 'PDF · Office · स्कैन · नोट · UYAP · प्रस्तुति · OCR',
     "settings_guide": 'उपयोग गाइड',
     "settings_guide_desc": 'सुविधाएँ, सुझाव और अक्सर पूछे जाने वाले सवाल',
     "lang_auto_module": 'Google Play से अनुवाद घटक डाउनलोड हो रहा है…',

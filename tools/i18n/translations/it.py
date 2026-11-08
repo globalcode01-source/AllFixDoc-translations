@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'Installa',
     "cloud_web": 'Sito web',
     "cloud_icloud_note": 'Nessuna app Android: scarica da icloud.com e apri da Questo dispositivo',
-    "home_tagline": 'PDF · Office · Scansione · Note',
+    "home_tagline": 'PDF · Office · Scansione · Note · UYAP · Presenta · OCR',
     "settings_guide": "Guida all'uso",
     "settings_guide_desc": 'Funzioni, suggerimenti e domande frequenti',
     "lang_auto_module": 'Download del componente di traduzione da Google Play…',

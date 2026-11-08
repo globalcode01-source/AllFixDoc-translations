@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'Installieren',
     "cloud_web": 'Website',
     "cloud_icloud_note": 'Keine Android-App: von icloud.com laden, dann über Dieses Gerät öffnen',
-    "home_tagline": 'PDF · Office · Scannen · Notizen',
+    "home_tagline": 'PDF · Office · Scannen · Notizen · UYAP · Präsentieren · OCR',
     "settings_guide": 'Benutzerhandbuch',
     "settings_guide_desc": 'Funktionen, Tipps und häufige Fragen',
     "lang_auto_module": 'Übersetzungskomponente wird von Google Play geladen…',

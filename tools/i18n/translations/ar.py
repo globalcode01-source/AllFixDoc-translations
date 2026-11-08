@@ -530,7 +530,7 @@ T = {
     "cloud_install": 'تثبيت',
     "cloud_web": 'الموقع',
     "cloud_icloud_note": 'لا يوجد تطبيق أندرويد: نزّل من icloud.com ثم افتح من هذا الجهاز',
-    "home_tagline": 'PDF · Office · مسح · ملاحظات',
+    "home_tagline": 'PDF · Office · مسح · ملاحظات · UYAP · عرض تقديمي · OCR',
     "settings_guide": 'دليل الاستخدام',
     "settings_guide_desc": 'الميزات والنصائح والأسئلة الشائعة',
     "lang_auto_module": 'جارٍ تنزيل مكوّن الترجمة من Google Play…',
