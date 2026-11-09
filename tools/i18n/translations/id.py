@@ -93,8 +93,7 @@ T = {
     "ai_prompt_translate_en": "Terjemahkan dokumen ke bahasa Inggris.",
     "ai_quick_rewrite": "Tulis ulang",
     "ai_prompt_rewrite": "Tulis ulang dokumen dengan kalimat yang lebih jelas dan sederhana tanpa mengubah maknanya.",
-    "pro_tool_body": "Alat ini bagian dari Pro. Pembelian sekali membukanya dan menghapus iklan; semua yang lain tetap gratis.",
-    "pro_tool_buy_price": "Dapatkan Pro · %1$s",
+    "pro_tool_body": 'Alat ini bagian dari Pro. Pro (tahunan atau seumur hidup) membukanya dan menghapus iklan; semua yang lain tetap gratis.',
     "default_section": "Aplikasi default",
     "default_title": "Aplikasi untuk membuka PDF",
     "default_status_us": "AllFixDoc (diatur)",
@@ -622,9 +621,20 @@ T = {
     "settings_pro_active": "Pro aktif — tanpa iklan",
     "settings_pro_buy": "Hapus iklan",
     "settings_pro_buy_short": "Beli",
-    "settings_pro_desc_ads": 'Pembelian sekali: menghapus iklan. Semua alat tetap gratis.',
-    "settings_pro_desc": "Pembelian sekali: menghapus iklan dan membuka alat Pro.",
+    "settings_pro_desc_ads": 'Menghapus iklan. Semua alat tetap gratis.',
+    "settings_pro_desc": 'Menghapus iklan dan membuka alat Pro.',
     "settings_pro_restore": "Pulihkan pembelian",
+    "pro_restore_started": 'Memeriksa pembelian Anda di Google Play…',
+    "pro_manage": 'Kelola',
+    "pro_active_yearly": 'Pro aktif — langganan tahunan',
+    "pro_get": 'Dapatkan Pro',
+    "pro_subscribe": 'Berlangganan',
+    "pro_lifetime_terms": 'Sekali bayar, tanpa langganan. Pro tetap aktif selamanya di akun Google ini, juga di ponsel baru.',
+    "pro_yearly_terms": 'Diperpanjang otomatis setiap tahun sampai Anda membatalkan. Batalkan kapan saja di Google Play › Langganan; Pro tetap aktif sampai akhir periode yang dibayar. Jika ada uji coba gratis, batalkan sebelum berakhir agar tidak ditagih.',
+    "pro_trial_days": 'Gratis %1$d hari, lalu %2$s / tahun',
+    "pro_yearly_price": '%1$s / tahun',
+    "pro_tab_lifetime": 'Seumur hidup',
+    "pro_tab_yearly": 'Tahunan',
     "settings_pro_unavailable": "Pembelian Google Play sedang tidak tersedia.",
     "settings_donate": "Dukung kami",
     "settings_donate_desc": "Donasi satu kali. Tidak membuka fitur, tetapi membantu pengembangan aplikasi.",
@@ -679,7 +689,7 @@ OCR, pembacaan kode QR dan barcode, serta pemindaian dokumen menggunakan Google 
 Versi gratis menampilkan iklan banner di bagian bawah layar Beranda, File, dan Alat melalui Google AdMob, dan sesekali iklan layar penuh setelah sebuah alat selesai bekerja. Tidak ada iklan saat Anda membaca atau mengedit dokumen. Di Wilayah Ekonomi Eropa dan Inggris, persetujuan Anda diminta terlebih dahulu dan Anda dapat mengubah pilihan di Setelan. AdMob dapat mengumpulkan pengenal perangkat seperti ID iklan, perkiraan lokasi dari alamat IP, dan data interaksi iklan untuk menayangkan dan mengukur iklan. Lihat policies.google.com/technologies/ads.
 
 7. Pembelian
-Jika Anda membeli versi Pro tanpa iklan, pembayaran diproses oleh Google Play. Aplikasi hanya menerima informasi apakah pembelian aktif.
+Jika Anda membeli versi Pro tanpa iklan, pembayaran diproses oleh Google Play. Aplikasi hanya menerima informasi apakah pembelian aktif. Langganan tahunan diperpanjang otomatis melalui Google Play sampai Anda membatalkannya di Google Play › Langganan.
 
 8. Anak-anak
 AllFixDoc tidak ditujukan untuk anak di bawah 13 tahun.

@@ -93,8 +93,7 @@ T = {
     "ai_prompt_translate_en": "Sənədi ingilis dilinə tərcümə et.",
     "ai_quick_rewrite": "Yenidən yaz",
     "ai_prompt_rewrite": "Mənasını dəyişmədən sənədi daha aydın və sadə cümlələrlə yenidən yaz.",
-    "pro_tool_body": "Bu alət Pro-nun bir hissəsidir. Bir dəfəlik alış onu açır və reklamları silir; qalan hər şey pulsuz qalır.",
-    "pro_tool_buy_price": "Pro al · %1$s",
+    "pro_tool_body": 'Bu alət Pro versiyasındadır. Pro (illik və ya ömürlük) onu açır və reklamları silir; qalan hər şey pulsuz qalır.',
     "default_section": "Standart tətbiq",
     "default_title": "PDF açan tətbiq",
     "default_status_us": "AllFixDoc (təyin edilib)",
@@ -622,9 +621,20 @@ T = {
     "settings_pro_active": "Pro aktivdir — reklamsız",
     "settings_pro_buy": "Reklamları sil",
     "settings_pro_buy_short": "Al",
-    "settings_pro_desc_ads": 'Birdəfəlik alış: reklamları silir. Bütün alətlər pulsuz qalır.',
-    "settings_pro_desc": "Bir dəfəlik alış: reklamları silir və Pro alətlərini açır.",
+    "settings_pro_desc_ads": 'Reklamları silir. Bütün alətlər pulsuz qalır.',
+    "settings_pro_desc": 'Reklamları silir və Pro alətlərini açır.',
     "settings_pro_restore": "Alışı bərpa et",
+    "pro_restore_started": 'Google Play-dəki alışlarınız yoxlanılır…',
+    "pro_manage": 'İdarə et',
+    "pro_active_yearly": 'Pro aktivdir — illik abunəlik',
+    "pro_get": 'Pro-ya keç',
+    "pro_subscribe": 'Abunə ol',
+    "pro_lifetime_terms": 'Bir dəfəlik ödəniş, abunəlik yoxdur. Pro bu Google hesabında həmişəlik açıq qalır, yeni telefonda da.',
+    "pro_yearly_terms": 'Ləğv edənə qədər hər il avtomatik yenilənir. İstənilən vaxt Google Play › Abunəliklər bölməsindən ləğv edə bilərsiniz; ödədiyiniz dövrün sonuna qədər Pro açıq qalır. Pulsuz sınaq varsa, bitməmiş ləğv etsəniz ödəniş alınmır.',
+    "pro_trial_days": '%1$d gün pulsuz, sonra ildə %2$s',
+    "pro_yearly_price": 'İldə %1$s',
+    "pro_tab_lifetime": 'Ömürlük',
+    "pro_tab_yearly": 'İllik',
     "settings_pro_unavailable": "Google Play alışları hazırda mövcud deyil.",
     "settings_donate": "Bizi dəstəklə",
     "settings_donate_desc": "Birdəfəlik ianə. Funksiya açmır, amma tətbiqin inkişafına kömək edir.",
@@ -679,7 +689,7 @@ OCR, QR və barkod oxuma və sənəd skanı Google Play xidmətləri vasitəsil�
 Pulsuz versiya Google AdMob vasitəsilə Ana səhifə, Fayllar və Alətlər ekranlarının altında banner reklam, bir alət işini bitirəndə isə bəzən tam ekran reklam göstərir. Sənəd oxuyarkən və ya redaktə edərkən reklam göstərilmir. Avropa İqtisadi Zonasında və Birləşmiş Krallıqda əvvəlcə razılığınız soruşulur və seçiminizi Ayarlarda dəyişə bilərsiniz. AdMob reklamları göstərmək və ölçmək üçün reklam ID-si kimi cihaz identifikatorlarını, IP ünvanından təxmin edilən təqribi məkanı və reklam qarşılıqlı əlaqə məlumatlarını toplaya bilər. Bax: policies.google.com/technologies/ads.
 
 7. Alışlar
-Reklamsız Pro versiyasını alsanız, ödəniş Google Play tərəfindən emal olunur. Tətbiq yalnız alışın aktiv olub-olmadığı məlumatını alır.
+Reklamsız Pro versiyasını alsanız, ödəniş Google Play tərəfindən emal olunur. Tətbiq yalnız alışın aktiv olub-olmadığı məlumatını alır. İllik abunəlik Google Play › Abunəliklər bölməsindən ləğv edənə qədər Google Play vasitəsilə avtomatik yenilənir.
 
 8. Uşaqlar
 AllFixDoc 13 yaşdan kiçik uşaqlar üçün nəzərdə tutulmayıb.

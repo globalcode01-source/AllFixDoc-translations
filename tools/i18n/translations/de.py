@@ -93,8 +93,7 @@ T = {
     "ai_prompt_translate_en": "Übersetze das Dokument ins Englische.",
     "ai_quick_rewrite": "Umformulieren",
     "ai_prompt_rewrite": "Formuliere das Dokument in klareren, einfacheren Sätzen um, ohne die Bedeutung zu ändern.",
-    "pro_tool_body": "Dieses Werkzeug gehört zu Pro. Ein einmaliger Kauf schaltet es frei und entfernt die Werbung; alles andere bleibt kostenlos.",
-    "pro_tool_buy_price": "Pro holen · %1$s",
+    "pro_tool_body": 'Dieses Werkzeug gehört zu Pro. Pro (jährlich oder dauerhaft) schaltet es frei und entfernt die Werbung; alles andere bleibt kostenlos.',
     "default_section": "Standard-App",
     "default_title": "App zum Öffnen von PDFs",
     "default_status_us": "AllFixDoc (eingestellt)",
@@ -622,9 +621,20 @@ T = {
     "settings_pro_active": "Pro ist aktiv – ohne Werbung",
     "settings_pro_buy": "Werbung entfernen",
     "settings_pro_buy_short": "Kaufen",
-    "settings_pro_desc_ads": 'Einmaliger Kauf: entfernt die Werbung. Alle Werkzeuge bleiben kostenlos.',
-    "settings_pro_desc": "Einmaliger Kauf: entfernt die Werbung und schaltet die Pro-Werkzeuge frei.",
+    "settings_pro_desc_ads": 'Entfernt die Werbung. Alle Werkzeuge bleiben kostenlos.',
+    "settings_pro_desc": 'Entfernt die Werbung und schaltet die Pro-Werkzeuge frei.',
     "settings_pro_restore": "Kauf wiederherstellen",
+    "pro_restore_started": 'Käufe bei Google Play werden geprüft …',
+    "pro_manage": 'Verwalten',
+    "pro_active_yearly": 'Pro ist aktiv – Jahresabo',
+    "pro_get": 'Pro holen',
+    "pro_subscribe": 'Abonnieren',
+    "pro_lifetime_terms": 'Einmalige Zahlung, kein Abo. Pro bleibt auf diesem Google-Konto dauerhaft aktiv, auch auf neuen Handys.',
+    "pro_yearly_terms": 'Verlängert sich jedes Jahr automatisch, bis du kündigst. Kündigen jederzeit in Google Play › Abos; Pro bleibt bis zum Ende des bezahlten Zeitraums aktiv. Bei einem kostenlosen Test: vor dem Ende kündigen, dann wird nichts berechnet.',
+    "pro_trial_days": '%1$d Tage kostenlos, danach %2$s / Jahr',
+    "pro_yearly_price": '%1$s / Jahr',
+    "pro_tab_lifetime": 'Dauerhaft',
+    "pro_tab_yearly": 'Jährlich',
     "settings_pro_unavailable": "Käufe über Google Play sind gerade nicht verfügbar.",
     "settings_donate": "Unterstütze uns",
     "settings_donate_desc": "Einmalige Spende. Sie schaltet nichts frei, hilft aber, die App weiterzuentwickeln.",
@@ -679,7 +689,7 @@ OCR, das Lesen von QR- und Barcodes sowie das Scannen von Dokumenten nutzen Goog
 Die kostenlose Version zeigt über Google AdMob Werbebanner unten auf den Bildschirmen Start, Dateien und Werkzeuge und gelegentlich eine Vollbildanzeige, nachdem ein Werkzeug fertig ist. Beim Lesen oder Bearbeiten von Dokumenten wird keine Werbung angezeigt. Im Europäischen Wirtschaftsraum und im Vereinigten Königreich wirst du zuerst um Einwilligung gebeten und kannst deine Wahl in den Einstellungen ändern. AdMob kann Gerätekennungen wie die Werbe-ID, einen aus deiner IP-Adresse abgeleiteten ungefähren Standort und Daten zu Anzeigeninteraktionen erheben, um Anzeigen auszuliefern und zu messen. Siehe policies.google.com/technologies/ads.
 
 7. Käufe
-Wenn du die werbefreie Pro-Version kaufst, wird die Zahlung über Google Play abgewickelt. Die App erhält nur die Information, ob der Kauf aktiv ist.
+Wenn du die werbefreie Pro-Version kaufst, wird die Zahlung über Google Play abgewickelt. Die App erhält nur die Information, ob der Kauf aktiv ist. Das Jahresabo verlängert sich über Google Play automatisch, bis du es in Google Play › Abos kündigst.
 
 8. Kinder
 AllFixDoc richtet sich nicht an Kinder unter 13 Jahren.

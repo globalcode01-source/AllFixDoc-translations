@@ -115,8 +115,7 @@ S = {
     "ai_prompt_translate_en": ("Translate the document into English.", "Belgeyi İngilizceye çevir."),
     "ai_quick_rewrite": ("Rewrite", "Yeniden yaz"),
     "ai_prompt_rewrite": ("Rewrite the document in clearer, simpler sentences without changing its meaning.", "Belgeyi anlamını değiştirmeden daha açık ve sade cümlelerle yeniden yaz."),
-    "pro_tool_body": ("This tool is part of Pro. A one-time purchase unlocks it and removes ads; everything else stays free.", "Bu araç Pro sürümde. Tek seferlik satın alma ile açılır ve reklamlar da kalkar; diğer her şey ücretsiz kalır."),
-    "pro_tool_buy_price": ("Get Pro · %1$s", "Pro al · %1$s"),
+    "pro_tool_body": ('This tool is part of Pro. Pro (yearly or lifetime) unlocks it and removes ads; everything else stays free.', 'Bu araç Pro sürümde. Pro (yıllık ya da ömür boyu) ile açılır ve reklamlar da kalkar; diğer her şey ücretsiz kalır.'),
     "default_section": ("Default app", "Varsayılan uygulama"),
     "default_title": ("App for opening PDFs", "PDF'leri açan uygulama"),
     "default_status_us": ("AllFixDoc (set)", "AllFixDoc (ayarlı)"),
@@ -734,10 +733,21 @@ S = {
     "settings_pro_active": ("Pro is active — no ads", "Pro etkin — reklam yok"),
     "settings_pro_buy": ("Remove ads", "Reklamları kaldır"),
     "settings_pro_buy_short": ("Buy", "Satın al"),
-    "settings_pro_desc_ads": ("One-time purchase: removes ads. Every tool stays free.", "Tek seferlik satın alma: reklamları kaldırır. Bütün araçlar ücretsiz kalır."),
-    "settings_pro_desc": ("One-time purchase: removes ads and unlocks the Pro tools.", "Tek seferlik satın alma: reklamları kaldırır ve Pro araçlarını açar."),
+    "settings_pro_desc_ads": ('Removes ads. Every tool stays free.', 'Reklamları kaldırır. Bütün araçlar ücretsiz kalır.'),
+    "settings_pro_desc": ('Removes ads and unlocks the Pro tools.', 'Reklamları kaldırır ve Pro araçlarını açar.'),
     "settings_pro_restore": ("Restore purchase", "Satın almayı geri yükle"),
     "settings_pro_unavailable": ("Google Play purchases aren't available right now.", "Google Play satın alma şu anda kullanılamıyor."),
+    "pro_restore_started": ('Checking your purchases on Google Play…', "Google Play'deki satın almaların kontrol ediliyor…"),
+    "pro_manage": ('Manage', 'Yönet'),
+    "pro_active_yearly": ('Pro is active — yearly subscription', 'Pro etkin — yıllık abonelik'),
+    "pro_get": ('Get Pro', "Pro'ya geç"),
+    "pro_subscribe": ('Subscribe', 'Abone ol'),
+    "pro_lifetime_terms": ('One payment, no subscription. Pro stays on for good on this Google account, on new phones too.', 'Tek ödeme, abonelik yok. Pro bu Google hesabında kalıcı olarak açık kalır, yeni telefonda da.'),
+    "pro_yearly_terms": ("Renews automatically every year until you cancel. Cancel anytime in Google Play › Subscriptions; Pro stays on until the end of the period you paid for. If there's a free trial, cancel before it ends and you won't be charged.", "İptal edene kadar her yıl otomatik yenilenir. İstediğin zaman Google Play › Abonelikler'den iptal edebilirsin; ödediğin dönemin sonuna kadar Pro açık kalır. Ücretsiz deneme varsa bitmeden iptal edersen ücret alınmaz."),
+    "pro_trial_days": ('%1$d days free, then %2$s / year', '%1$d gün ücretsiz, sonra yılda %2$s'),
+    "pro_yearly_price": ('%1$s / year', 'Yılda %1$s'),
+    "pro_tab_lifetime": ('Lifetime', 'Ömür boyu'),
+    "pro_tab_yearly": ('Yearly', 'Yıllık'),
     "settings_donate": ("Support us", "Bizi destekle"),
     "settings_donate_desc": (
         "One-time donation. It doesn't unlock features, but it helps us keep improving the app.",
@@ -808,7 +818,7 @@ OCR, QR and barcode reading and document scanning use Google ML Kit through Goog
 The free version shows banner ads at the bottom of the Home, Files and Tools screens through Google AdMob, and occasionally a full-screen ad after a tool finishes its work. No ads are shown while you read or edit documents. In the European Economic Area and the UK you're asked for consent first, and you can change your choice in Settings. AdMob may collect device identifiers such as the advertising ID, approximate location derived from your IP address and ad interaction data to show and measure ads. See policies.google.com/technologies/ads.
 
 7. Purchases
-If you buy the ad-free Pro version, payment is handled by Google Play. The app only receives whether the purchase is active.
+If you buy the ad-free Pro version, payment is handled by Google Play. The app only receives whether the purchase is active. The yearly subscription renews automatically through Google Play until you cancel it in Google Play › Subscriptions.
 
 8. Children
 AllFixDoc is not directed at children under 13.
@@ -846,7 +856,7 @@ OCR, QR ve barkod okuma ile belge tarama, Google Play hizmetleri üzerinden Goog
 Ücretsiz sürüm, Google AdMob üzerinden Ana sayfa, Dosyalar ve Araçlar ekranlarının altında banner reklam, bir araç işini bitirdiğinde de ara sıra tam ekran reklam gösterir. Belge okurken ya da düzenlerken reklam gösterilmez. Avrupa Ekonomik Alanı ve Birleşik Krallık'ta önce iznin istenir; tercihini Ayarlar'dan değiştirebilirsin. AdMob, reklamları göstermek ve ölçmek için reklam kimliği gibi cihaz tanımlayıcılarını, IP adresinden çıkarılan yaklaşık konumu ve reklam etkileşimlerini toplayabilir. Ayrıntılar: policies.google.com/technologies/ads.
 
 7. Satın almalar
-Reklamsız Pro sürümü satın alırsan ödeme Google Play tarafından işlenir. Uygulama yalnızca satın almanın etkin olup olmadığını öğrenir.
+Reklamsız Pro sürümü satın alırsan ödeme Google Play tarafından işlenir. Uygulama yalnızca satın almanın etkin olup olmadığını öğrenir. Yıllık abonelik, Google Play › Abonelikler'den iptal edene kadar Google Play üzerinden otomatik yenilenir.
 
 8. Çocuklar
 AllFixDoc 13 yaşından küçük çocuklara yönelik değildir.

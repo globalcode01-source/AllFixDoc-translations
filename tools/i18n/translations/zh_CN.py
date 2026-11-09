@@ -93,8 +93,7 @@ T = {
     "ai_prompt_translate_en": "请将文档翻译成英语。",
     "ai_quick_rewrite": "改写",
     "ai_prompt_rewrite": "在不改变原意的前提下，用更清晰、更简单的句子改写文档。",
-    "pro_tool_body": "此工具属于 Pro。一次性购买即可解锁并去除广告；其他功能仍然免费。",
-    "pro_tool_buy_price": "获取 Pro · %1$s",
+    "pro_tool_body": '此工具属于 Pro。Pro（按年或终身）可解锁它并去除广告；其他一切仍然免费。',
     "default_section": "默认应用",
     "default_title": "打开 PDF 的应用",
     "default_status_us": "AllFixDoc（已设置）",
@@ -622,9 +621,20 @@ T = {
     "settings_pro_active": "Pro 已启用 — 无广告",
     "settings_pro_buy": "去除广告",
     "settings_pro_buy_short": "购买",
-    "settings_pro_desc_ads": '一次性购买：移除广告。所有工具仍然免费。',
-    "settings_pro_desc": "一次性购买：去除广告并解锁 Pro 工具。",
+    "settings_pro_desc_ads": '去除广告。所有工具仍然免费。',
+    "settings_pro_desc": '去除广告并解锁 Pro 工具。',
     "settings_pro_restore": "恢复购买",
+    "pro_restore_started": '正在检查你在 Google Play 上的购买…',
+    "pro_manage": '管理',
+    "pro_active_yearly": 'Pro 已启用 — 年度订阅',
+    "pro_get": '获取 Pro',
+    "pro_subscribe": '订阅',
+    "pro_lifetime_terms": '一次付费，无需订阅。Pro 在此 Google 账号上永久有效，换新手机也一样。',
+    "pro_yearly_terms": '在你取消之前每年自动续订。可随时在 Google Play › 订阅中取消；Pro 在已付费期限结束前仍可使用。如有免费试用，在试用结束前取消即不会扣费。',
+    "pro_trial_days": '免费 %1$d 天，之后 %2$s／年',
+    "pro_yearly_price": '%1$s／年',
+    "pro_tab_lifetime": '终身',
+    "pro_tab_yearly": '按年',
     "settings_pro_unavailable": "目前无法通过 Google Play 购买。",
     "settings_donate": "支持我们",
     "settings_donate_desc": "一次性捐赠。不会解锁功能，但能帮助我们继续改进应用。",
@@ -679,7 +689,7 @@ OCR、二维码和条形码读取以及文档扫描通过 Google Play 服务使�
 免费版通过 Google AdMob 在首页、文件和工具界面底部显示横幅广告，并在工具完成处理后偶尔显示全屏广告。阅读或编辑文档时不会显示广告。在欧洲经济区和英国，会先征求您的同意，您可以在设置中更改选择。AdMob 可能会收集广告 ID 等设备标识符、根据 IP 地址推断的大致位置以及广告互动数据，用于投放和衡量广告。详见 policies.google.com/technologies/ads。
 
 7. 购买
-如果您购买无广告的 Pro 版，付款由 Google Play 处理。应用只会收到购买是否有效的信息。
+如果您购买无广告的 Pro 版，付款由 Google Play 处理。应用只会收到购买是否有效的信息。 年度订阅会通过 Google Play 自动续订，直到你在 Google Play › 订阅中取消。
 
 8. 儿童
 AllFixDoc 不面向 13 岁以下的儿童。

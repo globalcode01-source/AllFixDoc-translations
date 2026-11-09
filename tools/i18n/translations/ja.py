@@ -93,8 +93,7 @@ T = {
     "ai_prompt_translate_en": "文書を英語に翻訳してください。",
     "ai_quick_rewrite": "言い換え",
     "ai_prompt_rewrite": "意味を変えずに、より分かりやすく簡潔な文で書き直してください。",
-    "pro_tool_body": "このツールはProの機能です。1回の購入で使えるようになり、広告も消えます。その他の機能はすべて無料のままです。",
-    "pro_tool_buy_price": "Proを購入 · %1$s",
+    "pro_tool_body": 'このツールは Pro の機能です。Pro（年額または買い切り）で使えるようになり、広告も消えます。その他はすべて無料のままです。',
     "default_section": "デフォルトアプリ",
     "default_title": "PDFを開くアプリ",
     "default_status_us": "AllFixDoc（設定済み）",
@@ -622,9 +621,20 @@ T = {
     "settings_pro_active": "Pro有効 — 広告なし",
     "settings_pro_buy": "広告を削除",
     "settings_pro_buy_short": "購入",
-    "settings_pro_desc_ads": '買い切り：広告を非表示にします。すべてのツールは引き続き無料です。',
-    "settings_pro_desc": "1回の購入で広告を削除し、Proツールが使えるようになります。",
+    "settings_pro_desc_ads": '広告を非表示にします。すべてのツールは無料のままです。',
+    "settings_pro_desc": '広告を非表示にし、Pro ツールが使えるようになります。',
     "settings_pro_restore": "購入を復元",
+    "pro_restore_started": 'Google Play で購入を確認しています…',
+    "pro_manage": '管理',
+    "pro_active_yearly": 'Pro 有効（年額プラン）',
+    "pro_get": 'Pro にする',
+    "pro_subscribe": '定期購入する',
+    "pro_lifetime_terms": '1回の支払いで定期購入なし。この Google アカウントでずっと Pro が使えます（新しいスマホでも）。',
+    "pro_yearly_terms": '解約するまで毎年自動更新されます。Google Play › 定期購入からいつでも解約でき、支払い済みの期間の終わりまで Pro が使えます。無料トライアルがある場合は、終了前に解約すれば料金はかかりません。',
+    "pro_trial_days": '%1$d日間無料、その後 %2$s／年',
+    "pro_yearly_price": '%1$s／年',
+    "pro_tab_lifetime": '買い切り',
+    "pro_tab_yearly": '年額',
     "settings_pro_unavailable": "現在Google Playでの購入は利用できません。",
     "settings_donate": "応援する",
     "settings_donate_desc": "1回限りの寄付です。機能は解除されませんが、アプリの改善に役立ちます。",
@@ -679,7 +689,7 @@ OCR、QRコード・バーコードの読み取り、文書のスキャンには
 無料版では、Google AdMobによるバナー広告をホーム、ファイル、ツールの各画面の下部に表示し、ツールの処理が終わったときにまれに全画面広告を表示します。文書の閲覧中や編集中には広告を表示しません。欧州経済領域と英国では最初に同意を求め、設定画面で選択を変更できます。AdMobは、広告の配信と効果測定のために、広告IDなどの端末識別子、IPアドレスから推定したおおよその位置、広告とのやり取りに関するデータを収集することがあります。詳しくは policies.google.com/technologies/ads をご覧ください。
 
 7. 購入
-広告なしのPro版を購入した場合、支払いはGoogle Playが処理します。アプリが受け取るのは購入が有効かどうかの情報だけです。
+広告なしのPro版を購入した場合、支払いはGoogle Playが処理します。アプリが受け取るのは購入が有効かどうかの情報だけです。 年額プランは、Google Play › 定期購入で解約するまで Google Play を通じて自動更新されます。
 
 8. 子ども
 AllFixDocは13歳未満の子どもを対象としていません。
