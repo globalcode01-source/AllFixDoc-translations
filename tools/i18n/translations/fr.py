@@ -656,7 +656,7 @@ T = {
 }
 
 PRIVACY = """Politique de confidentialité de AllFixDoc
-Dernière mise à jour : 8 novembre 2026
+Dernière mise à jour : 9 novembre 2026
 
 AllFixDoc est un lecteur et éditeur de PDF. Cette politique explique quelles données l'application traite et pourquoi.
 
@@ -664,7 +664,7 @@ AllFixDoc est un lecteur et éditeur de PDF. Cette politique explique quelles do
 AllFixDoc n'ouvre que les fichiers que vous choisissez, via le sélecteur de fichiers d'Android ou « Ouvrir avec ». L'application ne demande pas d'autorisation de stockage et n'analyse pas votre appareil. Les documents sont traités sur votre appareil et ne sont pas envoyés par l'application, sauf dans le cas décrit à la section 4 lorsque vous utilisez l'assistant IA.
 
 2. Données stockées sur votre appareil
-L'application conserve la liste des fichiers récemment ouverts et de petits aperçus, les signets et positions de lecture, le texte reconnu par OCR, les signatures que vous dessinez, les paramètres de l'application et, si vous l'ajoutez, la clé API du service d'IA choisi, chiffrée avec une clé conservée dans le matériel sécurisé de votre appareil. Vous pouvez supprimer ces données dans les paramètres ou en effaçant le stockage de l'application. En mode Présentation, elle conserve aussi les notes que vous écrivez et les vidéos et sons extraits des présentations ouvertes ; ils ne sont pas sauvegardés.
+L'application conserve la liste des fichiers récemment ouverts et de petits aperçus, les signets et positions de lecture, le texte reconnu par OCR, les signatures que vous dessinez, les paramètres de l'application et, si vous l'ajoutez, la clé API du service d'IA choisi, chiffrée avec une clé conservée dans le matériel sécurisé de votre appareil. Vous pouvez supprimer ces données dans les paramètres ou en effaçant le stockage de l'application. En mode Présentation, elle conserve aussi les notes que vous écrivez et les vidéos et sons extraits des présentations ouvertes ; ils ne sont pas sauvegardés. Pour la signature par certificat, le fichier du certificat et son mot de passe ne sont utilisés sur votre appareil que pendant la signature ; l'application ne les copie pas, ne les conserve pas et ne les envoie pas.
 
 3. Sauvegardes
 Si la sauvegarde Android est activée, Android peut sauvegarder vos paramètres, signets et positions de lecture sur votre compte Google. Votre clé API, vos signatures, les résultats d'OCR, les aperçus et la liste des fichiers récents en sont exclus. Vous pouvez aussi exporter et importer vous-même un fichier de sauvegarde.

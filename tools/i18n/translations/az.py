@@ -656,7 +656,7 @@ T = {
 }
 
 PRIVACY = """AllFixDoc Məxfilik Siyasəti
-Son yenilənmə: 8 noyabr 2026
+Son yenilənmə: 9 noyabr 2026
 
 AllFixDoc PDF oxuyucu və redaktordur. Bu siyasət tətbiqin hansı məlumatları emal etdiyini və nə üçün etdiyini izah edir.
 
@@ -664,7 +664,7 @@ AllFixDoc PDF oxuyucu və redaktordur. Bu siyasət tətbiqin hansı məlumatlar�
 AllFixDoc yalnız Android fayl seçicisi və ya \"Bununla aç\" vasitəsilə seçdiyiniz faylları açır. Tətbiq yaddaş icazəsi istəmir və cihazınızı skan etmir. Sənədlər cihazınızda emal olunur və tətbiq tərəfindən yüklənmir; yalnız süni intellekt köməkçisindən istifadə etdikdə 4-cü bölmədə təsvir olunan hal istisnadır.
 
 2. Cihazınızda saxlanılan məlumatlar
-Tətbiq son açılan faylların siyahısını və kiçik miniatürləri, əlfəcinləri və oxuma mövqelərini, OCR ilə tanınmış mətni, çəkdiyiniz imzaları, tətbiq ayarlarını və — əlavə etsəniz — cihazınızın təhlükəsiz aparatında saxlanılan açarla şifrələnmiş seçdiyiniz AI xidmətinin API açarını saxlayır. Bu məlumatları Ayarlardan və ya tətbiqin yaddaşını təmizləməklə silə bilərsiniz. Təqdimat rejimində yazdığınız məruzəçi qeydlərini və açdığınız təqdimatlardan çıxarılan video və səsləri də saxlayır; bunlar ehtiyat nüsxəyə daxil edilmir.
+Tətbiq son açılan faylların siyahısını və kiçik miniatürləri, əlfəcinləri və oxuma mövqelərini, OCR ilə tanınmış mətni, çəkdiyiniz imzaları, tətbiq ayarlarını və — əlavə etsəniz — cihazınızın təhlükəsiz aparatında saxlanılan açarla şifrələnmiş seçdiyiniz AI xidmətinin API açarını saxlayır. Bu məlumatları Ayarlardan və ya tətbiqin yaddaşını təmizləməklə silə bilərsiniz. Təqdimat rejimində yazdığınız məruzəçi qeydlərini və açdığınız təqdimatlardan çıxarılan video və səsləri də saxlayır; bunlar ehtiyat nüsxəyə daxil edilmir. Sertifikatlı imzada sertifikat faylı və onun parolu yalnız imza zamanı cihazınızda istifadə olunur; tətbiq onları köçürmür, saxlamır və göndərmir.
 
 3. Ehtiyat nüsxələr
 Android ehtiyat nüsxəsi aktivdirsə, Android ayarlarınızı, əlfəcinlərinizi və oxuma mövqelərinizi Google hesabınıza saxlaya bilər. API açarınız, imzalar, OCR nəticələri, miniatürlər və son fayllar siyahısı istisna edilir. Ehtiyat faylını özünüz də ixrac və idxal edə bilərsiniz.

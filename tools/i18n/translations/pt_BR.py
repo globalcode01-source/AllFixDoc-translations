@@ -656,7 +656,7 @@ T = {
 }
 
 PRIVACY = """Política de privacidade do AllFixDoc
-Última atualização: 8 de novembro de 2026
+Última atualização: 9 de novembro de 2026
 
 O AllFixDoc é um leitor e editor de PDF. Esta política explica quais dados o app trata e por quê.
 
@@ -664,7 +664,7 @@ O AllFixDoc é um leitor e editor de PDF. Esta política explica quais dados o a
 O AllFixDoc abre apenas os arquivos que você escolhe, pelo seletor de arquivos do Android ou por "Abrir com". Ele não pede permissão de armazenamento nem examina o seu dispositivo. Os documentos são processados no seu dispositivo e não são enviados pelo app, exceto como descrito na seção 4 quando você usa o assistente de IA.
 
 2. Dados guardados no seu dispositivo
-O app guarda a lista de arquivos abertos recentemente e pequenas imagens de prévia, marcadores e posições de leitura, texto reconhecido por OCR, as assinaturas que você desenha, as configurações do app e, se você adicionar, a chave de API do serviço de IA escolhido, criptografada com uma chave mantida no hardware seguro do dispositivo. Você pode remover esses dados nas Configurações ou limpando o armazenamento do app. No modo Apresentação, também guarda as anotações do apresentador que você escreve e os vídeos e sons extraídos das apresentações abertas; eles não entram no backup.
+O app guarda a lista de arquivos abertos recentemente e pequenas imagens de prévia, marcadores e posições de leitura, texto reconhecido por OCR, as assinaturas que você desenha, as configurações do app e, se você adicionar, a chave de API do serviço de IA escolhido, criptografada com uma chave mantida no hardware seguro do dispositivo. Você pode remover esses dados nas Configurações ou limpando o armazenamento do app. No modo Apresentação, também guarda as anotações do apresentador que você escreve e os vídeos e sons extraídos das apresentações abertas; eles não entram no backup. Na assinatura com certificado, o arquivo do certificado e a senha são usados no seu dispositivo apenas durante a assinatura; o app não os copia, guarda nem envia.
 
 3. Backups
 Se o backup do Android estiver ativado, o Android pode salvar suas configurações, marcadores e posições de leitura na sua conta do Google. Sua chave de API, assinaturas, resultados de OCR, prévias e a lista de arquivos recentes ficam de fora. Você também pode exportar e importar um arquivo de backup por conta própria.

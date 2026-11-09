@@ -656,7 +656,7 @@ T = {
 }
 
 PRIVACY = """Kebijakan Privasi AllFixDoc
-Terakhir diperbarui: 8 November 2026
+Terakhir diperbarui: 9 November 2026
 
 AllFixDoc adalah pembaca dan editor PDF. Kebijakan ini menjelaskan data apa yang diproses aplikasi dan alasannya.
 
@@ -664,7 +664,7 @@ AllFixDoc adalah pembaca dan editor PDF. Kebijakan ini menjelaskan data apa yang
 AllFixDoc hanya membuka file yang Anda pilih melalui pemilih file Android atau \"Buka dengan\". Aplikasi tidak meminta izin penyimpanan dan tidak memindai perangkat Anda. Dokumen diproses di perangkat Anda dan tidak diunggah oleh aplikasi, kecuali seperti dijelaskan di bagian 4 saat Anda memakai asisten AI.
 
 2. Data yang disimpan di perangkat Anda
-Aplikasi menyimpan daftar file yang baru dibuka dan thumbnail kecil, penanda dan posisi membaca, teks yang dikenali dengan OCR, tanda tangan yang Anda gambar, setelan aplikasi, dan — jika Anda menambahkannya — kunci API layanan AI pilihan Anda, yang dienkripsi dengan kunci yang disimpan di perangkat keras aman perangkat Anda. Anda dapat menghapus data ini di Setelan atau dengan menghapus penyimpanan aplikasi. Dalam mode Presentasi, aplikasi juga menyimpan catatan pembicara yang Anda tulis serta video dan suara yang diambil dari presentasi yang Anda buka; semua ini tidak dicadangkan.
+Aplikasi menyimpan daftar file yang baru dibuka dan thumbnail kecil, penanda dan posisi membaca, teks yang dikenali dengan OCR, tanda tangan yang Anda gambar, setelan aplikasi, dan — jika Anda menambahkannya — kunci API layanan AI pilihan Anda, yang dienkripsi dengan kunci yang disimpan di perangkat keras aman perangkat Anda. Anda dapat menghapus data ini di Setelan atau dengan menghapus penyimpanan aplikasi. Dalam mode Presentasi, aplikasi juga menyimpan catatan pembicara yang Anda tulis serta video dan suara yang diambil dari presentasi yang Anda buka; semua ini tidak dicadangkan. Untuk tanda tangan sertifikat, file sertifikat dan kata sandinya hanya digunakan di perangkat Anda selama penandatanganan; aplikasi tidak menyalin, menyimpan, atau mengirimnya.
 
 3. Cadangan
 Jika cadangan Android aktif, Android dapat mencadangkan setelan, penanda, dan posisi membaca ke akun Google Anda. Kunci API, tanda tangan, hasil OCR, thumbnail, dan daftar file terbaru tidak disertakan. Anda juga dapat mengekspor dan mengimpor file cadangan sendiri.

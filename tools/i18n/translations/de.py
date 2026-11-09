@@ -656,7 +656,7 @@ T = {
 }
 
 PRIVACY = """Datenschutzerklärung von AllFixDoc
-Zuletzt aktualisiert: 8. November 2026
+Zuletzt aktualisiert: 9. November 2026
 
 AllFixDoc ist ein PDF-Reader und -Editor. Diese Erklärung beschreibt, welche Daten die App verarbeitet und warum.
 
@@ -664,7 +664,7 @@ AllFixDoc ist ein PDF-Reader und -Editor. Diese Erklärung beschreibt, welche Da
 AllFixDoc öffnet nur die Dateien, die du über die Android-Dateiauswahl oder „Öffnen mit“ auswählst. Die App fordert keine Speicherberechtigung an und durchsucht dein Gerät nicht. Dokumente werden auf deinem Gerät verarbeitet und von der App nicht hochgeladen, außer wie in Abschnitt 4 beschrieben, wenn du den KI-Assistenten nutzt.
 
 2. Auf deinem Gerät gespeicherte Daten
-Die App speichert die Liste der zuletzt geöffneten Dateien und kleine Vorschaubilder, Lesezeichen und Lesepositionen, per OCR erkannten Text, von dir gezeichnete Unterschriften, App-Einstellungen und – falls du ihn hinzufügst – den API-Schlüssel des gewählten KI-Dienstes, verschlüsselt mit einem Schlüssel aus der sicheren Hardware deines Geräts. Du kannst diese Daten in den Einstellungen oder durch Löschen des App-Speichers entfernen. Im Präsentationsmodus speichert sie außerdem die Sprechernotizen, die du schreibst, sowie Videos und Töne aus geöffneten Präsentationen; diese werden nicht gesichert.
+Die App speichert die Liste der zuletzt geöffneten Dateien und kleine Vorschaubilder, Lesezeichen und Lesepositionen, per OCR erkannten Text, von dir gezeichnete Unterschriften, App-Einstellungen und – falls du ihn hinzufügst – den API-Schlüssel des gewählten KI-Dienstes, verschlüsselt mit einem Schlüssel aus der sicheren Hardware deines Geräts. Du kannst diese Daten in den Einstellungen oder durch Löschen des App-Speichers entfernen. Im Präsentationsmodus speichert sie außerdem die Sprechernotizen, die du schreibst, sowie Videos und Töne aus geöffneten Präsentationen; diese werden nicht gesichert. Bei der Zertifikatsignatur werden die Zertifikatsdatei und ihr Passwort nur während des Signierens auf deinem Gerät verwendet; die App kopiert, speichert oder sendet sie nicht.
 
 3. Sicherungen
 Wenn die Android-Sicherung aktiviert ist, kann Android deine Einstellungen, Lesezeichen und Lesepositionen in deinem Google-Konto sichern. Dein API-Schlüssel, Unterschriften, OCR-Ergebnisse, Vorschaubilder und die Liste der zuletzt geöffneten Dateien sind ausgenommen. Du kannst eine Sicherungsdatei auch selbst exportieren und importieren.
