@@ -32,12 +32,13 @@ G = {
         ]),
         ("Ferramentas", [
             "A aba **{tools_title}** agrupa as ferramentas por categoria; use a busca no topo para achá-las rápido.",
-            "Edição: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Edição: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Conversão: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Segurança: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Digitalização: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Arquivos e imagens: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: o vídeo toca no projetor ou na TV e o celular fica com reproduzir/pausar, saltos de 10 segundos e tela preta/branca. Você também pode abrir vídeos de outros apps.",
+            "Ferramentas marcadas **PRO**: assista a um anúncio para usar uma vez ou obtenha o Pro (anual ou vitalício) em {settings_title}.",
             "Toque na ☆ no canto de uma ferramenta: ela passa a aparecer na segunda linha da tela inicial e no menu rápido.",
         ]),
         ("Notas de voz", [

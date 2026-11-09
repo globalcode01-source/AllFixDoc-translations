@@ -549,6 +549,17 @@ T = {
     "tool_compare_none": "没有文本差异",
     "tool_compare_file": "comparison",
     "tool_crop": "裁剪页面",
+    "tool_remove_blank": '删除空白页',
+    "tool_remove_blank_desc": '删除扫描时混入的空白页',
+    "tool_remove_blank_done": '已删除空白页',
+    "tool_remove_blank_count": '已删除 %1$d 张空白页',
+    "tool_remove_blank_none": '此 PDF 中没有空白页。',
+    "tool_remove_blank_all": '所有页面看起来都是空白的，因此未删除任何内容。',
+    "tool_remove_blank_suffix": 'wu-kongbai',
+    "pro_watch_ad": '观看广告，免费使用一次',
+    "pro_ad_loading": '正在加载广告…',
+    "pro_or_get": '或获取 Pro：',
+    "pro_ad_needs_consent": '如需观看广告使用一次，请在 %1$s 中开启广告许可。',
     "tool_crop_desc": "裁掉页边距或空白边缘",
     "tool_crop_done": "已裁剪页面",
     "tool_crop_suffix": "cropped",
@@ -686,7 +697,7 @@ AllFixDoc 只打开您通过 Android 文件选择器或“打开方式”选择�
 OCR、二维码和条形码读取以及文档扫描通过 Google Play 服务使用 Google ML Kit。图片在您的设备上处理。Google Play 服务可能会根据 Google 隐私政策收集与这些功能相关的诊断和使用数据。如果应用未内置您手机的语言，自动翻译会通过 Wi‑Fi 下载一次 Google ML Kit 翻译模型，并在设备上翻译界面；任何文字都不会离开设备。
 
 6. 广告（免费版）
-免费版通过 Google AdMob 在首页、文件和工具界面底部显示横幅广告，并在工具完成处理后偶尔显示全屏广告。阅读或编辑文档时不会显示广告。在欧洲经济区和英国，会先征求您的同意，您可以在设置中更改选择。AdMob 可能会收集广告 ID 等设备标识符、根据 IP 地址推断的大致位置以及广告互动数据，用于投放和衡量广告。详见 policies.google.com/technologies/ads。
+免费版通过 Google AdMob 在首页、文件和工具界面底部显示横幅广告，并在工具完成处理后偶尔显示全屏广告。阅读或编辑文档时不会显示广告。在欧洲经济区和英国，会先征求您的同意，您可以在设置中更改选择。AdMob 可能会收集广告 ID 等设备标识符、根据 IP 地址推断的大致位置以及广告互动数据，用于投放和衡量广告。详见 policies.google.com/technologies/ads。 如果想不购买就使用一次 Pro 工具，可以选择观看激励广告；只有在你点按时才会显示。
 
 7. 购买
 如果您购买无广告的 Pro 版，付款由 Google Play 处理。应用只会收到购买是否有效的信息。 年度订阅会通过 Google Play 自动续订，直到你在 Google Play › 订阅中取消。

@@ -32,12 +32,13 @@ G = {
         ]),
         ("Herramientas", [
             "La pestaña **{tools_title}** agrupa las herramientas por categoría; usa el buscador de arriba para encontrarlas rápido.",
-            "Edición: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Edición: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Conversión: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Seguridad: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Escaneo: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Archivos e imágenes: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: el vídeo se reproduce en el proyector o la TV y en el teléfono quedan reproducir/pausa, saltos de 10 segundos y pantalla negra/blanca. También puedes abrir vídeos desde otras apps.",
+            "Herramientas marcadas **PRO**: mira un anuncio para usar una vez o consigue Pro (anual o de por vida) en {settings_title}.",
             "Toca la ☆ en la esquina de una herramienta: aparecerá en la segunda fila de la pantalla de inicio y en el menú rápido.",
         ]),
         ("Notas de voz", [

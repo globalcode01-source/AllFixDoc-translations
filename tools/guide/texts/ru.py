@@ -32,12 +32,13 @@ G = {
         ]),
         ("Инструменты", [
             "На вкладке **{tools_title}** инструменты разбиты по категориям; поиск вверху помогает быстро найти нужный.",
-            "Редактирование: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Редактирование: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Преобразование: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Безопасность: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Сканирование: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Файлы и изображения: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: видео идёт на проектор или ТВ, а на телефоне остаются воспроизведение/пауза, перемотка на 10 секунд и чёрный/белый экран. Видео можно открыть и из других приложений.",
+            "Инструменты с меткой **PRO**: посмотрите рекламу, чтобы использовать один раз, или оформите Pro (на год или навсегда) в разделе {settings_title}.",
             "Нажмите ☆ в углу инструмента: он появится во второй строке главного экрана и в быстром меню.",
         ]),
         ("Голосовые заметки", [

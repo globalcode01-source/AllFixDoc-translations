@@ -658,6 +658,17 @@ S = {
     "tool_compare_none": ("No text differences", "Metin farkı yok"),
     "tool_compare_file": ("comparison", "karsilastirma"),
     "tool_crop": ("Crop pages", "Sayfaları kırp"),
+    "tool_remove_blank": ('Remove blank pages', 'Boş sayfaları sil'),
+    "tool_remove_blank_desc": ('Delete empty pages left by scanning', 'Taramadan kalan boş sayfaları siler'),
+    "tool_remove_blank_done": ('Blank pages removed', 'Boş sayfalar silindi'),
+    "tool_remove_blank_count": ('%1$d blank pages removed', '%1$d boş sayfa silindi'),
+    "tool_remove_blank_none": ('No blank pages found in this PDF.', "Bu PDF'te boş sayfa bulunamadı."),
+    "tool_remove_blank_all": ('Every page looks blank, so nothing was removed.', 'Bütün sayfalar boş görünüyor, hiçbir şey silinmedi.'),
+    "tool_remove_blank_suffix": ('no-blank', 'bos-sayfasiz'),
+    "pro_watch_ad": ('Watch an ad, use it once for free', 'Reklam izle, bir kez ücretsiz kullan'),
+    "pro_ad_loading": ('Loading ad…', 'Reklam yükleniyor…'),
+    "pro_or_get": ('or get Pro:', "ya da Pro'ya geç:"),
+    "pro_ad_needs_consent": ('To use it once by watching an ad, turn on ad permission in %1$s.', 'Reklam izleyerek bir kez kullanmak istersen %1$s bölümünden reklam iznini açabilirsin.'),
     "tool_crop_desc": ("Trim margins or blank edges", "Kenar boşluklarını ya da boş kenarları kes"),
     "tool_crop_done": ("Pages cropped", "Sayfalar kırpıldı"),
     "tool_crop_suffix": ("cropped", "kirpilmis"),
@@ -815,7 +826,7 @@ The AI assistant works only after you add an API key for the service you choose:
 OCR, QR and barcode reading and document scanning use Google ML Kit through Google Play services. Images are processed on your device. Google Play services may collect diagnostic and usage information about these features under Google's privacy policy. If your phone's language isn't built into the app, the automatic translation downloads a Google ML Kit translation model once (over Wi‑Fi) and translates the interface on your device; no text leaves the device.
 
 6. Advertising (free version)
-The free version shows banner ads at the bottom of the Home, Files and Tools screens through Google AdMob, and occasionally a full-screen ad after a tool finishes its work. No ads are shown while you read or edit documents. In the European Economic Area and the UK you're asked for consent first, and you can change your choice in Settings. AdMob may collect device identifiers such as the advertising ID, approximate location derived from your IP address and ad interaction data to show and measure ads. See policies.google.com/technologies/ads.
+The free version shows banner ads at the bottom of the Home, Files and Tools screens through Google AdMob, and occasionally a full-screen ad after a tool finishes its work. No ads are shown while you read or edit documents. In the European Economic Area and the UK you're asked for consent first, and you can change your choice in Settings. AdMob may collect device identifiers such as the advertising ID, approximate location derived from your IP address and ad interaction data to show and measure ads. See policies.google.com/technologies/ads. If you want to use a Pro tool once without buying, you can choose to watch a rewarded ad; it is only shown when you tap it.
 
 7. Purchases
 If you buy the ad-free Pro version, payment is handled by Google Play. The app only receives whether the purchase is active. The yearly subscription renews automatically through Google Play until you cancel it in Google Play › Subscriptions.
@@ -853,7 +864,7 @@ AI asistanı yalnızca seçtiğin servis için bir API anahtarı eklersen çalı
 OCR, QR ve barkod okuma ile belge tarama, Google Play hizmetleri üzerinden Google ML Kit'i kullanır. Görüntüler cihazında işlenir. Google Play hizmetleri bu özelliklerle ilgili tanılama ve kullanım bilgilerini Google'ın gizlilik politikası kapsamında toplayabilir. Telefonunun dili uygulamada yoksa otomatik çeviri, Google ML Kit çeviri modelini bir kez (Wi‑Fi'de) indirir ve arayüzü cihazında çevirir; hiçbir metin cihazdan çıkmaz.
 
 6. Reklamlar (ücretsiz sürüm)
-Ücretsiz sürüm, Google AdMob üzerinden Ana sayfa, Dosyalar ve Araçlar ekranlarının altında banner reklam, bir araç işini bitirdiğinde de ara sıra tam ekran reklam gösterir. Belge okurken ya da düzenlerken reklam gösterilmez. Avrupa Ekonomik Alanı ve Birleşik Krallık'ta önce iznin istenir; tercihini Ayarlar'dan değiştirebilirsin. AdMob, reklamları göstermek ve ölçmek için reklam kimliği gibi cihaz tanımlayıcılarını, IP adresinden çıkarılan yaklaşık konumu ve reklam etkileşimlerini toplayabilir. Ayrıntılar: policies.google.com/technologies/ads.
+Ücretsiz sürüm, Google AdMob üzerinden Ana sayfa, Dosyalar ve Araçlar ekranlarının altında banner reklam, bir araç işini bitirdiğinde de ara sıra tam ekran reklam gösterir. Belge okurken ya da düzenlerken reklam gösterilmez. Avrupa Ekonomik Alanı ve Birleşik Krallık'ta önce iznin istenir; tercihini Ayarlar'dan değiştirebilirsin. AdMob, reklamları göstermek ve ölçmek için reklam kimliği gibi cihaz tanımlayıcılarını, IP adresinden çıkarılan yaklaşık konumu ve reklam etkileşimlerini toplayabilir. Ayrıntılar: policies.google.com/technologies/ads. Bir Pro aracını satın almadan bir kez kullanmak istersen ödüllü bir reklam izlemeyi seçebilirsin; bu reklam yalnızca sen dokunduğunda gösterilir.
 
 7. Satın almalar
 Reklamsız Pro sürümü satın alırsan ödeme Google Play tarafından işlenir. Uygulama yalnızca satın almanın etkin olup olmadığını öğrenir. Yıllık abonelik, Google Play › Abonelikler'den iptal edene kadar Google Play üzerinden otomatik yenilenir.

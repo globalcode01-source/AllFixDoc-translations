@@ -32,12 +32,13 @@ G = {
         ]),
         ("Werkzeuge", [
             "Der Bereich **{tools_title}** ordnet die Werkzeuge nach Kategorien; mit dem Suchfeld oben findest du sie schnell.",
-            "Bearbeiten: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Bearbeiten: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Umwandeln: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Sicherheit: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Scannen: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Dateien und Bilder: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: Das Video läuft auf Beamer oder TV, auf dem Handy bleiben Wiedergabe/Pause, 10 Sekunden vor/zurück und Schwarz-/Weißbild. Videos lassen sich auch aus anderen Apps öffnen.",
+            "Mit **PRO** markierte Werkzeuge: einmal per Werbung nutzen oder Pro (jährlich oder dauerhaft) unter {settings_title} holen.",
             "Tippe auf den ☆ in der Ecke eines Werkzeugs: Es erscheint dann in der zweiten Leiste der Startseite und im Schnellmenü.",
         ]),
         ("Sprachnotizen", [

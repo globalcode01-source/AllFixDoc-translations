@@ -32,12 +32,13 @@ G = {
         ]),
         ("ツール", [
             "**{tools_title}** タブではツールがカテゴリ別に並び、上部の検索ですばやく見つけられます。",
-            "編集：{tool_merge}、{tool_split}、{tool_compress}、{tool_organize}、{tool_watermark}、{tool_page_numbers}、{tool_header_footer}、{tool_crop}、{tool_compare}。",
+            "編集：{tool_merge}、{tool_split}、{tool_compress}、{tool_organize}、{tool_watermark}、{tool_page_numbers}、{tool_header_footer}、{tool_crop}、{tool_compare}、{tool_remove_blank}。",
             "変換：{tool_images}、{tool_pdf_to_image}、{tool_office_pdf}、{tool_pdf_word}、{tool_pdf_excel}、{tool_pdf_ppt}、{tool_pdfa}、{tool_extract_images}、{tool_print}。",
             "セキュリティ：{tool_protect}、{tool_unprotect}、{tool_cert_sign}。",
             "スキャン：{tool_scan}、{tool_qr}、{tool_qr_create}。",
             "ファイルと画像：{tool_zip_create}、{tool_zip_extract}、{tool_img_compress}、{tool_img_resize}、{tool_img_convert}、{tool_gif_create}、{tool_gif_frames}。",
             "**{tool_video_project}**：動画はプロジェクターやテレビで再生され、スマホには再生/一時停止、10 秒スキップ、黒/白画面の操作が残ります。ほかのアプリから動画を開くこともできます。",
+            "**PRO** マークのツール：広告を見て1回使うか、{settings_title} で Pro（年額または買い切り）にできます。",
             "ツールの隅の ☆ をタップすると、ホーム画面の 2 行目とクイックメニューに表示されます。",
         ]),
         ("音声メモ", [

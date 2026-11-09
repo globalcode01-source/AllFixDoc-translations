@@ -549,6 +549,17 @@ T = {
     "tool_compare_none": "Aucune différence de texte",
     "tool_compare_file": "comparaison",
     "tool_crop": "Rogner les pages",
+    "tool_remove_blank": 'Supprimer les pages blanches',
+    "tool_remove_blank_desc": 'Supprime les pages vides laissées par la numérisation',
+    "tool_remove_blank_done": 'Pages blanches supprimées',
+    "tool_remove_blank_count": '%1$d pages blanches supprimées',
+    "tool_remove_blank_none": 'Aucune page blanche trouvée dans ce PDF.',
+    "tool_remove_blank_all": "Toutes les pages semblent vides, rien n'a été supprimé.",
+    "tool_remove_blank_suffix": 'sans-blanches',
+    "pro_watch_ad": "Regarder une pub, l'utiliser une fois gratuitement",
+    "pro_ad_loading": 'Chargement de la pub…',
+    "pro_or_get": 'ou passez à Pro :',
+    "pro_ad_needs_consent": "Pour l'utiliser une fois en regardant une pub, activez l'autorisation publicitaire dans %1$s.",
     "tool_crop_desc": "Couper les marges ou les bords vides",
     "tool_crop_done": "Pages rognées",
     "tool_crop_suffix": "rogne",
@@ -686,7 +697,7 @@ L'assistant IA ne fonctionne qu'après l'ajout d'une clé API pour le service ch
 L'OCR, la lecture des codes QR et des codes-barres et la numérisation de documents utilisent Google ML Kit via les services Google Play. Les images sont traitées sur votre appareil. Les services Google Play peuvent collecter des informations de diagnostic et d'utilisation sur ces fonctionnalités conformément à la politique de confidentialité de Google. Si la langue de votre téléphone n'est pas intégrée à l'app, la traduction automatique télécharge une fois (en Wi‑Fi) un modèle de traduction Google ML Kit et traduit l'interface sur votre appareil ; aucun texte ne quitte l'appareil.
 
 6. Publicité (version gratuite)
-La version gratuite affiche via Google AdMob des bannières publicitaires en bas des écrans Accueil, Fichiers et Outils, et parfois une publicité plein écran lorsqu'un outil a terminé son travail. Aucune publicité n'est affichée pendant que vous lisez ou modifiez des documents. Dans l'Espace économique européen et au Royaume-Uni, votre consentement est demandé au préalable, et vous pouvez modifier votre choix dans les paramètres. AdMob peut collecter des identifiants de l'appareil comme l'identifiant publicitaire, une position approximative déduite de votre adresse IP et des données d'interaction avec les annonces afin de les afficher et de les mesurer. Voir policies.google.com/technologies/ads.
+La version gratuite affiche via Google AdMob des bannières publicitaires en bas des écrans Accueil, Fichiers et Outils, et parfois une publicité plein écran lorsqu'un outil a terminé son travail. Aucune publicité n'est affichée pendant que vous lisez ou modifiez des documents. Dans l'Espace économique européen et au Royaume-Uni, votre consentement est demandé au préalable, et vous pouvez modifier votre choix dans les paramètres. AdMob peut collecter des identifiants de l'appareil comme l'identifiant publicitaire, une position approximative déduite de votre adresse IP et des données d'interaction avec les annonces afin de les afficher et de les mesurer. Voir policies.google.com/technologies/ads. Si vous voulez utiliser un outil Pro une fois sans l'acheter, vous pouvez choisir de regarder une publicité avec récompense ; elle ne s'affiche que si vous la demandez.
 
 7. Achats
 Si vous achetez la version Pro sans publicité, le paiement est géré par Google Play. L'application reçoit uniquement l'information indiquant si l'achat est actif. L'abonnement annuel se renouvelle automatiquement via Google Play jusqu'à ce que vous le résiliiez dans Google Play › Abonnements.

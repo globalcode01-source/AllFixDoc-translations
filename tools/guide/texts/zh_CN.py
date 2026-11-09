@@ -32,12 +32,13 @@ G = {
         ]),
         ("工具", [
             "**{tools_title}** 标签页按类别整理工具，可用顶部的搜索框快速查找。",
-            "编辑：{tool_merge}、{tool_split}、{tool_compress}、{tool_organize}、{tool_watermark}、{tool_page_numbers}、{tool_header_footer}、{tool_crop}、{tool_compare}。",
+            "编辑：{tool_merge}、{tool_split}、{tool_compress}、{tool_organize}、{tool_watermark}、{tool_page_numbers}、{tool_header_footer}、{tool_crop}、{tool_compare}、{tool_remove_blank}。",
             "转换：{tool_images}、{tool_pdf_to_image}、{tool_office_pdf}、{tool_pdf_word}、{tool_pdf_excel}、{tool_pdf_ppt}、{tool_pdfa}、{tool_extract_images}、{tool_print}。",
             "安全：{tool_protect}、{tool_unprotect}、{tool_cert_sign}。",
             "扫描：{tool_scan}、{tool_qr}、{tool_qr_create}。",
             "文件与图片：{tool_zip_create}、{tool_zip_extract}、{tool_img_compress}、{tool_img_resize}、{tool_img_convert}、{tool_gif_create}、{tool_gif_frames}。",
             "**{tool_video_project}**：视频在投影仪或电视上播放，手机上保留播放/暂停、前后跳 10 秒和黑屏/白屏。也可以从其他应用打开视频。",
+            "标有 **PRO** 的工具：观看广告可使用一次，或在 {settings_title} 中获取 Pro（按年或终身）。",
             "点按工具角上的 ☆：它会出现在主屏幕的第二行和快捷菜单中。",
         ]),
         ("语音笔记", [

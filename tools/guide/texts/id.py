@@ -32,12 +32,13 @@ G = {
         ]),
         ("Alat", [
             "Tab **{tools_title}** mengelompokkan alat menurut kategori; gunakan kotak pencarian di atas untuk menemukannya dengan cepat.",
-            "Pengeditan: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Pengeditan: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Konversi: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Keamanan: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Pemindaian: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "File dan gambar: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: video diputar di proyektor atau TV, ponsel tetap memegang putar/jeda, lompat 10 detik, dan layar hitam/putih. Video juga bisa dibuka dari aplikasi lain.",
+            "Alat bertanda **PRO**: tonton iklan untuk memakainya sekali, atau dapatkan Pro (tahunan atau seumur hidup) di {settings_title}.",
             "Ketuk ☆ di sudut alat: alat itu akan muncul di baris kedua layar beranda dan di menu cepat.",
         ]),
         ("Catatan suara", [

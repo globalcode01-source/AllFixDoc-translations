@@ -32,12 +32,13 @@ G = {
         ]),
         ("Alətlər", [
             "**{tools_title}** bölməsində alətlər kateqoriyalara ayrılıb; yuxarıdakı axtarış qutusu ilə tez tapın.",
-            "Redaktə: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Redaktə: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Çevirmə: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Təhlükəsizlik: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Skan: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Fayl və şəkil: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: video proyektorda və ya TV-də oynayır; telefonda oynat/dayandır, 10 saniyə irəli/geri və qara/ağ ekran qalır. Videoları başqa tətbiqlərdən də aça bilərsiniz.",
+            "**PRO** işarəli alətlər: reklam izləyərək bir dəfə istifadə edin və ya {settings_title} bölməsindən Pro-ya (illik və ya ömürlük) keçin.",
             "Alətin küncündəki ☆ işarəsinə toxunun: alət ana səhifənin ikinci sətrində və sürətli menyuda görünür.",
         ]),
         ("Səsli qeydlər", [

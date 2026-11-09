@@ -32,12 +32,13 @@ G = {
         ]),
         ("الأدوات", [
             "يجمع تبويب **{tools_title}** الأدوات حسب الفئة؛ استخدم مربع البحث في الأعلى للعثور عليها بسرعة.",
-            "التحرير: {tool_merge}، {tool_split}، {tool_compress}، {tool_organize}، {tool_watermark}، {tool_page_numbers}، {tool_header_footer}، {tool_crop}، {tool_compare}.",
+            "التحرير: {tool_merge}، {tool_split}، {tool_compress}، {tool_organize}، {tool_watermark}، {tool_page_numbers}، {tool_header_footer}، {tool_crop}، {tool_compare}، {tool_remove_blank}.",
             "التحويل: {tool_images}، {tool_pdf_to_image}، {tool_office_pdf}، {tool_pdf_word}، {tool_pdf_excel}، {tool_pdf_ppt}، {tool_pdfa}، {tool_extract_images}، {tool_print}.",
             "الأمان: {tool_protect}، {tool_unprotect}، {tool_cert_sign}.",
             "المسح الضوئي: {tool_scan}، {tool_qr}، {tool_qr_create}.",
             "الملفات والصور: {tool_zip_create}، {tool_zip_extract}، {tool_img_compress}، {tool_img_resize}، {tool_img_convert}، {tool_gif_create}، {tool_gif_frames}.",
             "**{tool_video_project}**: يُعرض الفيديو على جهاز العرض أو التلفاز، ويبقى على الهاتف التشغيل/الإيقاف المؤقت والتقديم أو الرجوع 10 ثوانٍ والشاشة السوداء/البيضاء. ويمكنك أيضًا فتح مقاطع الفيديو من تطبيقات أخرى.",
+            "الأدوات المعلّمة **PRO**: شاهد إعلانًا لاستخدامها مرة واحدة، أو احصل على Pro (سنوي أو مدى الحياة) من {settings_title}.",
             "المس ☆ في زاوية الأداة: ستظهر في الصف الثاني من الشاشة الرئيسية وفي القائمة السريعة.",
         ]),
         ("الملاحظات الصوتية", [

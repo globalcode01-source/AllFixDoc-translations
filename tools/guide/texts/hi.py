@@ -32,12 +32,13 @@ G = {
         ]),
         ("टूल", [
             "**{tools_title}** टैब में टूल श्रेणियों में बँटे हैं; ऊपर के खोज बॉक्स से जल्दी ढूँढें।",
-            "संपादन: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}।",
+            "संपादन: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}।",
             "रूपांतरण: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}।",
             "सुरक्षा: {tool_protect}, {tool_unprotect}, {tool_cert_sign}।",
             "स्कैन: {tool_scan}, {tool_qr}, {tool_qr_create}।",
             "फ़ाइल और इमेज: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}।",
             "**{tool_video_project}**: वीडियो प्रोजेक्टर या टीवी पर चलता है, और फ़ोन पर चलाएँ/रोकें, 10 सेकंड आगे/पीछे और काली/सफ़ेद स्क्रीन रहती है। दूसरे ऐप से भी वीडियो खोले जा सकते हैं।",
+            "**PRO** वाले टूल: विज्ञापन देखकर एक बार इस्तेमाल करें, या {settings_title} में Pro (सालाना या हमेशा के लिए) लें।",
             "किसी टूल के कोने में ☆ पर टैप करें: वह होम स्क्रीन की दूसरी पंक्ति और क्विक मेन्यू में दिखेगा।",
         ]),
         ("वॉइस नोट", [

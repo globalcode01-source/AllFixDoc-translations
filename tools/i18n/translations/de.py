@@ -549,6 +549,17 @@ T = {
     "tool_compare_none": "Keine Textunterschiede",
     "tool_compare_file": "vergleich",
     "tool_crop": "Seiten zuschneiden",
+    "tool_remove_blank": 'Leere Seiten entfernen',
+    "tool_remove_blank_desc": 'Löscht leere Seiten aus Scans',
+    "tool_remove_blank_done": 'Leere Seiten entfernt',
+    "tool_remove_blank_count": '%1$d leere Seiten entfernt',
+    "tool_remove_blank_none": 'In diesem PDF wurden keine leeren Seiten gefunden.',
+    "tool_remove_blank_all": 'Alle Seiten wirken leer, daher wurde nichts entfernt.',
+    "tool_remove_blank_suffix": 'ohne-leerseiten',
+    "pro_watch_ad": 'Werbung ansehen, einmal kostenlos nutzen',
+    "pro_ad_loading": 'Werbung wird geladen …',
+    "pro_or_get": 'oder Pro holen:',
+    "pro_ad_needs_consent": 'Um es einmal per Werbung zu nutzen, aktiviere die Werbeerlaubnis unter %1$s.',
     "tool_crop_desc": "Ränder oder leere Kanten entfernen",
     "tool_crop_done": "Seiten zugeschnitten",
     "tool_crop_suffix": "zugeschnitten",
@@ -686,7 +697,7 @@ Der KI-Assistent funktioniert erst, wenn du einen API-Schlüssel für den gewäh
 OCR, das Lesen von QR- und Barcodes sowie das Scannen von Dokumenten nutzen Google ML Kit über die Google Play-Dienste. Bilder werden auf deinem Gerät verarbeitet. Die Google Play-Dienste können gemäß der Datenschutzerklärung von Google Diagnose- und Nutzungsdaten zu diesen Funktionen erheben. Ist die Sprache deines Handys nicht in der App enthalten, lädt die automatische Übersetzung einmalig (über WLAN) ein Übersetzungsmodell von Google ML Kit und übersetzt die Oberfläche auf deinem Gerät; kein Text verlässt das Gerät.
 
 6. Werbung (kostenlose Version)
-Die kostenlose Version zeigt über Google AdMob Werbebanner unten auf den Bildschirmen Start, Dateien und Werkzeuge und gelegentlich eine Vollbildanzeige, nachdem ein Werkzeug fertig ist. Beim Lesen oder Bearbeiten von Dokumenten wird keine Werbung angezeigt. Im Europäischen Wirtschaftsraum und im Vereinigten Königreich wirst du zuerst um Einwilligung gebeten und kannst deine Wahl in den Einstellungen ändern. AdMob kann Gerätekennungen wie die Werbe-ID, einen aus deiner IP-Adresse abgeleiteten ungefähren Standort und Daten zu Anzeigeninteraktionen erheben, um Anzeigen auszuliefern und zu messen. Siehe policies.google.com/technologies/ads.
+Die kostenlose Version zeigt über Google AdMob Werbebanner unten auf den Bildschirmen Start, Dateien und Werkzeuge und gelegentlich eine Vollbildanzeige, nachdem ein Werkzeug fertig ist. Beim Lesen oder Bearbeiten von Dokumenten wird keine Werbung angezeigt. Im Europäischen Wirtschaftsraum und im Vereinigten Königreich wirst du zuerst um Einwilligung gebeten und kannst deine Wahl in den Einstellungen ändern. AdMob kann Gerätekennungen wie die Werbe-ID, einen aus deiner IP-Adresse abgeleiteten ungefähren Standort und Daten zu Anzeigeninteraktionen erheben, um Anzeigen auszuliefern und zu messen. Siehe policies.google.com/technologies/ads. Wenn du ein Pro-Werkzeug einmal ohne Kauf nutzen möchtest, kannst du eine Werbung mit Belohnung ansehen; sie erscheint nur, wenn du darauf tippst.
 
 7. Käufe
 Wenn du die werbefreie Pro-Version kaufst, wird die Zahlung über Google Play abgewickelt. Die App erhält nur die Information, ob der Kauf aktiv ist. Das Jahresabo verlängert sich über Google Play automatisch, bis du es in Google Play › Abos kündigst.

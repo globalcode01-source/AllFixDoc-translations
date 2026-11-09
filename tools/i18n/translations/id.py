@@ -549,6 +549,17 @@ T = {
     "tool_compare_none": "Tidak ada perbedaan teks",
     "tool_compare_file": "perbandingan",
     "tool_crop": "Pangkas halaman",
+    "tool_remove_blank": 'Hapus halaman kosong',
+    "tool_remove_blank_desc": 'Menghapus halaman kosong sisa pemindaian',
+    "tool_remove_blank_done": 'Halaman kosong dihapus',
+    "tool_remove_blank_count": '%1$d halaman kosong dihapus',
+    "tool_remove_blank_none": 'Tidak ada halaman kosong di PDF ini.',
+    "tool_remove_blank_all": 'Semua halaman tampak kosong, jadi tidak ada yang dihapus.',
+    "tool_remove_blank_suffix": 'tanpa-kosong',
+    "pro_watch_ad": 'Tonton iklan, gunakan sekali gratis',
+    "pro_ad_loading": 'Memuat iklan…',
+    "pro_or_get": 'atau dapatkan Pro:',
+    "pro_ad_needs_consent": 'Untuk memakainya sekali dengan menonton iklan, aktifkan izin iklan di %1$s.',
     "tool_crop_desc": "Pangkas margin atau tepi kosong",
     "tool_crop_done": "Halaman dipangkas",
     "tool_crop_suffix": "dipangkas",
@@ -686,7 +697,7 @@ Asisten AI hanya bekerja setelah Anda menambahkan kunci API untuk layanan yang d
 OCR, pembacaan kode QR dan barcode, serta pemindaian dokumen menggunakan Google ML Kit melalui layanan Google Play. Gambar diproses di perangkat Anda. Layanan Google Play dapat mengumpulkan data diagnostik dan penggunaan fitur ini sesuai kebijakan privasi Google. Jika bahasa ponsel Anda tidak tersedia di aplikasi, terjemahan otomatis mengunduh model terjemahan Google ML Kit sekali (lewat Wi‑Fi) dan menerjemahkan antarmuka di perangkat; tidak ada teks yang keluar dari perangkat.
 
 6. Iklan (versi gratis)
-Versi gratis menampilkan iklan banner di bagian bawah layar Beranda, File, dan Alat melalui Google AdMob, dan sesekali iklan layar penuh setelah sebuah alat selesai bekerja. Tidak ada iklan saat Anda membaca atau mengedit dokumen. Di Wilayah Ekonomi Eropa dan Inggris, persetujuan Anda diminta terlebih dahulu dan Anda dapat mengubah pilihan di Setelan. AdMob dapat mengumpulkan pengenal perangkat seperti ID iklan, perkiraan lokasi dari alamat IP, dan data interaksi iklan untuk menayangkan dan mengukur iklan. Lihat policies.google.com/technologies/ads.
+Versi gratis menampilkan iklan banner di bagian bawah layar Beranda, File, dan Alat melalui Google AdMob, dan sesekali iklan layar penuh setelah sebuah alat selesai bekerja. Tidak ada iklan saat Anda membaca atau mengedit dokumen. Di Wilayah Ekonomi Eropa dan Inggris, persetujuan Anda diminta terlebih dahulu dan Anda dapat mengubah pilihan di Setelan. AdMob dapat mengumpulkan pengenal perangkat seperti ID iklan, perkiraan lokasi dari alamat IP, dan data interaksi iklan untuk menayangkan dan mengukur iklan. Lihat policies.google.com/technologies/ads. Jika ingin memakai alat Pro sekali tanpa membeli, Anda bisa memilih menonton iklan berhadiah; iklan ini hanya muncul saat Anda mengetuknya.
 
 7. Pembelian
 Jika Anda membeli versi Pro tanpa iklan, pembayaran diproses oleh Google Play. Aplikasi hanya menerima informasi apakah pembelian aktif. Langganan tahunan diperpanjang otomatis melalui Google Play sampai Anda membatalkannya di Google Play › Langganan.

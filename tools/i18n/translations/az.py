@@ -549,6 +549,17 @@ T = {
     "tool_compare_none": "Mətn fərqi yoxdur",
     "tool_compare_file": "muqayise",
     "tool_crop": "Səhifələri kəs",
+    "tool_remove_blank": 'Boş səhifələri sil',
+    "tool_remove_blank_desc": 'Skandan qalan boş səhifələri silir',
+    "tool_remove_blank_done": 'Boş səhifələr silindi',
+    "tool_remove_blank_count": '%1$d boş səhifə silindi',
+    "tool_remove_blank_none": 'Bu PDF-də boş səhifə tapılmadı.',
+    "tool_remove_blank_all": 'Bütün səhifələr boş görünür, heç nə silinmədi.',
+    "tool_remove_blank_suffix": 'bos-sehifesiz',
+    "pro_watch_ad": 'Reklam izlə, bir dəfə pulsuz istifadə et',
+    "pro_ad_loading": 'Reklam yüklənir…',
+    "pro_or_get": 'və ya Pro-ya keç:',
+    "pro_ad_needs_consent": 'Reklam izləyərək bir dəfə istifadə etmək üçün %1$s bölməsindən reklam icazəsini aça bilərsiniz.',
     "tool_crop_desc": "Kənar boşluqlarını və ya boş kənarları kəs",
     "tool_crop_done": "Səhifələr kəsildi",
     "tool_crop_suffix": "kesilmis",
@@ -686,7 +697,7 @@ AI assistenti yalnız seçdiyiniz xidmət üçün API açarı əlavə etdikdən 
 OCR, QR və barkod oxuma və sənəd skanı Google Play xidmətləri vasitəsilə Google ML Kit-dən istifadə edir. Şəkillər cihazınızda emal olunur. Google Play xidmətləri Google-un məxfilik siyasətinə uyğun olaraq bu funksiyalarla bağlı diaqnostika və istifadə məlumatları toplaya bilər. Telefonunuzun dili tətbiqdə yoxdursa, avtomatik tərcümə Google ML Kit tərcümə modelini bir dəfə (Wi‑Fi ilə) endirir və interfeysi cihazınızda tərcümə edir; heç bir mətn cihazdan çıxmır.
 
 6. Reklamlar (pulsuz versiya)
-Pulsuz versiya Google AdMob vasitəsilə Ana səhifə, Fayllar və Alətlər ekranlarının altında banner reklam, bir alət işini bitirəndə isə bəzən tam ekran reklam göstərir. Sənəd oxuyarkən və ya redaktə edərkən reklam göstərilmir. Avropa İqtisadi Zonasında və Birləşmiş Krallıqda əvvəlcə razılığınız soruşulur və seçiminizi Ayarlarda dəyişə bilərsiniz. AdMob reklamları göstərmək və ölçmək üçün reklam ID-si kimi cihaz identifikatorlarını, IP ünvanından təxmin edilən təqribi məkanı və reklam qarşılıqlı əlaqə məlumatlarını toplaya bilər. Bax: policies.google.com/technologies/ads.
+Pulsuz versiya Google AdMob vasitəsilə Ana səhifə, Fayllar və Alətlər ekranlarının altında banner reklam, bir alət işini bitirəndə isə bəzən tam ekran reklam göstərir. Sənəd oxuyarkən və ya redaktə edərkən reklam göstərilmir. Avropa İqtisadi Zonasında və Birləşmiş Krallıqda əvvəlcə razılığınız soruşulur və seçiminizi Ayarlarda dəyişə bilərsiniz. AdMob reklamları göstərmək və ölçmək üçün reklam ID-si kimi cihaz identifikatorlarını, IP ünvanından təxmin edilən təqribi məkanı və reklam qarşılıqlı əlaqə məlumatlarını toplaya bilər. Bax: policies.google.com/technologies/ads. Pro alətini almadan bir dəfə istifadə etmək istəsəniz, mükafatlı reklam izləməyi seçə bilərsiniz; o yalnız siz toxunanda göstərilir.
 
 7. Alışlar
 Reklamsız Pro versiyasını alsanız, ödəniş Google Play tərəfindən emal olunur. Tətbiq yalnız alışın aktiv olub-olmadığı məlumatını alır. İllik abunəlik Google Play › Abunəliklər bölməsindən ləğv edənə qədər Google Play vasitəsilə avtomatik yenilənir.

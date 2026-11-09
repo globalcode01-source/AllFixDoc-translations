@@ -32,12 +32,13 @@ G = {
         ]),
         ("Strumenti", [
             "La scheda **{tools_title}** raggruppa gli strumenti per categoria; usa la ricerca in alto per trovarli subito.",
-            "Modifica: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Modifica: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Conversione: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Sicurezza: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Scansione: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "File e immagini: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: il video va sul proiettore o sulla TV, sul telefono restano play/pausa, salti di 10 secondi e schermo nero/bianco. Puoi aprire video anche da altre app.",
+            "Strumenti con **PRO**: guarda un annuncio per usarne uno una volta, oppure passa a Pro (annuale o a vita) in {settings_title}.",
             "Tocca la ☆ nell'angolo di uno strumento: comparirà nella seconda riga della schermata iniziale e nel menu rapido.",
         ]),
         ("Note vocali", [

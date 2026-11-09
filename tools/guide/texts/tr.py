@@ -32,12 +32,13 @@ G = {
         ]),
         ("Araçlar", [
             "**{tools_title}** sekmesinde araçlar kategorilere ayrılmıştır; üstteki arama kutusuyla hızlıca bul.",
-            "Düzenleme: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}.",
+            "Düzenleme: {tool_merge}, {tool_split}, {tool_compress}, {tool_organize}, {tool_watermark}, {tool_page_numbers}, {tool_header_footer}, {tool_crop}, {tool_compare}, {tool_remove_blank}.",
             "Dönüştürme: {tool_images}, {tool_pdf_to_image}, {tool_office_pdf}, {tool_pdf_word}, {tool_pdf_excel}, {tool_pdf_ppt}, {tool_pdfa}, {tool_extract_images}, {tool_print}.",
             "Güvenlik: {tool_protect}, {tool_unprotect}, {tool_cert_sign}.",
             "Tarama: {tool_scan}, {tool_qr}, {tool_qr_create}.",
             "Dosya ve görsel: {tool_zip_create}, {tool_zip_extract}, {tool_img_compress}, {tool_img_resize}, {tool_img_convert}, {tool_gif_create}, {tool_gif_frames}.",
             "**{tool_video_project}**: video projektörde ya da TV'de oynar; telefonda oynat/duraklat, 10 saniye ileri/geri ve siyah/beyaz ekran kalır. Videoları başka uygulamalardan da açabilirsin.",
+            "**PRO** etiketli araçlar: bir reklam izleyerek bir kez kullanabilir ya da {settings_title}'dan Pro'ya (yıllık ya da ömür boyu) geçebilirsin.",
             "Bir aracın köşesindeki ☆ işaretine dokun: araç ana sayfadaki ikinci satırda ve hızlı menüde görünür.",
         ]),
         ("Sesli notlar", [
